@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">99</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49a8e6dc-ed81-4204-8907-9c50fa4086c0</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-04T03:52:32.585557+00:00</dc:date>
+        <dc:description>本期文章:
+
+The world this week
+
+KAL’s cartoon
+
+American politics: The Trump Show, season two
+
+The euro at 20: EUR not safe yet
+
+The future of Syria: Over to you, Vlad
+
+Brazil: A dangerous populist, with some good ideas
+
+Construction: The house made of wood
+
+Letters: Letters to the editor
+
+The euro at 20: Undercooked union
+
+American politics: When Donny met Nancy
+
+Education: Grad inflation
+
+Environmental policy: A mercurial agency
+
+Amazon warehouses: Fulfilling
+
+Somalis in Minnesota: A tale of two cafés
+
+Lexington: General exit
+
+Brazil: Out with the old
+
+Guyana: 2020 division
+
+Bello: The invisible woman
+
+The king of Thailand: A royal pain
+
+Banyan: Wailing whalers prevail
+
+Miss Vietnam: Pâté and prejudice
+
+Afghanistan: Just kidding
+
+Conservation in New Zealand: Hard to swallow
+
+Elections in Bangladesh: Leaving nothing to chance
+
+The anniversary year: Flower power
+
+America and Syria: Disengagement
+
+Coptic Christians: Blue Christmas
+
+Israel’s opposition: Too many challengers
+
+Elections in Congo: Who will win the count?
+
+Dynastic rule in Togo: Knocking Gnassingbé
+
+Europe’s Green parties: Political climate change
+
+Organised crime: Piranhas from Tirana
+
+University admissions: How straight is the gate?
+
+Turkey: In the eye of the storm
+
+Charlemagne: The prima donna continent
+
+Housing and demography: The silver lining
+
+Migration by boat: Not quite an armada
+
+Bagehot: The triumph of the tortoises
+
+Construction and carbon emissions: Home truths about climate change
+
+Childhood: The generation game
+
+History: Little man or little angel?
+
+The family: Essential ingredient
+
+Early years: Plastic brains
+
+Digital media: Primal screens
+
+Parenting: A never-ending task
+
+An unfair world: Conkering inequalities
+
+Sources and acknowledgments
+
+Computer chips: Armed with a crystal ball
+
+Bartleby: The spy who hired me
+
+Europe’s gas supply: Pipe dreams
+
+Video games in China: Game on
+
+Schumpeter: Shirt tales
+
+Markets and the economy: Whoosh
+
+Trade deals: Going it alone
+
+Wine investing: Smoking barrels
+
+Investment research: MiFID 2 turns one
+
+Airport buy-outs: Barbarians at the departure gate
+
+Buttonwood: Desolation and consolation
+
+Dark energy and cosmology: The grand horoscope
+
+Disney goes back to the future: An old new world
+
+Fiction from Trinidad: His brother’s keepers
+
+Calouste Gulbenkian: Fire sales
+
+Water in Asia: After the floods
+
+Johnson: When hipsters ruled the world
+
+Economic data, commodities and markets
+
+America’s House of Representatives: The failure of gerrymandering
+
+Amos Oz: A torn Israeli
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">9fd8643e-702f-4f4b-9461-1f781c0dfd09</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-04T03:52:46.906033+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
