@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">103</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29044df5-8fbc-42de-88f4-074a3fcdaaf1</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-11T01:22:03.862805+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Chinese science: Red moon rising
+
+Politics in Washington: How America’s shutdown ends
+
+Britain’s opposition: Still having its cake
+
+Peak smartphone: Bad news for Apple. Good news for humanity
+
+Pakistan: Praetorian penury
+
+On animal rights, genocide, working, Foucault, Brexit, Santa Claus: Letters to the editor
+
+Pakistan: Tales of self-harm
+
+Governing America: This town, shut down
+
+Health economics: Shopping for a Caesarean
+
+Mischief and policing: Swatting up
+
+#MeToo and conservatism: Sister sledging
+
+Chicago corruption: On the make by the lake
+
+Lexington: John Kasich: conservative orphan
+
+Nicolás Maduro: Six more years?
+
+Wildlife trafficking: Guarding guaras
+
+Bello: Open or closed?
+
+Ageing in Japan: Home help
+
+The king of Malaysia: Monarchical merry-go-round
+
+Anti-meritocracy in India: Quotas for all
+
+Rural Australia: Immigrants in the outback
+
+Banyan: Free and uneasy
+
+The economy: Oh, for an assembly-line job
+
+AIDS: Testing times
+
+Chaguan: Something old, something new
+
+Sudan: “We are all Darfur”
+
+Congo’s election: The Kinshasa surprise
+
+African presidents: Till death do us part
+
+America and Iraq: Crude deals over oil
+
+Agritech in Israel: Silicon makes the desert bloom
+
+Belarus: He had a friend in Minsk
+
+The Orthodox church: A tale of two patriarchs
+
+Polish defence: Fort Trump
+
+Street names: Maiden lanes
+
+France: More égalité than you might think
+
+Cyber-crime: Germany finds G0d
+
+Charlemagne: A Carolingian folly
+
+The opposition: Labour’s Brexit balancing act
+
+The Brexit debate: Can no deal be stopped?
+
+Health reform: No hospital for old men
+
+Britain and Japan: Charm defensive
+
+Philanthropy: Undying loyalty
+
+Britain’s most innovative police chief: Good cop, mad cop
+
+Bagehot: In charge of the asylum
+
+The new missionaries: Soul-savers from the south
+
+Peak smartphone: Cracks in the glass
+
+The future of consumer electronics: Keynote speaker
+
+Bartleby: Permission to speak
+
+The fallout from California’s fires: Money to burn
+
+Carlos Ghosn in court: Wheels of justice
+
+Indonesia’s e-commerce binge: Island shopping
+
+Schumpeter: On the edge of Mordor
+
+Emerging markets: The bears’ clause
+
+Buttonwood: How the mighty fall
+
+Sexism in economics: Study thyself
+
+The World Bank: Jim jumps
+
+European banking: Open plan
+
+American stock exchanges: Crashing the party
+
+Free exchange: Down towns
+
+Chinese science: The great experiment
+
+Russia on film: Prophecies and revelations
+
+Literary posterity: Tales of a suitcase
+
+Bedroom fiction: Teeth and claws
+
+Violence and its aftermath: The price of peace
+
+Economic data, commodities and markets
+
+Burgernomics: Pick of the menu
+
+Herb Kelleher: The high priest of ha ha
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">b61bdf23-1d76-408b-a280-8461275713c0</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-11T01:22:18.352609+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
