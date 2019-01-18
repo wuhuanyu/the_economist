@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21cec687-a94e-4844-a78f-5eda2616d46d</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-18T01:28:20.905611+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+KAL’s cartoon
+
+Business this week
+
+Britain and the European Union: The mother of all messes
+
+Tackling corruption: Judge dread
+
+France and Germany: Engine trouble
+
+China and Hong Kong: One country, two song-sheets
+
+Arms control: Taming terminators
+
+On gerrymandering, mosques, roundabouts, swimming, Minnesota, emus: Letters
+
+Autonomous weapons: Trying to restrain the robots
+
+Presidential authority: Lovin’ it
+
+Shutdown economics: Snowing on the parade
+
+Sororities and fraternities: Toga, toga
+
+A new attorney-general: Barr is no sheep
+
+Health policy: After Obamacare
+
+Lexington: The wild rise of Mick Mulvaney
+
+Canada: Faded romance
+
+Bolivia: Adamant Evo
+
+Bello: Adam Smith in Chile
+
+Indonesia’s economy: Awaiting the fanfare
+
+Politics in Mongolia: Piercing the fog
+
+Transport in Myanmar: Four wheels better
+
+Urbanism in South Korea: The tyranny of the tower block
+
+Banyan: Island dean
+
+Anti-anthem protests in Hong Kong: Tuning out
+
+Relations with Canada: No mercy
+
+Chaguan: Losing hearts and minds
+
+Kenya attacked: Terrorism returns to Nairobi
+
+Repression in Zimbabwe: Under the cover of darkness
+
+Senegal’s presidential election: Plain sailing for Sall
+
+Algerian politics: Who’s got the power?
+
+Asylum-seekers from the Gulf: Voting with their feet
+
+Dissent in Iran: Rebel music
+
+Franco-German relations: State of the nations
+
+Serbia: Ready to join the European Union?
+
+Macedonia and Greece: A new north
+
+Gdansk weeps: Death of a mayor
+
+Charlemagne: Beware the bio-populists
+
+Brexit and Parliament: The Noes have it
+
+Extending Article 50: Extra time—and penalties
+
+Meanwhile, across the Channel: Waiting for Angela
+
+Politics and pints: Me and my Spoons
+
+The Scottish National Party: Saltires and smears
+
+Morgan Motor Company: Blast from the past
+
+Bagehot: The great rescrambling
+
+Chickenomics: Ruling the roost
+
+America’s extraterritorial reach (1): Uncle Sam’s game
+
+Bartleby: Continent cut off
+
+America’s extraterritorial reach (2): The French resolution
+
+Founders’ control: Bezos v Bezos
+
+The global car industry: The big freeze
+
+Schumpeter: Is Google an evil genius?
+
+Chinese debt: So bad it’s good
+
+Banking in America: As you were
+
+The euro zone: Euroboom to eurogloom
+
+Buttonwood: The Albert call
+
+Money-market funds: Sub par
+
+Andrea Orcel and Santander: Deal? No deal
+
+The Canada Pension Plan Investment Board: Moose in the market
+
+Free exchange: Debtor alive
+
+Synthetic biology: New tricks
+
+James Watson: Genetic disorder
+
+Curbing indoor pollution: Clean air act
+
+Global health: The X factor
+
+The Richard Casement internship
+
+Demographic change: People power
+
+The world of work: Nothing to lose but their laptops
+
+Nigerian fiction: Fair is fowl
+
+A venerable enfant terrible: The big cheese
+
+Johnson: Keeping it in the family
+
+Economic data, commodities and markets
+
+Managers in football: Not so special
+
+Geoffrey Langlands: The last Britisher
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f3f9917e-e22a-4acb-b440-0a220a9230a1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-18T01:28:40.940912+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
