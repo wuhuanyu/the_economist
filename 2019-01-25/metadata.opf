@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">831ed18a-d0a8-4925-ab37-bf40b3e580ea</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-25T11:20:30.051252+00:00</dc:date>
+        <dc:description>本期文章:
+
+Business this week
+
+Politics this week
+
+KAL’s cartoon
+
+Global business: Slowbalisation
+
+Drones: Hovering saviour or menace?
+
+Venezuela: Removing Maduro
+
+Democratic Republic of Congo: The great election robbery
+
+Index funds: Beating the pros
+
+On housing, Europe, Britain, Pakistan, the military, Chairman Mao: Letters
+
+Slowbalisation: The global list
+
+Early education: Young Americans
+
+Democrats and democratic socialists: AO, let’s go
+
+Riding bulls: Masculinity on steroids
+
+Foxconn in Wisconsin: Makers and takers
+
+Lexington: Shutdown losers and winners
+
+Venezuela’s crisis: One republic, two presidents
+
+Murder in Brazil: Dying young
+
+Defending Taiwan: Dire strait
+
+Banyan: The mystery of the ballot box
+
+South Korea’s judiciary: Judging the judges
+
+Dress codes in Japan: Defending the nail
+
+Education in India: Roiled academy
+
+Politics in Afghanistan: Shuffling deckhands
+
+Extremism in Indonesia: Undeserving
+
+Foreign students: Silk Rhodes
+
+The judiciary: Politics v the law
+
+Chaguan: Seeing the wood for the trees
+
+Binyamin Netanyahu and the press: “My own media”
+
+Egypt’s new capital: An elephant in the desert
+
+Media freedom: Sword 1, Pen 0
+
+Repression in Zimbabwe: Blood on their hands
+
+Congo’s new president: The man who won the count
+
+Battling superbugs: First, wash your hands
+
+Germany’s economy: Calling time
+
+Trying war crimes: Residual injustices
+
+German trains: Dud on the tracks
+
+Money-laundering: Treasure islands
+
+Charlemagne: Fog in the Channel
+
+Theresa May’s government: The absent agenda
+
+Brexit and Parliament: Unintended consequences
+
+Mike Ashley: Vulture or visionary?
+
+Polygraphs: Testing the test
+
+Nuclear power: Meltdown
+
+Exporting health care: The (Inter)National Health Service
+
+Teesside: Port in a storm
+
+Bagehot: The troubles of Lazarus
+
+Sport and safety: Knocking heads together
+
+Reliance Jio: India’s new Jiography
+
+European industry: The big merger that couldn’t
+
+Bartleby: Woke, not broke
+
+Data protection: Opening salvo
+
+Huawei: Cold-shouldered
+
+Ofo: Kicking the wheels
+
+Schumpeter: A topsy-turvy world
+
+Cyber-insurance: Black swans and fat tails
+
+China’s economy: Slowness is in the eye of the beholder
+
+Monetary policy in Africa: The winding road
+
+Benchmark interest rates: Reference point
+
+Italian banks: Stubborn blemishes
+
+Buttonwood: Wizened of Oz
+
+Regulating auditors: Big numbers
+
+Unwinding quantitative easing: A delicate balance
+
+Free exchange: Situation normal
+
+Combating drones: A new dogfight
+
+Marine biology: Cool cucumbers
+
+Palaeontology: Like clockwork
+
+Modern life: A pressing problem
+
+Trick photography: Out of the shadows
+
+Political theory: The wheel of history
+
+The elite that failed: The Davos delusion
+
+Native American history: Still beating
+
+Urban photography: A schoolroom in the Village
+
+New American fiction: Above us only sky
+
+Economic data, commodities and markets
+
+British universities: Money and meaning
+
+Marcel Azzola: To Parnassus
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">2fee9997-73b5-42cc-94a3-84570ccb0614</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-25T11:20:57.477778+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
