@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">115</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87876753-99d2-45cb-a480-26d05e03c87e</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-01T00:25:00.133133+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+How to intervene: The battle for Venezuela
+
+The war in Afghanistan: Talking to the Taliban
+
+Chinese technology: How to handle Huawei
+
+The Brexit negotiations: Over to EU
+
+Taxing the rich: A way through the warren
+
+On childhood, science, Wetherspoons, Disney, Chicago: Letters
+
+Venezuela: A chance, at last, for liberation
+
+The economy: The day after
+
+Facebook turns 15: Remembrance of posts past
+
+Open government: In search of lost time (and money)
+
+Missile defence: Laser tag
+
+Choosing a mayor: Pennsylvania Idol
+
+The Mueller investigation: Get me Roger Stone
+
+Lexington: Populists on parade
+
+El Salvador’s presidential election: In search of a saviour
+
+Brazil’s dam disaster: Fatal rupture
+
+The trial of Joaquín Guzmán Loera: El Chapo’s final chapter
+
+The war in Afghanistan: Khyber possibility
+
+Naomi Osaka: Hafuway there
+
+Jihadists in the Philippines: Not going quietly
+
+Freedom of religion v assembly: Religion in Pakistan
+
+Australian politics: Sex and the subcommittee
+
+Banyan: Belt and goad
+
+Baijiu: Spirit of the pits
+
+Chaguan: The politics of pigs
+
+Drugs in Africa: Heroin highways
+
+Drugs in Africa (2): Of puritans and pain
+
+Electioneering in Nigeria: Above the law
+
+Lebanon’s economy: Default settings
+
+Gracing an autocracy: Pilgrims in the Gulf
+
+Defence: The paper Euro-army
+
+Geopolitics: How the Baltics resist Russia
+
+Spain: Justice in the dock
+
+Wildlife: The marten menace
+
+France: From protest to party
+
+Turkey’s oddest ghost town: A Turkish ghost town
+
+Charlemagne: Varoufakis Sans Frontières
+
+Brexit and Parliament: Theresa’s temporary triumph
+
+Labour and Latin America: ¡Hasta la victoria Corbynista!
+
+Business and Brexit: Dealing with no deal
+
+Public transport: Off the buses
+
+The economics of rent controls: Low-rent plan
+
+Digital health: A doctor in your pocket
+
+The Scottish National Party: Salmond, hooked
+
+Bagehot: Through the mangle
+
+Demography: A school for small families
+
+COFCO International: Feeding the dragon
+
+America v China’s tech giant: Weighing on Huawei
+
+Bartleby: The two tribes of working life
+
+Comcast and Sky: Dish of the day
+
+America’s sanctions regime: An oligarch’s surrender
+
+Harley-Davidson: Rough ride
+
+Digital entertainment: Gameflix
+
+Schumpeter: Into the valley of death
+
+Global trade: Gaming the rules
+
+Italy’s economy: Growing fears
+
+Dirty money: Leaky borders
+
+Credit-default swaps: Letter and spirit
+
+Buttonwood: Heaven can wait
+
+Bank mergers in the Gulf: Three’s company
+
+Banco Popular: At the end of a storm
+
+Free exchange: Money down
+
+Scientific ethics: No dumping, please
+
+Astrogeology: There and back again
+
+Talking to aliens: A penetrating thought
+
+Public health: Better late than never
+
+Panda evolution: By the hand of man created?
+
+Sport and politics: Believe, boys, believe
+
+The Wild West: Agnes got his gun
+
+A life in photography: All kinds of murderers
+
+Johnson: The error of our ways
+
+Economic data, commodities and markets
+
+Future of the Holy Land: Facts on the ground
+
+Frank Blaichman: Arms and the man
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">5c5579c1-6587-4b6c-b870-33bba1c820d9</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-01T00:25:14.642308+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
