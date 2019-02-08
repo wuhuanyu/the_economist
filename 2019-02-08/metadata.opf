@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec91cd50-efbe-4987-8300-0c69160bb297</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-08T01:00:59.825905+00:00</dc:date>
+        <dc:description>本期文章:
+
+Business this week
+
+KAL’s cartoon
+
+Politics this week
+
+Energy and Climate: Crude awakening
+
+Germany’s economy: Time to worry
+
+Arms control: Death of a nuclear pact
+
+The Iranian revolution at 40: How to deal with the mullahs
+
+A new boss for the World Bank: A qualified pass
+
+On the Democratic Republic of Congo, hygiene, Brexit, chicken, King Crimson, airlines: Letters
+
+ExxonMobil: Bigger oil
+
+The INF treaty: Trick or treaty
+
+Missiles and mistrust: Meanwhile, in Moscow
+
+Political scandals: These are the breaks
+
+Unions and the FBI: Secrets unfurled
+
+Narcissism: Hold still
+
+The ideas primary: Warren’s world
+
+Lexington: More chaos than change
+
+Canada’s foreign policy: The jungle closes in
+
+Brazil: Davi v Goliath
+
+Bello: The dinosaur is still there
+
+Indian politics: The can-do Gandhis
+
+Military service in South Korea: Blessed are the peacemakers
+
+Politics in Thailand: The princess and the PM
+
+Pakistani pogonophilia: Shaving grace
+
+Banyan: Frozen conflict
+
+Public diplomacy: Culture wars
+
+The pet industry: Mao’s best friend
+
+Chaguan: Does China understand Taiwan?
+
+The Iranian revolution (1): The shadow of 1979
+
+The Iranian revolution (2): Pushing on an open door
+
+Israel’s election: Thus spoke Netanyahu
+
+Trade and politics: East African rifts
+
+Elections in Nigeria: Battle of the big men
+
+Economic geography: Germany spreads the love
+
+France: Macron’s great debate
+
+EU drug verification: Phantom fakes
+
+Italy: Wish upon Five Stars
+
+Fraud in Hungary: Sniffing out corruption
+
+Charlemagne: Vestager’s progress
+
+Immigration: The new Europeans
+
+Immigration (2): Last waltz in Kilburn
+
+Nissan snubs Sunderland: X-Trail of destruction
+
+Brexit preparations: Spam, spam, spam!
+
+Parliamentary arithmetic: Woo who?
+
+Petrol stations: All pumped up and places to go
+
+Parliament’s leisurely week: Debating beer and snooker
+
+Bagehot: Learning from Ruskin
+
+Electricity for the poor: Light to all nations?
+
+When politicians see the light: What light reveals
+
+Manufacturing’s revival: Making it in America
+
+Chip-making: Swanning in
+
+Bartleby: Do you want ethics with that?
+
+UNIQLO: Back to basics
+
+Long-haul low-cost airlines: Laker Airways 2.0
+
+Food retail: Foodfight
+
+Schumpeter: Good copy, bad copy
+
+Germany’s economy: Engine trouble
+
+1MDB: Settling up
+
+Pensions: Uncalculated risk
+
+Bill Gross: Final call
+
+Australia’s banks: Profit and loss
+
+Cryptocurrencies: Taking it with you
+
+Buttonwood: Gauged against the machine
+
+Tax in America: Cut it out
+
+Free exchange: Brave new deal
+
+Saving species: Eco-nomics
+
+The rewilding movement: Back from the dead
+
+Geopolitics: Together under heaven
+
+Contemporary art in China: The sands of time
+
+A memoir of madness: Physician, curb thyself
+
+Segregation in America: Lines of colour
+
+Mermaids and monsters: The sirens’ song
+
+Economic data, commodities and markets
+
+Bitcoin: Mining their own business
+
+Lamia al-Gailani: In Mesopotamia’s halls
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">e2932600-4091-419e-8b3e-8879c2d1b975</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-08T01:01:13.184443+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
