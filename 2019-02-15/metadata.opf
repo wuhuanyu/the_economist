@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f486320-c666-4e1f-8c9b-1c0c76372eb5</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-15T01:12:44.761738+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+KAL’s cartoon
+
+Business this week
+
+The resurgent left: Millennial socialism
+
+Gas and geopolitics: Putin’s pipeline
+
+South Africa: Light-bulb moment
+
+America’s safety-net: Don’t put work requirements on Medicaid
+
+The politics of religion: Muslims are going native
+
+On the World Bank, Labour, Virginia, vaccinations, John Ruskin, pisco, lifts: Letters
+
+Millennial socialism: Life, liberty and the pursuit of property
+
+The safety-net: The Arkansas experiment
+
+Congressional negotiations: Shutdown, shut down
+
+Anti-Semitism: Old prejudice in new tweets
+
+The Democratic primary: Amy, chasing
+
+Crime in the Bay Area: The lax tax
+
+Lexington: The interminable abortion war
+
+Fertility in Latin America: The high cost of early motherhood
+
+Venezuela: Better dead than Yanqui-fed
+
+Bello: Here comes the judge
+
+Politics in Thailand: General confusion
+
+Indian statistics: Bullock cart or locomotive?
+
+South Korea and America: The art of the temporary deal
+
+Australia v boat people: Sick joke
+
+Media freedom in the Philippines: Stopping the press
+
+Banyan: Meet me in Luneta
+
+Teaching law: Rights and wrongs
+
+Science fiction: Lights! Camera! Win-win outcomes!
+
+Chaguan: The pursuit of happiness
+
+South African politics: The enigma of Ramaphosa
+
+Boko Haram: Buhari’s Vietnam
+
+France and Chad: New dog, old tricks
+
+Down to one square mile: The caliphate’s last stand
+
+Southern exposure: The battle for Libya’s frontier
+
+Saudi missiles: Protection rocket
+
+Spanish politics: Sánchez touches the void
+
+Energy politics: Paying the piper
+
+Italy: Rattling the doors
+
+Hungary: Family fortunes
+
+Protests in Russia: The Strunino story
+
+Charlemagne: Shrinking the Black Sea
+
+The economy since the referendum: The road not taken
+
+All trade talks and no action: Trade plans run late
+
+The Brexit negotiations: Crisis deferred, again
+
+MPs v activists: Rise of the selectocrats
+
+Regulating the news: Read all about it
+
+Body modification: A legal tongue-twister
+
+Doctors and suicide: First, do no harm?
+
+British Eurocrats: The last of the Mohicans
+
+Bagehot: The silence of the lambs
+
+Demography and automation: Robots that look after grandma
+
+Islam in the West: Here to stay
+
+History: Third time lucky?
+
+Glossary: Need to know
+
+Influence from abroad: Soft power
+
+Western responses: Taking back control
+
+Jihadist Islam: Hollow victories
+
+Fusing cultures: West-eastern divan
+
+Bezos v Pecker: In his prime
+
+Amazon’s HQ2: Return to sender
+
+Bartleby: Engaged or vacant?
+
+The car industry (1): Tata to the rescue
+
+The car industry (2): Entente non-cordiale
+
+China’s gold business: The bijoux of Beigao
+
+Schumpeter: Slim pickings
+
+American banks: Bigger is beautiful
+
+The China-US trade dispute: An ocean apart
+
+Buttonwood: Catching the gold bug
+
+Philanthropy: The maniacal and the miraculous
+
+The labour market: True colours
+
+Basic income and work incentives: Field notes
+
+Free exchange: Replacebook
+
+Border-control technology: The invisible boundary
+
+Prion disease: A twisted tale
+
+Automotive engineering: Look! No brakes
+
+Culinary science: Rates of exchange
+
+Political fiction: From confetti to mosaic
+
+Rhyme and regionalism: The singer and the song
+
+Colonial history: Evils of empire
+
+Sport and modernity: In search of lost time
+
+Johnson: What we talk about when we talk
+
+Economic data, commodities and markets
+
+Names and immigration: Few “Hans” on deck
+
+James McManus: Looking after the neighbourhood
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">3abfb320-a8f4-408b-9160-123bf2b976cd</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-15T01:13:03.016901+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
