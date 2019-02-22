@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3d6dd89-fce3-4f09-ba21-806b0c695874</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-22T00:57:43.290722+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+China’s economy: Can pandas fly?
+
+British politics: Splitting image
+
+Trump’s emergency: Imperial purple
+
+Business and global warming: Hot, unbothered
+
+English-medium education: Babel is better
+
+On Huawei, Gaelic, light, Iran, doctors, work: Letters
+
+Opioids: The death curve
+
+Emergency power: The master builder
+
+The 2020 election: Bernie runs again
+
+Chicago and Rahm Emanuel: The heat-seeking missile
+
+Social media and law enforcement: Watching: The detectives
+
+The revival of Hawaiian: Speak, memory
+
+Lexington: Diversity and its discontents
+
+Brazilian politics: Facing the pensions conundrum
+
+Cuba: Twitter, but not better
+
+Canada: Butts out
+
+Bello: The return of the Monroe doctrine?
+
+China’s future: The global centre
+
+India and Pakistan: Modi’s jaw-breaking threats
+
+Terrorism and Pakistan: Caught in the middle
+
+Elderly literature in Japan: Fifty shades of grey
+
+Banyan: Fool me twice
+
+The church in the Philippines: Rendering unto Duterte
+
+Outbound tourism: Holidaying for the motherland
+
+Hong Kong and its region: At bay
+
+Chaguan: The propaganda machine wins
+
+Returning jihadists: When the bad guys come home
+
+Israeli politics: Labour pain
+
+The new alms-giving: Welfare states rising
+
+Congo and the wailers: No woman, no cry
+
+Geography lessons: The geography of education in Africa
+
+France: Spreading like poison
+
+Foreign investment in Russia: Who needs it?
+
+Germany’s fear of China: Making Europe Great Again
+
+Sex and the Vatican: Praying about preying
+
+Denmark builds a wall: Keeping foreign snouts out
+
+Charlemagne: The secrets of the Saarland
+
+Political realignments: Britain splinters
+
+Honda shuts its factory: Call my bluff
+
+Britain and China: The not-so-golden era
+
+Trade unions and the law: From the barricades to the bar
+
+International diplomacy: Clipped clout
+
+Organised crime: Trying to nail Mr Bigs
+
+Bagehot: Labour’s hard man
+
+Teaching in English around the world: Language without instruction
+
+Corporate climate resilience: After the deluge
+
+Karl Lagerfeld: Following Kaiser Karl
+
+Nvidia: Not a pretty picture
+
+Bartleby: The new aristocrats of power
+
+JAB Holding: Storm in a coffee cup
+
+Huawei: Crossed wires
+
+Autonomous cars: It takes a village
+
+Schumpeter: The conglomeroach
+
+Tax avoidance: Reclaiming the booty
+
+Banks and tax evasion: Lactose intolerance
+
+Remittances to North Korea: Going for broker
+
+Wirecard: Shooting the messenger
+
+Buttonwood: Smooth operators
+
+Soyabeans: Soy sources
+
+Free exchange: Pillar of strength
+
+The American Association for the Advancement of Science: Voyages to strange new worlds
+
+Nitrogen fertilisation: Fixed!
+
+How heavy elements are made: The ultimate nuclear reactor
+
+Biogeography: The hitch-hiker’s guide to the Pacific
+
+The tyranny of metrics: Every step you take
+
+Be afraid: The end of normal
+
+Troublesome frontiers: Walking the line
+
+American food: Roux the day
+
+The power of speech: Do not think of a white bear
+
+Economic data, commodities and markets
+
+Opinion on Brexit: The centre cannot hold
+
+Opportunity: Remembering a robot
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">18c247df-a62c-414d-9124-2e3638b493ec</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-22T00:57:58.617478+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
