@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">137</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2858b5c-8d9d-4276-90c4-47c41204e1f2</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-01T01:09:37.917875+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+India and Pakistan: Modi’s dangerous moment
+
+The Trump-Kim summit: Walk on down
+
+The parable of 3G Capital: Bad recipe
+
+Britain and the European Union: More haste, less speed
+
+Drug repurposing: Resurrection
+
+Letters to the editor: On oil companies, Shropshire, Marcel Proust, Brexit
+
+India and Pakistan: On perilous ground
+
+Hindu nationalism: Orange evolution
+
+Defence policy: Bringing out the big guns
+
+Michael Cohen: His turn in the barrel
+
+Religion and government: Cross roads
+
+Tech and privacy: The Cambridge Analytica bill
+
+Teachers’ activism: Civics 101
+
+Ex-evangelicals: Flocks away
+
+Lexington: Imagine there’s no politics
+
+Venezuela (1): Congratulations, you kept out the food and medical supplies
+
+Venezuela (2): A Caracas idea
+
+Bello: Uncovering Mochica splendours
+
+The second Trump-Kim summit: Bromance on hold
+
+Divorce in Bangladesh: Getting out of the house
+
+Foreign workers in Japan: Welcome, sort of
+
+Police corruption in Australia: Criminal injustice
+
+Banyan: You started it
+
+Social control: Behind the mask
+
+Ethnic minorities: A class apart
+
+Chaguan: When giants battle
+
+Israeli politics: A blow to Bibi
+
+The struggle for Iran: How to read a resignation
+
+Sudan’s embattled president: A last roll of the dice?
+
+Cricket in Rwanda: Willow in the hills
+
+Nigeria’s election: Time to keep those promises
+
+Spain: The two souls of Ciudadanos
+
+Poland’s election campaign: The $10 billion bung
+
+Estonia and Moldova: Elections, dirty and clean
+
+German arms sales: Sticking to its guns
+
+Germany: Boldly biking in Berlin
+
+Russia and Turkey: In Sputnik’s orbit
+
+Parliament and Brexit: Losing control
+
+Anti-Semitism: An ill wind
+
+Trade after no deal: Going for broke
+
+Television: Britflix
+
+Councils’ investments: Risky business
+
+Bagehot: The wrecking crew
+
+Medicine: A higher purpose
+
+Water: Thirsty planet
+
+Rivers and lakes: Surface tension
+
+Water conflicts: Water fights
+
+Groundwater: Subterranean blues
+
+Saving water: Waste not, want not
+
+Desalination: Worth its salt?
+
+Conclusion: Hard and soft solutions
+
+Sources and acknowledgments
+
+Food companies: An accident with the ketchup
+
+Berkshire Hathaway: Buffettology
+
+Gold mining: An untimely proposal
+
+American pharmaceuticals: The sharp end of the spear
+
+Bartleby: Conscious decoupling
+
+Coal in Australia: The dangerous dark stuff
+
+Schumpeter: Video gamers v couch potatoes
+
+German banks: A marriage made in misery
+
+Inflation in the euro area: Virtue signalling
+
+Tax compliance: Hitting the jackpot
+
+Central banking in America: Food for thought
+
+Alternative data: Under the hood
+
+India’s economy: Modifications
+
+Free exchange: A familiar cycle
+
+The periodic table: The heart of the matter
+
+Crime: American scourge
+
+Classical music: Steel and strings
+
+The past returns: Fragments and ruins
+
+Hungarian fiction: Ghosts of Budapest
+
+Johnson: Laying down the law
+
+Economic data, commodities and markets
+
+The Oscars: No longer a tastemaker
+
+Li Rui: A thorn in their side
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">164fab34-e65f-4823-9223-6acf44ae81a5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-01T01:09:54.330916+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
