@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfae477b-c44c-44d2-b7e9-249e8c6c8c32</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-08T01:12:29.684147+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Geopolitics: The new scramble for Africa
+
+Online news in Russia: Don’t be evil
+
+European industrial policy: L’Europe, c’est moi
+
+Algeria: Out with the old
+
+Aviation: Plane stupid
+
+On socialism, San Francisco, taxes, China, English, Johnny Cash: Letters to the editor
+
+Africa and geopolitics: Choices on the continent
+
+Texas politics: Twilight in Austin
+
+Wisconsin politics: Evers so bold
+
+Day care for all: It takes a government child-care centre
+
+Meth deaths: Scourge upon scourge
+
+Democrats and black voters: The look-homeward angle
+
+Lexington: America First in Kashmir
+
+Mexico: Pesos to the people
+
+Canadian politics: The troubles of Trudeau
+
+History with a beat: Carnival history lesson
+
+Bello: Against the odds
+
+Uzbekistan: No inspectors call
+
+Banyan: Hostage justice
+
+Kashmir: Nadir in the valley
+
+North Korea: The other security issue
+
+Palm oil: A pale shade of green
+
+Palm oil and biodiversity: Snakes on a plantation
+
+The economy: A new tune
+
+The Tibetan plateau: The sensitive month
+
+Chaguan: When China praises democracy
+
+Protests in Algeria: “Bury him, don’t elect him”
+
+Egypt’s blame game: Brothers under the bed
+
+Weapon sales: Predator pricing
+
+Politics in Nigeria: States of despair
+
+African cities: Destroying the city to save it
+
+Russia: Putin tries to build an internyet
+
+Macron’s manifesto: Friends, Europeans
+
+Italy: Ghost of the Camorra
+
+Charlemagne: Let’s get this party ousted
+
+Labour’s prospects: Two left feet
+
+Transgender prisoners: A tough cell
+
+Kumar Bhattacharyya, 1940-2019: The man who recharged Britain
+
+Knife crime: Murder mystery
+
+The housing market: Cash in the attic
+
+Sex and religion: Diversity v diversity
+
+The environment: A greener and more pleasant land
+
+Bagehot: Suspicious minds
+
+First-class air travel: The people in front
+
+Foreign internship
+
+China’s tech freeze: Unicorns in winter
+
+AT&amp;T and Time Warner: Luvvies leaving
+
+Renewable energy: Gust of change
+
+Tech and privacy: Facebook’s third act
+
+The Brumadinho dam collapse: Beyond the Vale
+
+Bartleby: A small step for women
+
+Ship recycling: High by the beach
+
+Schumpeter: It shouldn’t happen to a vet
+
+Global housing: Prime cuts
+
+Chinese data: Slower but steadier?
+
+Buttonwood: The Shanghai open
+
+LSE Group: Having its cake
+
+Money-laundering: Europe awash
+
+National development banks: Reality cheque
+
+Free exchange: Shocked
+
+Manoeuvring satellites: Air braking
+
+Pest control: String theory
+
+Computer security: Do svidaniya secrecy
+
+Alcoholic spirits: Going against the grain
+
+Enter, the dragon: A Dragon visits the ISS
+
+Curing HIV: The English patient
+
+Revisiting Chernobyl: A view from the bridge
+
+Race and sex on stage: A bigger splash
+
+Love, fame, poetry and death: Spiders of society
+
+Swedish fiction: This thing of darkness
+
+Economic data, commodities and markets
+
+Measles: Fever pitch
+
+André Previn: Maestro and music
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">024dbffc-1cd5-4cee-9e36-e9bc0e8dcae5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-08T01:12:42.402492+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
