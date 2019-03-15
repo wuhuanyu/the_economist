@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3317b38b-57ee-4a33-a275-8ed61e97fec0</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-15T01:15:11.281951+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Brexit: Whatever next?
+
+The transatlantic relationship: Worth fighting for
+
+The aircraft industry: Plane truths
+
+China’s balance of payments: The big flip
+
+Mental health: Shrinks, expanded
+
+Thailand’s bogus election: General decline
+
+Letters to the editor: On Islam, China, priests, medicine, defence, the periodic table, the Oscars
+
+American corporate debt: Carry that weight
+
+The techlash gathers pace: Move fast and break things
+
+College admissions: Bribe styles of the rich and famous
+
+Central American migration: A tale of two borders
+
+New York apartments: Islands in the sky
+
+National security: No happy ending
+
+Labour markets: Okun’s razor
+
+Lexington: The Irish conquest of America
+
+Brazil: The digital bully pulpit
+
+Venezuela: Lights out, but not curtains
+
+Colombia: JEPpardy
+
+Bello: The reluctant liberal
+
+Thailand’s rigged election: All for show
+
+Banyan: The art of the impossible
+
+Afghanistan’s Syrian problem: Demob unhappy
+
+Japan: The unkindest cut
+
+Renaming the Philippines: Back to basics
+
+Politics in Indonesia: Outer-island views
+
+Health products: Spin doctors
+
+Comedy: A blind eye to turn
+
+Chaguan: Let policy wonks proliferate
+
+Kenyan politics: From frog to toady
+
+Tanzania: A dose of bull
+
+Freeing Ethiopia’s press: Ink by the barrel in Addis Ababa
+
+Education in Syria: Failing
+
+Algeria: Bouteflika bows out
+
+Ukraine: Tragicomedy
+
+Turkey, Russia and America: Weapons of choice
+
+German politics: Annegret’s progress
+
+Croatia: Speed king
+
+Norway, Switzerland and the EU: Pragmatic v prickly
+
+Charlemagne: Meet Marion Maréchal
+
+Brexit and Parliament: Three strikes
+
+Article 50: Extend, but don’t pretend
+
+The spring statement: Fiscal frippery
+
+Northern Ireland: Where deftness fails
+
+Company audits: From cosy to nosy
+
+Oxbridge colleges: Last women standing
+
+Health care: Sexual selection
+
+Bagehot: After May
+
+Mental-health care: Talk is cheap
+
+Foreign internship
+
+NATO at 70: Mature reflection
+
+Keeping Russia in check: Disquiet on the eastern front
+
+Spending: Promises, promises
+
+European defence: Going solo?
+
+Social media: The art of info-war
+
+Future-gazing: The next ACT
+
+The next three decades: NATO at 100
+
+Sources and acknowledgments
+
+Boeing: A crisis of confidence
+
+Autonomous systems: The computer in the cockpit
+
+Bartleby: The tech factor
+
+Big energy and big tech: Oil rush
+
+Video games: Ahead of Steam?
+
+Volkswagen: New wave
+
+Schumpeter: The end of the affair
+
+The Chinese economy: Package deal
+
+Buttonwood: Gross returns
+
+The euro area’s economy: Self-defence
+
+Wells Fargo: In the pillory
+
+Gold in India: Lacklustre
+
+Turkey: Default setting
+
+Free exchange: Magic or logic?
+
+Geoengineering: Sunny with overcast features
+
+Palaeontology: Monkey puzzle
+
+Antidepressants: Ketamine treatment
+
+Psychology: Dinner diplomacy
+
+Lives of the artists: This soul of a woman
+
+America and the world: Pointillist power
+
+New American fiction: Desert storms
+
+Music therapy: The ballad of King D
+
+Johnson: Mightier than the sword
+
+Indicators: Economic data, commodities and markets
+
+Germany’s far right: Then and now
+
+Mags Portman: One tablet, taken daily
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">66955511-b675-4bbd-afb3-3647c4bbceb3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-15T01:15:27.433447+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
