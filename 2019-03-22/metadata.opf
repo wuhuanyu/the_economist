@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad1cd772-e525-49e5-9965-018607f64b22</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.40.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-22T00:30:00.439744+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Regulating tech giants: Europe takes on the tech giants
+
+The $100bn bet: Too close to the Son
+
+The Christchurch mosque massacre: The new face of terror, much like the old
+
+Women and economics: Market power
+
+Insects: Plague without locusts
+
+Letters to the editor: On Florida, water, biomass energy, El Cid, Joan Baez, clowns
+
+European technology regulation: The power of privacy
+
+Challenging adtech: See you in court
+
+Policing: Watching the watchmen
+
+College admissions: Exorbitant privilege
+
+Voter suppression: Was it stolen?
+
+The Supreme Court: Kafkaesque justice
+
+Recycling markets: A rubbish idea
+
+Lexington: Bet on O’Rourke
+
+Trudeau’s woes: Down, not out
+
+Bello: Mausoleum of broken institutions
+
+Kazakhstan: A showman exits
+
+Personal seals in Japan: For the chop
+
+Taiwanese politics: Splittists
+
+Mumbai’s bridges: Crumbling
+
+North Korean propaganda: Deity in a T-shirt
+
+Banyan: A distorted mirror
+
+Indian politics: No tactic is too underhand
+
+Narcotics: Old habits die hard
+
+Television drama: Conflicted Confucians
+
+Chaguan: China loses patience
+
+Protests in the Arab world: Talk of spring
+
+Israeli politics: The man who would be prime minister
+
+Congo: Fighting Ebola, and myths
+
+Mozambique: Beira’s battering
+
+The Lord’s Resistance Army: A former rebel in the dock
+
+Greece: The twilight of Syriza
+
+Italy and China: Not so silky
+
+Slovakia: If the Caputova fits
+
+Lithuania: To life
+
+Health care in Ireland: On second thoughts...
+
+Charlemagne: Metabolically different
+
+Britain and the European Union: Brextension time
+
+Business and Brexit: Stay of execution
+
+Health care: Doctors, ordered
+
+The Liberal Democrats: Hope for the hopeless
+
+Emigration: G’daytime television
+
+High-rise living: Of plonkers and planners
+
+Bagehot: The roar of the crowd
+
+White nationalist terrorism: No safe places
+
+SoftBank and technology investments: Vision 2.0
+
+Bartleby: Drivers wanted
+
+Mobile networks: 5G or fifth column?
+
+Indian motorcycles: Back on a roll
+
+Boeing and the FAA: Flying too closely
+
+Schumpeter: Taking on the baddies
+
+Payment firms: Terminal velocity
+
+Buttonwood: A basket of intangibles
+
+Commerzbank and Deutsche Bank: Urged to merge
+
+Women in economics: #EconomistsToo
+
+Free exchange: Natural talent
+
+Insects: Nothing in the cry of cicadas
+
+Medical devices: Powered by the heart
+
+Cannabis: Strong pot is hot
+
+Anthropology: Big people, big gods
+
+Comedy and censorship: Wax and gold
+
+Fiction and reality: Spies like us
+
+New American fiction: You only live twice
+
+Health care and technology: The AI will see you now
+
+Public art: They could be heroes
+
+Happiness economics: Dismal science
+
+Atta Elayyan: Darting, seizing, winning
+
+Economic data, commodities and markets
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">5b9090ab-7018-47a9-8c77-c1a35c4ce304</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-22T00:30:13.297611+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
