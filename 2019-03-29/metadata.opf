@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">153</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bb34404-fe9e-473a-8b35-482b96339810</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.40.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-29T01:14:15.023802+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Brexit after May: The Silly Isles
+
+Israeli politics: King Bibi: a parable of modern populism
+
+The world economy: Inversions and aversions
+
+American politics: Trump resurgent
+
+Museums and protests: Culture vultures
+
+Letters to the editor: On Chernobyl, the Irish, councils, Tom Watson, energy, China, Brexit, first class
+
+Binyamin Netanyahu: Statesman and schemer
+
+The Mueller report: He told you so
+
+Colorado’s governor: Sound of the Polis
+
+Gerrymandering: Election doping
+
+Hanging with the anti-vaxxers: Sharp exchanges
+
+The cost of California: Homing in
+
+Lexington: William Barr, executive assistant
+
+Guatemala: Time for Thelma?
+
+Argentina: The Mendoza model
+
+Bello: The apprentice president of Brazil
+
+Thailand: To the spoiler, victory
+
+Banyan: Unclean
+
+K-pop: Sex, drugs and spy-cams
+
+Pakistan: Quacks like a doc
+
+India’s space weapons: The sky’s no limit
+
+Australian politics: Immigrants strike back
+
+Democracy in Indonesia: Dildo for president
+
+Social management: Keeping tabs
+
+The worst industrial disaster since 2015: A factory inferno
+
+Mozambique: First the floods, then the pestilence
+
+Rwanda’s genocide, 25 years on: We’re just one happy family now, aren’t we?
+
+Ethnic labels in Rwanda: Don’t ask, do tell
+
+Government bloat: Twilight of the bureaucrats
+
+Germany’s Social Democrats: Left behind
+
+Ukraine’s presidential election: Unscripted
+
+Turkey: Elections and Erdoganomics
+
+The Netherlands: Taking flight
+
+France: Among the yellow jackets
+
+Charlemagne: The spectre of Airstrip One
+
+Parliament and Brexit: The ultimate price
+
+Public opinion and Brexit: The elusive will
+
+Newport’s by-election: Don’t mention the B-word
+
+Manchester’s health experiment: Total policy
+
+Brexit promises: Magical thinking
+
+The minimum wage at 20: Towards a tipping point
+
+Bagehot: The end of May
+
+Cultural objects: Reflecting on past sins
+
+Museum funding: Give, get or get off
+
+Foreign internship
+
+The future of media: Streamlined
+
+Hyundai Motor: In need of a tune-up
+
+Bartleby: The grinch that sold charisma
+
+Naspers: Going Dutch
+
+A unicorn stampede: Lyft and the unicorns
+
+Chinese trains: The red-train blues
+
+Telecom Italia: Wall Street comes to Milan
+
+Renewable energy: Power struggle
+
+Schumpeter: Ninja activists
+
+Cryptocurrencies: The madness of crowds
+
+Buttonwood: A world of difference
+
+Italy’s labour market: A perilous choice
+
+Monetary policy: Keep it up
+
+A row over Venezuela: Chengdu then don’t
+
+Argentina v Japan: Exceptions and rules
+
+Free exchange: Ageing is a drag
+
+Space rocks: Skyfalls
+
+Biochemistry: Sniffing out Parkinson’s
+
+Robot baristas: The ultimate coffee machine
+
+Pest control: A bug in the system
+
+Solar power: Gathering the rays
+
+Mao Zedong: The chairman will see you now
+
+Sexism and espionage: The limping lady
+
+African-American music: The blues had a baby
+
+Johnson: Rules to live by
+
+Brexit and the markets: The price of no-deal
+
+Mary Warnock: Seeing things clear
+
+Economic data, commodities and markets
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ec07b358-3cc4-41ba-a5fc-022413771c40</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-29T01:14:35.041340+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
