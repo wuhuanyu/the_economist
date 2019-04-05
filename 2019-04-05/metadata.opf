@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed97bced-4943-470c-be1e-e9f899d86c48</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.40.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-05T01:14:33.252897+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Synthetic biology: Redesigning life
+
+The Brexit negotiations: A step in the right direction
+
+Algeria: So begins the real battle
+
+European banks: The land of the living dead
+
+Welfare in India: The beauty of breadth
+
+Letters to the editor: On mental health, social media, Africa, Brexit, champagne
+
+Chinese mobility: Great wheels of China
+
+Air strikes: Bombs astray
+
+Out and seeking office: A welcome shrug
+
+Melanin and money: The colour of wealth
+
+Southern history: After abolition
+
+Traffic jams: It’s not up to you
+
+Campaigning and activism: Political speed-dating
+
+Happiness and voting: Loss aversion
+
+The United States and Latin America (1): Go home, and don’t come back
+
+The United States and Latin America (2): Breaking the stalemate
+
+Bello: Blaming the conquistadors
+
+Fighting poverty in India: The war on penury
+
+Banyan: Older than the hills
+
+Indonesia’s presidential election: General lethargy
+
+Regulating social media: Laws against lies
+
+Brunei: The end is Brunei
+
+Gun control: Never again
+
+German-Koreans: Where the Rhine meets the Pacific
+
+Extradition: Back to the mainland
+
+Aviation: The sky’s the limit
+
+Algeria: Bouteflika bows out
+
+Jews among Arabs: Old ties, new interest
+
+Sexuality and gender in Iran: Pressure from above
+
+Oil in Uganda: Sticky expectations
+
+Political slang in Africa: The word on the kona
+
+Turkey’s local elections: Revolt of the cities
+
+Ukraine: Send in the clown
+
+Spain: Rural requiem or revival
+
+Daylight-saving time: Summertime ruse
+
+Russia: The uses of fear
+
+Charlemagne: Europe’s other migration crisis
+
+Brexit and Parliament: In search of lost compromises
+
+Prisons in Northern Ireland: Irish porridge
+
+The Amritsar massacre: A century of dithering
+
+Rebooting the north: Power cut
+
+Radicalised Remainers: I’ll do anything for EU
+
+Bagehot: Metamorphosis
+
+Public administration: Capital flight
+
+Foreign internship
+
+Synthetic biology: A whole new world
+
+How it works: Reprogramming life
+
+Automation: An industrial revolution
+
+Applications: The new stuff
+
+The future: Liberation biology
+
+Acknowledgments and further reading
+
+Corporate crises: The new age of corporate scandals
+
+Bartleby: The loan arrangers
+
+Facebook: Careful what you wish for
+
+Industrial cannabis in China: A budding trade
+
+Saudi Aramco: Open Sesame
+
+Mobile video-streaming: Hotstar wars
+
+Digital literature: Yearning to be touched
+
+Schumpeter: Chinese burn
+
+European banks: Reaching for the elusive 10%
+
+Buttonwood: Oil filter
+
+Market power: On the mark
+
+US-China trade: Entrenched
+
+Islami Bank: After the coup
+
+Inequality and welfare spending: Not keeping up with the Joneses
+
+The world economy: Manufacturing blame
+
+How Ethiopians bank: What goes round, comes round
+
+Free exchange: It’s complicated
+
+2019 Marjorie Deane finance internship
+
+Missile technology: Hypersonic boom
+
+E-health: Don’t be still, my monitored heart
+
+Acoustics: Hear, hear
+
+Mass extinctions: Day of reckoning
+
+Jewish-American culture: Chronicle of the golden land
+
+This great stage: Ripeness is all
+
+Petals and politics: Flower power
+
+Exercise and exploration: Feet first
+
+Cli-fi: The tallest story
+
+Economic data, commodities and markets
+
+Golf forecasting: The once and future king?
+
+Agnès Varda: I am a camera
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">b038f182-d493-4b80-b306-0af6e9a401d2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-05T01:15:06.607516+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
