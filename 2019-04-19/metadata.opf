@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d8bb0f3-cf53-4961-9a19-1cb9b186290f</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.40.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-19T00:57:17.508756+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Tech stars: The trouble with tech unicorns
+
+Crops and climate change: Time to see the blight
+
+Notre Dame: The human spark
+
+Hacking and the law: Justice for Julian Assange
+
+Spain: Heading nowhere?
+
+Letters to the editor: On Kazakhstan, workers, Oregon, Britain, cannabis, ethics, Parkinson’s disease, cherry trees, Facebook
+
+Unicorns going to market: Herd instincts
+
+City politics: Sorry, we’re full
+
+Tinseltown: Sunset brouhaha
+
+Predicting the primary: How early is too early?
+
+Freeing DC: Capital gains
+
+Measles: The needle and the damage avoided
+
+Voters v lawmakers: Nock, Nock
+
+Spruce goosed: The stratolaunch
+
+Lexington: Mayor Pete for freedom
+
+Canada: Liberté against laïcité
+
+Cannabis in Jamaica: Ganja gamble
+
+Bello: Lessons from the amauta
+
+Defending Japan: A new front
+
+Asian houbaras: The talons of a dilemma
+
+Banyan: Budding anxieties
+
+Party politics in India: A matter of state
+
+A giant election: Elections in Indonesia
+
+Cambodia’s economy: Fast and loose
+
+Immigration: Let them past
+
+Labour unrest: GitHubbub
+
+Chaguan: Joining the resistance
+
+China and the Arab world: Middle Kingdom meets Middle East
+
+Lebanon: First woman
+
+South Africa’s energy crisis: A glimmer of light
+
+France: The agony of Notre Dame
+
+Spain’s general election: Mr Sánchez and his squabbling detractors
+
+Finland: The populists hit back
+
+Charlemagne: Diplomatic baggage
+
+The Conservatives: How to become the next prime minister
+
+WikiLeaks: Shown the Ecua-door
+
+The Brexit negotiations: Hard bargaining
+
+European elections: Divided they fall
+
+The labour market: Take it or leave it
+
+Pregnancies: Maybe later, baby
+
+Climate protests: Hotting up
+
+Bagehot: Saving the public square
+
+Overthrowing despots: The putsch option
+
+Coup data: Where’s next?
+
+The future of cars: Charging ahead
+
+Bartleby: It’s a man’s world
+
+American shale: Permian explosion
+
+Digital advertising: Looking up?
+
+Apple and Qualcomm: Suing for peace
+
+Bankruptcy in India: The deadbeats strike back
+
+Schumpeter: Saudi Aramco looks east
+
+Goldman Sachs: Tarnished
+
+American banks: Swings and roundabouts
+
+Buttonwood: Time and money
+
+China’s GDP: Growth in train
+
+Japan’s economy: Still sputtering
+
+Imports and exports: Everything to gain by their chains
+
+Free exchange: Hitting the big time
+
+Climate change and crop disease: Blocking the road to rusty death
+
+Public policy: When will they ever learn?
+
+Ecology: Do tapirs defecate in the woods?
+
+Prospecting for minerals: Scoring boundaries
+
+Marine biology: Where there’s muck there’s brass
+
+Art history: Leonardo and us
+
+Culture in Uzbekistan: Once were warriors
+
+Espionage: Carousing for the Comintern
+
+Life, art and crime: The pages of sin
+
+Ian McEwan’s new novel: Who, robot?
+
+Economic and financial indicators
+
+Chinese propaganda: Gaining face
+
+Sydney Brenner: Irrepressible
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">bd0390c3-7fa3-4a5e-a0f6-bda75bc15a39</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-19T00:57:32.673349+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
