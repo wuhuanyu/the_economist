@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae5fa080-e52a-43a4-a43d-35adbf8e7659</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.40.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-26T10:31:25.374832+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Good man, bad party: South Africa’s best bet
+
+Technology and security: The right call on Huawei
+
+Donald Trump: After Mueller, what next?
+
+Sri Lanka: Easter evil
+
+Oil prices: Spoiling the mood
+
+Letters to the editor: On Kazakhstan, workers, Oregon, Britain, cannabis, ethics, Parkinson’s disease, cherry trees, Facebook
+
+Huawei: Communication breakdown
+
+Robert Mueller’s report: Executive privileges
+
+War powers: What are they good for?
+
+Minimum wages: Floored
+
+Religious affiliation: To be young is not quite heaven
+
+Judicial elections: Vote and be hanged
+
+Counting America: Census and sensibility
+
+Lexington: A blast from the past
+
+Cuba, Venezuela and Nicaragua: Trump v the troika of tyranny
+
+Panama’s elections: Miffed, but moderate
+
+Bello: The ultimate political act
+
+Terrorism in Sri Lanka: Bloody Sunday
+
+Indonesia’s election: Us and them
+
+Medical marijuana in Thailand: The green light
+
+Identity politics in India: Vote terror
+
+Activism against North Korea: Balloons v bullets
+
+Banyan: Cross-strait love and hate
+
+Global infrastructure: Seeds of suspicion
+
+Hong Kong: Folding the umbrellas
+
+Chaguan: Why China wants a mighty navy
+
+Egypt’s economy: Running to stand still
+
+The scent of spring: Fish in a barrel
+
+Sudan: The struggle continues
+
+Ukraine: Ready for prime time?
+
+Bosnia: Hanging together
+
+Assimilation: Pholand
+
+Syrians in Turkey: A long way from home
+
+Europe’s geography: Stuck in the middle of the EU
+
+Charlemagne: Votes without frontiers
+
+Inheritance: Return to Downton Abbey
+
+Northern Ireland: A death in Derry
+
+Education: Teachers, tested
+
+Local elections: Feeling blue
+
+England’s fastest-growing town: Look on in ore
+
+The Commonwealth’s 70th birthday: Don’t let the sun go down
+
+Bagehot: Much ado about nothing
+
+Monarchy: Sovereign immunity
+
+South Africa: Saving the nation
+
+Corruption: In the dark
+
+The ANC: What would Nelson say?
+
+Father of the nation: Memories of Madiba
+
+The economy: Any job will do
+
+Land reform: Rights and wrongs
+
+Education: School’s out
+
+The future: Balancing act
+
+Chinese companies abroad: Dragons, disrupted
+
+Bartleby: An office with a view
+
+Kraft Heinz: A new broom for dusty brands
+
+Online education: Patient learning
+
+Mobile devices: Wizard of OS
+
+European travel (1): Going American
+
+European travel (2): Give us a break
+
+Schumpeter: Can Uber ever make money?
+
+Oil markets: Crude tactics
+
+Argentina’s economy: The price of desperation
+
+Nigerian banks: Bigger the better
+
+Deutsche Bank and Commerzbank: It’s off
+
+Buttonwood: Sales assistance
+
+Trade deals: Much to report
+
+Merger appraisal: Picking up $20 bills
+
+Free exchange: A hot mess
+
+Lung cancer: Gathering the evidence
+
+Materials science: Ask questions first. Shoot afterwards
+
+Primatology: When less is more
+
+Sports psychology: It’s all in the mind
+
+Medical technology: A real brain wave
+
+Learning from the past: The psychology of nations
+
+American history: A kind of freedom
+
+Love in the time of Brexit: Up from the depths
+
+Johnson: Speaking in tongues
+
+How music works: The beat goes on
+
+Literary camaraderie: Brothers in art
+
+Economic data, commodities and markets
+
+Trade wars: You get what you give
+
+Charles Van Doren: American Icarus
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">e2a50184-bbb6-4c19-b979-4478c1ad6242</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-26T10:31:50.662148+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
