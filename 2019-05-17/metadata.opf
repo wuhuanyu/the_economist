@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">185</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">837f8294-c563-4114-a1e9-debc36553650</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="The Economist" opf:role="aut">The Economist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-17T00:30:18.536392+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+China v America: A new kind of cold war
+
+South Africa: Now for the hard part
+
+America’s abortion laws: Supremely wrong
+
+Fiscal policy: Cocked and ready
+
+Politicians and comedy: You couldn’t make it up
+
+Letters to the editor: On Narendra Modi, religion, Brexit, YouTube, monarchies
+
+The EU elections: Changing parliamentary perspectives
+
+Working: Better at the bottom
+
+Abortion laws: Alabama shakes
+
+Amy Coney Barrett: Justice-in-waiting
+
+Education policy: Class struggle
+
+Lexington: Incumbency ain’t what it used to be
+
+Argentina’s politics: All through my wild days
+
+Colombia’s peace process: Sorry, Uncle Sam
+
+Education in Mexico: Class, dismissed
+
+Bello: Cuba braces for belt-tightening
+
+Afghanistan: State departure
+
+Afghanistan’s opium trade: Making the desert bloom
+
+Banyan: Love money
+
+Democracy in Kazakhstan: A dissident with nothing to say
+
+Calculating age in South Korea: A two-year month
+
+Australia’s election: Heated debate
+
+Taming deserts: Dust to dust
+
+South Africa: Over the rainbow
+
+How to spend it: Golden fleeces
+
+Farming in Rwanda: After subsistence, what?
+
+America and Iran: Strange manoeuvres
+
+Russia in the Middle East: Putin’s road to Damascus
+
+Immigration in Germany: Opening up, a crack
+
+Bulgaria: Secrets and lies
+
+Wine and punishment: Battling the bottlenecks
+
+France: Mighty new metro
+
+Charlemagne: How to win the Eurovision Song Contest
+
+The European election: When the centre cannot hold
+
+Football and finance: Scouts’ honour
+
+Metro Bank: Open season
+
+Child sexual-abuse images: Atonement
+
+Toxic TV and mental health: Reality bites
+
+Inequality and mortality: Deaths of despair
+
+The Green Party: The green ripple
+
+Bagehot: The return of Mr Brexit
+
+Politics and comedy: Funny business
+
+China and America: A new kind of cold war
+
+The view from Washington: I spy
+
+The view from Beijing: Same bed, different dreams
+
+Down on the farm: Down on the farm
+
+Slow boat: Slow boat
+
+Competing in technology: One-party tech
+
+Military development: Sputnik moments
+
+Trade: On your bike
+
+The future: A contest for the ages
+
+Sanctions Inc: Hide and seek
+
+Chaebol family feuds: Korean heir
+
+Corporate spin-offs: Breaking up is hard to do
+
+Freight apps: Moving with the times
+
+Bartleby: The joy of absence
+
+Chinese business: The daughter rose in the East
+
+Schumpeter: Sleepless in Silicon Valley
+
+Private equity: After Abraaj
+
+US-China trade: Fighting words
+
+Pakistan’s rocky finances: Catch 22
+
+Initial public offerings: NOIPO?
+
+O cannabis: Dank stats, bro
+
+America’s housing market: Flipping property
+
+Buttonwood: A tale of two stocks
+
+Fiscal policy: Consolidation programme
+
+Free exchange: Out there
+
+3D printing: Inside the body shop
+
+Cellular engineering: March to the scaffold
+
+Conservation: Hunger games
+
+Living in outer space: Back to the future
+
+Metrology: Perfectly constant
+
+Organic farming: Not a pile of dung
+
+Intellectual history: Live and let live
+
+Harper Lee’s lost book: After cold blood
+
+Spanish fiction: Neighbours from hell
+
+Art and gender: Portrait by a lady
+
+The Venice Biennale: Beneath the waves
+
+Economic and financial indicators
+
+Beer ratings: Familiarity Fosters contempt
+
+Jean Vanier: The beauty of humans
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>The Economist</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">75d8d357-b1b8-44e9-afba-fa5b08409e8c</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-17T00:30:35.047989+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
