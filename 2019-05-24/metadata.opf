@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8802d258-c5e1-40ae-ac57-ab3a195fb1a2</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="Economist, The" opf:role="aut">The Economist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-24T00:28:11.518264+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Work: The great jobs boom
+
+Big Tech and the trade war: Circuit breaker
+
+British politics: The end of the road
+
+Climate of fear: How to think about global warming and war
+
+India’s election: Hindu juggernaut
+
+Letters to the editor: On antibiotics, capital gains, China, America’s civil war, unicorns, ties
+
+Labour markets: Working it
+
+Policing and technology: Files, not faces
+
+Presidential approval: Tinted glasses
+
+Threatened wetlands: Save the swamp
+
+Lobstermen: Shellacked
+
+Pregnancy and prisons: Lock up the toddlers
+
+Trump’s financial records: All the president’s books
+
+Lexington: Lucky Kamala Harris
+
+Guns in Latin America: Law and ordnance
+
+Bello: Fernández &amp; Fernández
+
+India’s election results: Modi’s miracle
+
+Japanese politics: Cometh the hour, cometh the man’s son
+
+The Javanese: Polite and powerful
+
+Social engineering in Singapore: Baby strike
+
+Elections in Australia: Upset down under
+
+Banyan: At last
+
+Farming: Aporkalypse now
+
+Coffee-drinking: Full of beans
+
+Chaguan: A propaganda own goal
+
+The rise of Rojava: Who will rule the north?
+
+Fast food: Full bellies, full bins
+
+Bahrain: A Gulf case study
+
+Politics in Congo: Who’s the boss?
+
+Uganda: Gold blush
+
+The European Parliament elections: Centrifugal forces
+
+The European elections in France: Marching into trouble
+
+Czech democracy: Toughing it out
+
+German politics: Fade to black
+
+The alt-right in Europe: Academic controversies
+
+Charlemagne: The hugs don’t work
+
+Theresa May: The bitter end
+
+The Brexit Party: Social climbers
+
+Failing companies: Steel v spaghetti
+
+Vigilantes: Caught on camera
+
+Sport and race: Subcontinental slip
+
+The Lloyd’s insurance market: Name dropping
+
+Bagehot: Double or nothing
+
+Global warming: How climate change can fuel wars
+
+Technology wars: Inglorious isolation
+
+Technology deals: Acquired taste
+
+Quinoa: Seed bump
+
+MAXed out: Airlines would like to see Boeing’s 737 MAX back in the air
+
+Corporate taxes: Havenly as ever
+
+Indian business: Privatisation by stealth
+
+Bartleby: Picking up the Bill
+
+Child-safe internet: The kids aren’t alright
+
+Schumpeter: The Seven Ages of Climate Man
+
+Global markets: Late in the day
+
+Public debt in Germany: Black books
+
+Wealth management: Chubby cats
+
+Tariffs: Shining brighter
+
+Buttonwood: Index unlinked
+
+Cross-border payments: Into the big league
+
+Sin taxes: Soda stream
+
+Zimbabwe’s currency: A mouthful of zollars
+
+Free exchange: The plaza discord
+
+Behavioural biometrics: The way you walk
+
+Measles vaccination: Never too old
+
+Biogeochemistry: Gold leaf
+
+Human evolution: Stone-age hot pots
+
+Commemorating slavery: Giving up the ghosts
+
+Big Brother’s afterlife: The clock strikes 13
+
+British history: Prince charmless
+
+Tony Thomas: The boy from Africa
+
+Johnson: Mother tongues
+
+Economic data, commodities and markets
+
+Climate change: Not-so-cold comfort
+
+Bob Hawke: Advance Australia fair
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>The Economist</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">694ff0fd-d1b1-424b-a580-2341902da507</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-24T00:28:25.806563+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
