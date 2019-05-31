@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">181</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">2ae99e67-417b-44c5-898d-b91e141b6f27</dc:identifier>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">195</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e46281df-4a86-4c1a-a72e-6e6e526f6514</dc:identifier>
         <dc:title>The Economist</dc:title>
-        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:creator opf:file-as="Economist, The" opf:role="aut">The Economist</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2019-05-10T00:46:42.360015+00:00</dc:date>
+        <dc:date>2019-05-31T00:22:16+00:00</dc:date>
         <dc:description>本期文章:
 
 Politics this week
@@ -15,162 +15,162 @@ Business this week
 
 KAL’s cartoon
 
-America and Iran: Collision course
+Britain’s constitutional time-bomb: The next to blow
 
-Trade talks: Deal or no deal
+The EU’s top jobs: Buggins belongs at the back
 
-Latin America: Under the volcano
+Central banks: Think bigger
 
-The Istanbul election: Going down
+The trade war and big tech: One thousand and one sleepless nights
 
-Technology and snooping: How creepy is your smart speaker?
+Brazil’s militias: Fighting thugs with thugs
 
-Letters to the editor: On psychiatry, the EU, ballot initiatives, Huawei, air pollution, measles, Hell
+Letters to the editor: On the Sahel, Australia, India, smart speakers, Venezuela, IKEA, joke politicians
 
-Latin America: The 40-year itch
+The British constitution: The referendums and the damage done
 
-Presidential power: The chief-executive branch
+Climate change and the Midwest: Soaked and less sceptical
 
-Bias: Everyone’s a little less racist
+Recession planning: Automatic for the people
 
-Policing madness: Riding shotgun
+Raising the Clotilda: Diving into the wreck
 
-Mexican-Americans: After a tipping point
+The Texas legislature wraps up: Hide your crazy
 
-Lexington: Peace in the Middle East
+Country music: Lonesome whistle
 
-Venezuela: Running out of options
+Female genital mutilation: The first cut
 
-Baseball in Peru: Selling fish, catching flies
+Lexington: Nemesis Pelosi
 
-Australia’s election: No takers
+Rio’s militias: Shadow state
 
-Press freedom in Myanmar: 511 days later
+Bello: Export or stagnate
 
-Elections in the Philippines: A first family affair
+Mapping favelas: Terra cognita
 
-Measuring India’s economy: Service culture
+The death penalty in Pakistan: The ultimate wrong
 
-Politics in Thailand: Crown and spectre
+Politics in India: In need of a hand
 
-Banyan: Where the Raj lives on
+Banyan: What makes you “kkondae”
 
-Study abroad: Formed in Formosa
+Politics in Papua New Guinea: A departure unmourned
 
-Naval movements: In deep water
+Local government in Japan: No contest
 
-Chaguan: Pulling apart
+Personal bankruptcy: A way out
 
-America and Iran: A dangerous direction
+Land reclamation in Hong Kong: The Lantau row
 
-Inside Iran: Rouhani’s remorse
+Chaguan: Tiananmen, 30 years on
 
-Israel and Hamas: Rockets over Gaza
+Israeli politics: Back to the ballot box
 
-Albinos in Malawi: White magic
+Tribes in Iraq: Rent-a-sheikh
 
-Benin’s lousy election: The wrong kind of rupture
+Nigeria’s economy (1): More misery ahead
 
-Turkey: Democracy denied
+Nigeria’s economy (2): Protection racket
 
-Italy: Out of the frying pan, but into what?
+Liberia’s lurch: A yellow card for the government
 
-Estonia: In the fast lane
+The European Parliament elections (1): All the colours of the rainbow
 
-France: When Marie met Yanis
+The European Parliament elections (2): Winners and losers
 
-Russia: Workers of Russia, unite!
+Europe’s mini-Olympic games: Small is beautiful
 
-Charlemagne: Between somewhere and anywhere
+Traffic policy: An enemy of the people-carrier
 
-Left-wing thinking: The brains behind Corbynomics
+Charlemagne: And they’re off!
 
-The monarchy: Rich kids of Instagram
+Brexit and the Tories: Centre aground
 
-Homelessness: Manchester, united
+The Brexit Party: Now for a real test
 
-The Brexit negotiations: A little less conversation
+Technical v academic studies: A for effort
 
-The alpaca boom: Herd behaviour
+Tory members: Ide Hill minds
 
-Foreign investment: What’s up?
+Urban planning: End of the road
 
-North Sea divers: A life under pressure
+Regeneration: Nothing to sea here
 
-Bagehot: On manoeuvres
+Bagehot: Enemies within
 
-Women’s sport: A defining moment
+Curbing malaria: Anopheles’ big adventure
 
-Anheuser-Busch InBev: Bud far from Stella
+Malaria in Zambia: Let them spray
 
-Aerospace: Down in flames
+Aviation: The future of flight
 
-Ride-hailing: Public distress
+Manufacturing: Some assembly required
 
-American oil: There will be blood
+Propulsion systems: The jet set
 
-Television: I don’t want my pay-TV
+Avionics: Drop the pilot
 
-Bartleby: Staff and nonsense
+Aviation and the environment: Smoking grass
 
-Intel: Fear of missing out
+Faster than sound: Tomorrow never dies
 
-Schumpeter: The REIT stuff
+Urban air mobility: Where’s my flying car?
 
-US-China trade (1): Speaking softly
+Vincent Bolloré: Empire builder
 
-US-China trade (2): Shock therapy
+Bartleby: Ask and you shall receive
 
-Switzerland’s stock exchange: Hostage situation
+Big Oil and climate change: Back to the well
 
-India’s stockmarket: 28 weeks later
+Opioids: An industry in the dock
 
-Financial inclusion: Revolutionary cells
+Rocket Internet: Stage three
 
-Welfare programmes: Spilling over
+Renault and Fiat Chrysler: The ultimate tribute show
 
-Buttonwood: The rub of the VIX
+Schumpeter: iPhoney war
 
-America’s community banks: They know their customers
+Clearing houses: Flight to safety
 
-Free exchange: You’ll never ride alone
+Chinese stocks in America: Far from home
 
-Intelligent machinery: Speaker see. Speaker do
+Indonesia’s economy: After infrastructure
 
-Success in academia: Never give up
+Cryptocurrencies: FaceCoin
 
-Satellite internet: Weaving a web in space
+Online banks in America: Trouble logging in
 
-Formula E: Zap!
+Free exchange: The bonds that tie
 
-Extinction: Dead end
+Medicine: Guts, brains and autism
 
-Protecting coral reefs: Please do not bleach
+Astronomy and human evolution: Starchildren
 
-The uses of antiquity: An artist of the floating world
+Robotics: Hand in glove
 
-What lies beneath: Another country
+Satellites versus astronomers: Blinded by the light
 
-Johnson: Degrees of separation
+Inequality: The listening cure
 
-Urban fiction: Tales of the cities
+New American fiction: Womb for rent
 
-Religion in America: Beyond belief
+Myth and history: A noble enemy
 
-Economic data, commodities and markets
+Saudi television: Princely drama
 
-Mountaineering: Not so rare air
+Europe’s elections: An equal and opposite reaction
 
-Les Murray: A bard for the left-out
+I.M.Pei: His light materials
 
 Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
-        <dc:publisher>calibre</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">c9fd8de2-e672-4652-8439-3ab8f7b4a021</dc:identifier>
+        <dc:publisher>The Economist</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">44bfdc8a-10fa-4f32-9df1-52d0b138d687</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>新闻</dc:subject>
         <dc:subject>The Economist</dc:subject>
-        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2019-05-10T00:46:57.281558+00:00" name="calibre:timestamp"/>
+        <meta content="{&quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-31T00:22:30+00:00" name="calibre:timestamp"/>
         <meta content="Economist, The" name="calibre:title_sort"/>
     </metadata>
     <guide>
