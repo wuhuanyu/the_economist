@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">181</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ae99e67-417b-44c5-898d-b91e141b6f27</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-10T00:46:42.360015+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+America and Iran: Collision course
+
+Trade talks: Deal or no deal
+
+Latin America: Under the volcano
+
+The Istanbul election: Going down
+
+Technology and snooping: How creepy is your smart speaker?
+
+Letters to the editor: On psychiatry, the EU, ballot initiatives, Huawei, air pollution, measles, Hell
+
+Latin America: The 40-year itch
+
+Presidential power: The chief-executive branch
+
+Bias: Everyone’s a little less racist
+
+Policing madness: Riding shotgun
+
+Mexican-Americans: After a tipping point
+
+Lexington: Peace in the Middle East
+
+Venezuela: Running out of options
+
+Baseball in Peru: Selling fish, catching flies
+
+Australia’s election: No takers
+
+Press freedom in Myanmar: 511 days later
+
+Elections in the Philippines: A first family affair
+
+Measuring India’s economy: Service culture
+
+Politics in Thailand: Crown and spectre
+
+Banyan: Where the Raj lives on
+
+Study abroad: Formed in Formosa
+
+Naval movements: In deep water
+
+Chaguan: Pulling apart
+
+America and Iran: A dangerous direction
+
+Inside Iran: Rouhani’s remorse
+
+Israel and Hamas: Rockets over Gaza
+
+Albinos in Malawi: White magic
+
+Benin’s lousy election: The wrong kind of rupture
+
+Turkey: Democracy denied
+
+Italy: Out of the frying pan, but into what?
+
+Estonia: In the fast lane
+
+France: When Marie met Yanis
+
+Russia: Workers of Russia, unite!
+
+Charlemagne: Between somewhere and anywhere
+
+Left-wing thinking: The brains behind Corbynomics
+
+The monarchy: Rich kids of Instagram
+
+Homelessness: Manchester, united
+
+The Brexit negotiations: A little less conversation
+
+The alpaca boom: Herd behaviour
+
+Foreign investment: What’s up?
+
+North Sea divers: A life under pressure
+
+Bagehot: On manoeuvres
+
+Women’s sport: A defining moment
+
+Anheuser-Busch InBev: Bud far from Stella
+
+Aerospace: Down in flames
+
+Ride-hailing: Public distress
+
+American oil: There will be blood
+
+Television: I don’t want my pay-TV
+
+Bartleby: Staff and nonsense
+
+Intel: Fear of missing out
+
+Schumpeter: The REIT stuff
+
+US-China trade (1): Speaking softly
+
+US-China trade (2): Shock therapy
+
+Switzerland’s stock exchange: Hostage situation
+
+India’s stockmarket: 28 weeks later
+
+Financial inclusion: Revolutionary cells
+
+Welfare programmes: Spilling over
+
+Buttonwood: The rub of the VIX
+
+America’s community banks: They know their customers
+
+Free exchange: You’ll never ride alone
+
+Intelligent machinery: Speaker see. Speaker do
+
+Success in academia: Never give up
+
+Satellite internet: Weaving a web in space
+
+Formula E: Zap!
+
+Extinction: Dead end
+
+Protecting coral reefs: Please do not bleach
+
+The uses of antiquity: An artist of the floating world
+
+What lies beneath: Another country
+
+Johnson: Degrees of separation
+
+Urban fiction: Tales of the cities
+
+Religion in America: Beyond belief
+
+Economic data, commodities and markets
+
+Mountaineering: Not so rare air
+
+Les Murray: A bard for the left-out
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">c9fd8de2-e672-4652-8439-3ab8f7b4a021</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-10T00:46:57.281558+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
