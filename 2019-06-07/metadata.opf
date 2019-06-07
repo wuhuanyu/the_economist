@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96c26e28-0280-4935-b4ed-86b70df1bf48</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="Economist, The" opf:role="aut">The Economist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.43.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-07T00:22:22.339447+00:00</dc:date>
+        <dc:description>本期文章:
+
+Business this week
+
+KAL’s cartoon
+
+American power: Weapons of mass disruption
+
+The internet’s next act: You ain’t seen nothing yet
+
+Regional development: Head south, young Chinese
+
+Psilocybin: Let magic into the daylight
+
+Letters to the editor: On climate change, Uber, foreign policy, abortion, David Cameron, labour markets, Unilever, sheep
+
+The second half of the internet: A global timepass economy
+
+Extreme online vetting: Liberty LMAO
+
+Solitary confinement: Two decades in a concrete box
+
+Lexington: Baseball and exceptionalism
+
+MLK and the FBI: Regicide
+
+Thai politics: An unequal sequel
+
+Banyan: Trouble in Shangri-La
+
+Seoul’s silliest sinecure: Enemies with benefits
+
+Tourism in Bangladesh: Who needs foreigners?
+
+Economic geography: Flyover country v coastal elite
+
+Chaguan: China courts the world
+
+Congo’s fever trees: Guns and tonic
+
+Tanzania: Dam nation
+
+German politics: Picking up the rubble
+
+Labour’s foreign policy: The Corbyn doctrine
+
+The Trump visit: When the Donald calls
+
+Investment management: Woodford, felled
+
+Surrogacy: Pro-creation
+
+Football and racism: Salah tackles Islamophobia
+
+Sport and identity: It’s all kicking off
+
+Bagehot: Odd man out
+
+Psilocybin: Shroom for improvement
+
+Psychedelic tourism: The trip of a lifetime
+
+Bartleby: Charity begins at work
+
+Cruise lines in China: Not what it was
+
+Competition: Fine by US
+
+Automotive mega-deals: Braking bad
+
+Foreign-investment disputes: Kafkaesque
+
+Micromobility: Growing up
+
+Schumpeter: Blue-collar capitalists
+
+America First trade policy: Bully for you
+
+India’s economy: Time for a makeover
+
+Buttonwood: Bath time for bonds
+
+Monetary policy: Evolutionary road
+
+Free exchange: Enough is never enough
+
+Alternative energy: Castles in the sky?
+
+Revealing forged art: The tiniest of clues
+
+Diet and evolution: High-carb footprint
+
+Symbiosis: An underground marketplace
+
+Russian literature: Smoke and dust
+
+Science and conflict: Brothers in arms
+
+Human capital: Dismal professionals
+
+Luca Pacioli: The first folio of finance
+
+Johnson: The Roman way
+
+Economic data, commodities and markets
+
+Google’s algorithm: Seek and you shall find
+
+Judith Kerr: Cats large and small
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>The Economist</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ae03f17e-d2e2-4b6e-86c2-ae2d6078c585</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-07T00:22:32.570567+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
