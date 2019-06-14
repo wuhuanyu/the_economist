@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">213847a0-cdfc-4ff9-a6b7-a8dd1ded7f3f</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.43.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-14T01:22:57.700387+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The rule of law: Hong Kong
+
+The European Central Bank: Presidential credentials
+
+British politics: A Conservative clown show
+
+Sudan: Stop the war before it starts
+
+The European Union: A Balkan betrayal
+
+Letters to the editor: On Brazil, water, chess, Britain, criminal justice, Germany, the bible, presenteeism
+
+Protests in Hong Kong: A palpable loss
+
+Hong Kong’s economy: Garrotting the golden goose
+
+Race and life expectancy: Black lives longer
+
+Worker-ownership funds: The winner (no longer) takes it all
+
+Religion and freedom: I can do no other
+
+Political ideology: Left nation
+
+Burying the poor: Potters’ fields
+
+Environmental policy: Green New Democrats
+
+Lexington: On the edge
+
+North American diplomacy: Chatting over the fence
+
+Bello: Lava Jato in trouble
+
+Ayahuasca in Colombia: Bad trip
+
+Canadian basketball: Slam dunk, eh?
+
+Indian politics: Costume drama
+
+Recycling: Refusing refuse
+
+Japanese names: Flipping out
+
+An election in Kazakhstan: Old problems, no solutions
+
+Power generation in South Korea: A muddy future
+
+Banyan: The rugged nanny state
+
+Rare earths: Magnetic attraction
+
+Debating contests: Dialectical materialism
+
+Crisis in Khartoum: Sudan on the brink
+
+Religious schools in Senegal: Chained to tradition
+
+Media freedom in Nigeria: Don’t gag me
+
+Gay rights in Africa: Love and the law
+
+Iraqi Kurdistan: Comeback Kurds
+
+The Gulf: Sovereign wealth, sovereign whims
+
+Prostitution: The new puritans
+
+France: Emmanuel Macron’s Act II
+
+Russia: Five days that rattled the Kremlin
+
+The politics of climate change: Germany’s green makeover
+
+Moldova’s political crisis: Plahotniuc v Putin
+
+Charlemagne: A Brexit dividend
+
+The Conservative leadership contest: Dealers and no-dealers
+
+Climate-change protests: The sky’s the limit
+
+Liberal Democrats: The centre holds
+
+Hargreaves Lansdown: Nice little earner
+
+Higher education: SOS for SOAS
+
+The justice system: Court in the middle
+
+Paying for the BBC: Grannies v Auntie
+
+Bagehot: The edge of the volcano
+
+Delays in the skies: A holding pattern
+
+The life of German tycoons: The reticent rich
+
+Bartleby: For the future, look to the past
+
+Transport: Flying start
+
+Computer games: Unconsoled
+
+Antitrust in America: The break-up conversation
+
+Tesla’s tribulations: Results at Tesla give Elon Musk much to think about
+
+Schumpeter: Fighting the next war
+
+The European Central Bank: Constrained optimisation
+
+Dodgy data: The Indian growth fable
+
+Martin Feldstein: An economic institution
+
+Government debt: Open book
+
+Monetary policy: The tail that wags
+
+Charity at scale: More is less
+
+Buttonwood: Against the clock
+
+American retail banking: The giants are coming
+
+Free exchange: Votes of confidence
+
+Space business: Orbital ecosystem
+
+AI in space: In high detail
+
+Gene editing: Jump start
+
+Neuroscience: Spark of genius
+
+Tyre technology: Flat out useful
+
+Policing social media: Guardians of the galaxy
+
+Anglo-Turkish fiction: Life after life
+
+Crime and the environment: Into the inferno
+
+Art and love: A muse’s burden
+
+Culture in the Middle East: The sultan’s song
+
+Cricket: Beyond a boundary
+
+Claus von Bülow: Did he or didn’t he?
+
+Economic data, commodities and markets
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-14T01:23:06.250774+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
