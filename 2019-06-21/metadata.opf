@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">215</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">382b8c83-4b4e-40ad-bc6c-915ef0820edf</dc:identifier>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">216</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3379acc6-ffbe-4261-81c4-8fbffc8173cc</dc:identifier>
         <dc:title>The Economist</dc:title>
-        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:creator opf:role="aut">The Economist</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.44.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2019-06-21T00:34:57.017371+00:00</dc:date>
+        <dc:date>2019-06-21T05:01:58.128319+00:00</dc:date>
         <dc:description>本期文章:
 
 Politics this week
@@ -182,13 +182,13 @@ Demography: Missing millions
 Franco Zeffirelli: The pursuit of beauty
 
 Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
-        <dc:publisher>calibre</dc:publisher>
+        <dc:publisher>The Economist</dc:publisher>
         <dc:language>eng</dc:language>
         <dc:subject>新闻</dc:subject>
         <dc:subject>The Economist</dc:subject>
-        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2019-06-21T00:35:02.117000+00:00" name="calibre:timestamp"/>
-        <meta content="Economist, The" name="calibre:title_sort"/>
+        <meta content="{&quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-21T05:02:07.471134+00:00" name="calibre:timestamp"/>
+        <meta content="未知" name="calibre:title_sort"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" title="封面" type="cover"/>
