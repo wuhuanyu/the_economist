@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">382b8c83-4b4e-40ad-bc6c-915ef0820edf</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-21T00:34:57.017371+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The Conservative leadership: Which Boris would Britain get?
+
+California and Texas: Texafornia dreaming
+
+Facebook’s new cryptocurrency: Click here to buy Libra
+
+Unrest in Hong Kong: China’s chance
+
+Pet theories: Reigning cats and dogs
+
+Letters to the editor: On Britain, Concorde, Nigeria, ships, Jeremy Corbyn, baseball
+
+The British and Brexit: The new tribes
+
+Trump 2020: Greatest hits
+
+Secretaries wanted: An empty cabinet
+
+The Democrats: Primary numbers
+
+Andrew Yang: Prophet of doom
+
+More liberal, functional Illinois: Whistling crayfish
+
+Harvey Weinstein’s trials: Court in the act
+
+Lexington: Elizabeth Warren, saviour of capitalism
+
+Pensions in Brazil: Starting the party
+
+Bello: New man, old problems
+
+Gay rights: The next pink tide
+
+Guatemala’s election: After the comedian
+
+Government v chaebol in South Korea: Some guns blazing
+
+Banyan: Not cowed
+
+African swine fever: Swine on the line
+
+Indo-Pak rivalry: A sticky wicket
+
+Land reform in the Philippines: Blood and soil
+
+Unrest in Hong Kong: Carrie on, for now
+
+Chaguan: America, as seen from Beijing
+
+America and Iran: Playing with fire
+
+America and Israel: The height of flattery
+
+Egypt: An epilogue for the revolution
+
+Ghana and the IMF: Never gonna let you go
+
+Burundi: Land of the Eternal Supreme Guide
+
+Turkey: Round two
+
+Shame, shame, shame: Tourism is coming
+
+Flight MH17: Accusing the absent
+
+Ireland: Sinn Fein’s long march
+
+Russia: The new musketeers
+
+Charlemagne: Built on air
+
+The Tory leadership race: The Boris bubble
+
+What Europe thinks: Rosbif with cake
+
+The Bank of England: Hawks take flight
+
+Theresa May’s final days: Can’t buy me love
+
+The judicial system: Bench pressed
+
+Expensive medicine: British Buyers Clubs
+
+Sheltered housing: A pinker shade of grey
+
+Bagehot: The Plato test
+
+Pet animals: Four legs better?
+
+California and Texas: A tale of two states
+
+Business, tax and regulation: Faded gold
+
+Public education: Do your homework
+
+Welfare: Social insecurity
+
+The environment: The cost of going green
+
+Immigration: Crossing over
+
+The future: State of the nation
+
+Sources and acknowledgments
+
+Facebook: Coin flip
+
+Bartleby: The promotion curse
+
+Libra and banking: Libralised finance
+
+Auction houses: Behind the curtain
+
+Technology IPOs: Let’s try this again
+
+Pharmaceuticals: Profit warning
+
+Pan-African business: Local heroes
+
+Schumpeter: Trust-busting
+
+Chinese debt: Deeper in the red
+
+Porcine perils for UBS: When pigs don’t fly
+
+Wells Fargo: The hottest seat in banking
+
+Deutsche Bank’s troubles: Slasher flick
+
+Argentina and the IMF: Repeat business
+
+Private debt in emerging markets: Loan away from home
+
+Buttonwood: Beggar thy neighbour
+
+Free exchange: Cost conscious
+
+Extreme robotics: Cybernetic skivvies
+
+Dinoflagellates v copepods: Blinded by the light
+
+Behavioural economics: Money doesn’t make the world go round
+
+Beekeeping: Honey, I’m home
+
+Climate change: Greenland is melting
+
+Clandestine warfare: Special Drone Service
+
+Chi-fi: The lonely hidden army
+
+Myanmar: Orwell’s elephant
+
+British landscapes: Down to the river
+
+Music and economics: The gig economy
+
+Johnson: In the beginning is the word
+
+Economic data, markets and commodities
+
+Demography: Missing millions
+
+Franco Zeffirelli: The pursuit of beauty
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-21T00:35:02.117000+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
