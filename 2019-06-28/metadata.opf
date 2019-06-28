@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">221</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45b37ac8-b5a3-4543-924e-e9fea74777cf</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="The Economist" opf:role="aut">The Economist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-28T00:44:39.518265+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Financial services: Can the City survive Brexit?
+
+The Gulf crisis: How to contain Iran
+
+Turkey: Democracy bites back
+
+Climate change: States’ rights
+
+Language and the law: Silly sausages
+
+Letters to the editor: On investments, New York, pensions, English, Latin, the Conservatives
+
+America and Iran: The narrowing gyre
+
+Environmental policy: The great divide
+
+Donald Trump and women: Elle accuse
+
+Hospital bills: Never a bargain
+
+Prison architecture: Boutique slammers
+
+(Proper) football: Better play, lesser pay
+
+Lexington: Slave wages
+
+Canada: Trudeau prepares for a grilling
+
+Colombia: Lost llanos
+
+Bello: Peace or justice?
+
+The South Asian monsoon: The cloud messenger
+
+Rural Japan: Old, shrinking and broke
+
+India and America: A Harley-hating ally
+
+Coal in Australia: Black in business
+
+Banyan: Them v everyone
+
+Military reform: Army dreamers
+
+Nomenclature: Nominal confidence
+
+Chaguan: What next for Hong Kong?
+
+China and Africa: Beijing curbs its enthusiasm
+
+Ethiopia’s fragile revolution: Coups and contradictions
+
+Gambia: Parade of horrors
+
+The Trump peace plan: Not even halfway there
+
+Arab airports: Safety last
+
+Turkey: Making him stronger
+
+Albania: All blocked
+
+France: Into the wilderness
+
+Russia: A recycling revolution?
+
+Demography: A baby boomlet
+
+Charlemagne: Back to the barricades
+
+The future of health care: What’s up, doc?
+
+Sex and politics: Monsieur Boris
+
+Brexit and Northern Ireland: Back to the border
+
+The rich v the rest: How the 0.01% live
+
+Higher education: Degrees south
+
+Steroids and society: Welsh beef
+
+Bagehot: The other union
+
+Piracy: Crime waves
+
+Blackstone: Alternative reality
+
+Bartleby: The American exception
+
+Ousted from the throne: Japanese AGMs are getting more boisterous
+
+Video-streaming: Magical thinking
+
+European steelmakers: Something good
+
+Chinese technology: The balance of processing power
+
+The battle for Metro: From Prague, with cash
+
+Schumpeter: Not even halfway there
+
+Financial centres after Brexit: City under siege
+
+Buttonwood: Russian orthodox
+
+Mini-BOTs: Funny money
+
+Auditors in India: Qualified opinion
+
+Financial crime: Cracking the shells
+
+Fund management: Mismatch point
+
+Citéco: Museum piece
+
+Free exchange: On a knife-edge
+
+The war on cancer: Big is beautiful
+
+Palaeontology: Vegetarian crocodiles
+
+Animal archaeology: Bang the rocks together, guys
+
+Electrifying flight: Hybrid vigour
+
+Art and politics in Israel: Fault lines
+
+Mind-altering substances: Cactus spirit
+
+Papal history: Family affairs
+
+Italian fiction: Mamma mia
+
+The lives of others: Bard of Britain
+
+Residential property: As safe as houses
+
+David Esterly: Master and apprentice
+
+Economic data, commodities and markets
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>The Economist</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-28T00:44:51.418738+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
