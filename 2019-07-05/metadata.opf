@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">226</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8b8e568-8dd2-48a8-8c96-1579e3412537</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="The Economist" opf:role="aut">The Economist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-05T00:45:58.415056+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Politics: The global crisis in conservatism
+
+China v America: Counter-flow
+
+The European Union’s top jobs: Deae ex machina
+
+Libya: A country apart
+
+Futurology: Navigating the rapids
+
+On mental health, war literature, plastic waste, magistrates, air-traffic control, Boris Johnson, pets: Letters to the editor
+
+Conservatism: The self-preservation society
+
+Immigration detention: In the land of the free
+
+Laura Yeager: Madam General
+
+The Democratic primary: Debatable
+
+SCOTUS: Holding court
+
+Police officers and social media: Slur and protect
+
+Alaska: Baked
+
+Lexington: The calm within the storm
+
+The war on drugs: Blow up
+
+Colombia’s conflict: Jesús on the run
+
+Bello: Populism, rampant and constrained
+
+Uzbekistan: Ready, steady, reform
+
+Smartphone addiction in South Korea: Smombie apocalypse
+
+Polio in Pakistan: Drop goal
+
+Water shortages in India: Do or dry
+
+Banyan: Non-working-level talks
+
+Hong Kong’s protests: Anti-establishment day
+
+Department of waste management: Recycle, or else
+
+Chaguan: A chained dragon
+
+Libya: Siege on the Mediterranean
+
+Slinking to the exits: The UAE begins pulling out of Yemen
+
+Tunisian politics: Crisis delayed, for now
+
+Kenyan prisons: Learn the law, hope for freedom
+
+Sudan: Stalemate
+
+EU top jobs: The Leyen’s share
+
+The European Central Bank: Sticking to the plan
+
+Germany: Ghosts of the past
+
+Trouble in Georgia: Back in the bear pit
+
+France’s weather dilemma: Green on blue
+
+Charlemagne: Family trouble
+
+Brexit plans: The Tory time warp
+
+Brexit and citizenship: Passport to Portugal
+
+Jeremy Corbyn: Labouring Labour
+
+The LGBT movement: Rainbows and clouds
+
+Sin taxes: Boris eyes the nanny
+
+Press ownership: Sultan of the Standard
+
+Bagehot: The illusionist
+
+Lending and data: Numbers game
+
+If America and China clash at sea: China crisis: October 2020
+
+If America leaves NATO: Europe alone: July 2024
+
+If Egypt collapses: Pyramid scheme
+
+If robots don’t take all the jobs: A different dystopia: July 2030
+
+If America introduces a wealth tax: Rich people’s problems
+
+If Facebook shuts down in Europe: Network effects: July 2020
+
+If antibiotics stop working: Attack of the superbugs: July 2041
+
+If geoengineering goes rogue: Reaching for the sunshade: July 2030
+
+If the Allies had been more generous in 1919: Versailles revisited
+
+Sources and acknowledgments
+
+Mergers and acquisitions in America: Breaking the wave
+
+Bartleby: Send in the clouds
+
+Technology and geopolitics: Huawei OK to sell?
+
+Startup stakes: Whose unicorn is this?
+
+Obituary: Lee Iacocca: King of Detroit
+
+Saudi Aramco’s IPO: Back on the horizon
+
+Publishing in France: Book value
+
+Schumpeter: Ben van Beurden’s balancing act
+
+China’s financial opening: Panda express
+
+Monetary policy: Help wanted
+
+Art-secured lending: Cash in on your Picasso
+
+Buttonwood: The new public
+
+Oil markets: Making the cut
+
+Switzerland and the EU: Raising the stakes
+
+Pensions in Japan: Sumo-sized challenge
+
+Trade deals: Missed you
+
+Free exchange: Yellen’s unlikeliest student
+
+Farming insects: Grub’s up
+
+Superhydrophobic materials: A better raincoat
+
+Mass data collection: Mosquito vetting
+
+Conservation: One down, 226 to go
+
+Archaeology: Chemical biography
+
+Culture in the Gulf: The red ink and the black
+
+Fame and violence: Fallen idol
+
+Meteorology: Eye of the storm
+
+British fiction: Seaside rock
+
+Johnson: Voice of a nation
+
+Economic data, markets and commodities
+
+American democracy: The silent near-majority
+
+Judith Krantz: Woman of substance
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>The Economist</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-07-05T00:46:26.390638+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
