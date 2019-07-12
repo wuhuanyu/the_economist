@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">231</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">912d3450-bf7c-4c31-aee9-908e478dbd17</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="The Economist" opf:role="aut">The Economist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-12T00:44:37.053399+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+America’s economy: Riding high
+
+Citizenship in India: Show me your papers
+
+Italy’s public finances: The most dangerous man in Europe
+
+Investment banking: A nightmare on Wall Street
+
+Diplomatic leakage: Woodygate
+
+Letters to the editor: On banks, GPs, othering, Hong Kong, the promotion curse, Greenland, sausages
+
+The world economy: A strangely elastic expansion
+
+Nuclear diplomacy: One step forwards, many backwards
+
+Prosecuting Jeffrey Epstein: Acosted
+
+Cannabis use: Unintended, uh, whatever, man
+
+Surveillance technology: Vision quest
+
+Police training: Know when to hold ’em
+
+Lexington: Remembering Ross Perot
+
+Mexico: Resigning with rancour
+
+Venezuela: A bloody stalemate
+
+Bello: João Gilberto, the man from Ipanema
+
+India’s hunt for “foreigners”: Madness in the hills
+
+Afghan peace talks: Happy talk
+
+Migration in Myanmar: Movers and forsakers
+
+Bears v humans in Japan: The bears are winning
+
+Letter from Zhongguancun: Home-grown
+
+Chaguan: A generational divide
+
+Violence in Congo: Ituri’s injuries
+
+Eritrea: A gulag state totters
+
+Syria’s oil crisis: Tankers away
+
+Israel’s black Jews: Problems in the promised land
+
+Beirut rebuilt: Anti-cementism
+
+Italy: The captain sets course for the rocks
+
+Greece: Farewell, Syriza
+
+Filming in Siberia: Arctic zombie apocalypse
+
+Charlemagne: Wurst among equals
+
+Foreign policy: A specially strained relationship
+
+The politics of welfare: Moving out of Benefits Street
+
+London taxis: The Courts of Justice, please
+
+Immigration: A crack in the wall
+
+Election forecasting: Polling in the deep
+
+Sectarianism in Scotland: On the march
+
+Happiness and elections: The satisfaction paradox
+
+Global supply chains: A slow unravelling
+
+Slowbalisation: Bumpy new world
+
+Three industries: Loving China, leaving China
+
+Trade war: Which way out?
+
+Distribution: The speedy strawberry
+
+Digitisation: Where’s my stuff?
+
+Security: Safe or sorry?
+
+Bartleby: Superheroes need not apply
+
+BMW: Tune-up time
+
+Oil in Latin America: States of disarray
+
+Big Tech and big government: JEDI orders
+
+Women’s football: Net gains
+
+Electronic mail: Faster than a speeding bullet
+
+Schumpeter: The business of the body
+
+Free exchange: Keynes and gains
+
+The International Monetary Fund: Changing of Lagarde
+
+Buttonwood: First come, first served
+
+Turkey’s economy: Out of the window
+
+China’s development finance: Hey, big lender
+
+Deutsche Bank: A stitch in time
+
+Wimbledon tickets: Ball-game theory
+
+Automotive engineering: Back to the future
+
+Pigments: Studying scarlet
+
+Palaeoanthropology: The ancientest Greek
+
+Conservation and tourism: What? Me worry?
+
+Conservation in India: Liquid assets
+
+Death and dishonour: The only way out
+
+Alternative histories: A sea change
+
+He found a new place to dwell: Love me sweet
+
+New American fiction: School of scandal
+
+Europe’s economic history: Plumbing the glaciers
+
+Jennie Litvack: Call of the ages
+
+Economic data, commodities and markets
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>The Economist</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-07-12T00:44:45.574502+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
