@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">237</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65a49e25-50f6-4134-90fd-f6a741201492</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="The Economist" opf:role="aut">The Economist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.45.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-19T00:38:40.740018+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Space exploration: The next 50 years in space
+
+Immigration and America: While you were tweeting
+
+Business in America: Soaring stockmarket, peaking profits
+
+Export controls in Asia: History wars
+
+Democracy in Malaysia: Time to bury the tools of oppression
+
+Letters to the editor: On Hong Kong, free trade, California, London, Monty Python
+
+War in space: Using the force
+
+Paid family leave: Looking after baby
+
+Parental leave (2): The Daddy trap
+
+Monetary policy: Storytime with the Fed
+
+Strange bedfellows: Trump supporters need not apply
+
+Contraception: The other kind of pro-choice
+
+Lexington: Back to where he came from
+
+Asylum: Building a bureaucratic wall
+
+Wildlife: Right whales, wrong place
+
+Bello: A faint hope for Venezuela
+
+Democracy in Japan: Yawning in the face of danger
+
+Pakistan’s tribal areas: Political camouflage
+
+Banyan: Chemical corrosion
+
+Wages in Australia: Sun, surf and bonzer pay
+
+Civil liberties in Malaysia: Spare change
+
+Afghan weddings: Hall change
+
+Investment migrants: Golden parachutes
+
+Dolled up for the party: Politically correct cross-dressing
+
+Social media and politics: What’s up with WhatsApp?
+
+Ebola in Congo: The virus spreads
+
+Chad: Hanging Chad
+
+Travel bans: Boycotts of summer
+
+Women in Saudi Arabia: Changing the guard
+
+Germany’s AfD: Too far
+
+Spain: Stumbling towards a government
+
+Women and work: Ladies of the lab
+
+Rent controls: A policy that never works
+
+France: Into the trees
+
+Charlemagne: Knuckle-dusters and pearls
+
+The economy: Weak foundations
+
+Seaside property: Trimming the main sale
+
+Welsh politics: A beacon for Brexit?
+
+Learning to read: Righting reading
+
+Drug overdoses: Trainspotting revisited
+
+Hewlett Packard v Britain’s Bill Gates: Lynch mob
+
+Sports broadcasting: Fielding criticism
+
+Bagehot: The end of history
+
+Outer space: Star laws
+
+Corporate earnings: Earnings reprieve
+
+Bartleby: Academy rewards
+
+Facebook: Volte-face
+
+Homeopathy: Watered down
+
+Agribusiness: Bayer’s remorse
+
+Brands and protests: Pocarious position
+
+Schumpeter: Firefox and friends
+
+Innovation in insurance: Run for cover
+
+China’s slowing economy: Get used to it
+
+The European Central Bank: Space exploration
+
+Sterling: Global Britain
+
+Microfinance: One brick at a time
+
+Buttonwood: The factor fear
+
+Free exchange: Terminal degrees
+
+Lunar exploration: Apollo’s sister
+
+Brain-machine interfaces: A scent of Musk
+
+Due credit: Alan Turing, a computing pioneer, will feature on Britain’s £50 notes
+
+Literary posterity: Call him Ishmael
+
+Sex in America: What women want
+
+Conflict and vandalism: Dust to dust
+
+Johnson: The poetry of emoji
+
+Economic data, commodities and markets
+
+Ageing on Facebook: Teenage wasteland
+
+Pierre Mambele: Congo’s wheels
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>The Economist</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-07-19T00:38:55.906117+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
