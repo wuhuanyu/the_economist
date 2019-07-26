@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">242</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db93aec3-df3c-430f-b8f8-af00a368d63a</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="The Economist" opf:role="aut">The Economist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.45.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-26T00:40:11.798670+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Britain’s new prime minister: Here we go
+
+Russia and China: Brothers in arms
+
+Heatwaves: Hot as hell
+
+Currency wars: Do not escalate
+
+Microsoft: Rebooted
+
+Letters to the editor: On conservatism, taxing assets, Uzbekistan, Nazi operations, work
+
+Russia and China: The junior partner
+
+Overcrowded primaries: A Democratic dilemma
+
+The Russia investigation: Thus spake Mueller
+
+A new threat to New Orleans: Barry scary
+
+Indian-Americans: Samosa power
+
+Lexington: Alaska Hotshots
+
+Brazil: Caving on corruption
+
+Oaxaca: Pobre, pero sexy
+
+Guatemala’s judiciary: Buy any deans necessary
+
+Bello: The benefits of equidistance
+
+Taiwan’s president: Shine on
+
+North-east Asia’s contested skies: Scrambling
+
+Indian politics: The contest continues
+
+Pakistan and America: Mr Khan goes to Washington
+
+Banyan: Who do they think they are?
+
+Unrest in Hong Kong: Against the symbols of Beijing
+
+Xinjiang and international reactions: With friends like these
+
+The Gulf crisis: Spiralling
+
+Sport in Egypt: Masters of the mallet
+
+Ethiopia: The southern problem
+
+South African politics: Ramaphosa under siege
+
+Coal in Africa: Dirty and dumb
+
+Ukraine’s parliamentary elections: Total victory
+
+Russia’s protests: Moscow nights
+
+Kosovo’s prime minister: Lazarus redux
+
+Jews and Germany: Fight at the museum
+
+Malta and abortion: The last taboo
+
+Tour de France: Cycling’s coming home
+
+Charlemagne: The muscles from Brussels
+
+The new government: Britain finds its Bojo
+
+The economics of no-deal Brexit: How bad, exactly?
+
+Another new leader: Swinson takes charge
+
+Fiscal policy: The end of an era
+
+Rural affairs: Easy pickings
+
+Agriculture: Pastures old
+
+Bagehot: The loneliness of Boris Johnson
+
+Parliamentary chambers: Better politics by design
+
+Canada: The liberal north
+
+Economy: Handouts and high tech
+
+Social liberalism: Culture wars, Canadian-style
+
+The environment: Keeping it green
+
+Indigenous peoples: Righting the wrongs
+
+Foreign policy: A nice country in a nasty world
+
+Looking ahead: Last liberal standing?
+
+Sources and acknowledgments
+
+American utilities: Windfall
+
+Tech and governments: The sun also sets
+
+Bartleby: The curse of efficiency
+
+Lego v Barbie in China: Brick by brick
+
+German retailers: Stinginess is uncool
+
+Schumpeter: Lacking flexibility
+
+The euro area: Good day sunshine
+
+Currency manipulation: Fishing expedition
+
+Financial crime: Land of the tax-free
+
+Robo-advisers: Looking after the pennies
+
+Buttonwood: The auto-technocrats
+
+Small print: Critical conditions
+
+Live music: Touting for business
+
+Free exchange: The uncultured science
+
+Extreme weather: Climate blame game
+
+Superorganisms: Root cause
+
+Optics: The seed of light
+
+Cinema and reality: The director’s cut
+
+Resisting the Nazis: Message from hell
+
+Islam in America: Taking liberties
+
+Literary influences: Huck meets Kim
+
+A life in science: In praise of cyborgs
+
+Economic data, commodities and markets
+
+Economic forecasting: Curveball
+
+Li Peng: The butcher of Beijing
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>The Economist</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-07-26T00:40:25.076830+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
