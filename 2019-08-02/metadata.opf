@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">247</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58013456-fd99-43a4-b777-313c56888aed</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="The Economist" opf:role="aut">The Economist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-02T00:35:37.704593+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The future of the Amazon: Deathwatch
+
+The Federal Reserve and emerging markets: An opportunity
+
+Baltimore: Saving Charm City
+
+Digital payments: The dash from cash
+
+The Democratic Republic of Congo: If it bleeds, pay heed
+
+Letters to the editor: On insurance, Tommy Flowers, Colombia, the future, flatmates
+
+The Amazon: On the brink
+
+Baltimore: City on the brink
+
+American intelligence: Shame the devil
+
+Nick Clifford: Lessons from stone
+
+Puerto Rico: What now?
+
+Lexington: The mighty Dolphins
+
+Honduras: The humbling of Hernández
+
+Uber in British Columbia: Stop and go
+
+Peru: Martín’s manoeuvre
+
+Art that moves: Carlos Cruz-Diez, a Venezuelan whose murals appear to move, has died
+
+Politics in Singapore: Hazy
+
+Aboriginal rights in Australia: Waiting to be heard
+
+Japanese with disabilities: Chairbound but seated
+
+Public health in Indonesia: No smoking without a fire
+
+Banyan: Cha-cha check
+
+Skilled but jobless: Idle hands
+
+Reclaiming Hong Kong: Protest, but no movement
+
+Chaguan: Armchair warriors
+
+The Democratic Republic of Congo: An epidemic of violence
+
+Tyranny in Tanzania: Taken
+
+Gaza: An exodus in reverse
+
+Tunisia: A fond farewell
+
+Russian subversion: The enemy within
+
+Greece’s new government: Let the good times roll
+
+Wine in France: The rise of rosé
+
+Hohenzollerns in hot water: Jacobin fury
+
+The Arctic: Ice and fire
+
+Charlemagne: Streets ahead
+
+No-deal planning: Boris’s game of chicken
+
+Northern Ireland: Vroom, vroom
+
+Health and social care: Beds unblocked
+
+Gerard Lyons: The roar of the outsider
+
+Green transport: Orcadian rhythm
+
+Prisons: Porridge plc
+
+Bagehot: Long live the Tory revolution!
+
+Ungovernable democracies: Coalitions of chaos
+
+Digital marketplaces: How to beat Bezos
+
+Investing in technology: Double vision
+
+Bartleby: Nice work
+
+Pharmaceuticals: Generic script
+
+Tragedy in India Inc: Death of an entrepreneur
+
+Schumpeter: Foodoo economics
+
+Monetary policy: Turning point
+
+Buttonwood: Unalloyed blessings
+
+LSE buys Refinitiv: Terminal value
+
+Germany’s unbalanced economy: Getting uneven
+
+Class-action lawsuits: The CAT and the (alleged) fiddle
+
+Portugal’s labour force: Cold hard cash
+
+Bankers and 2020: Pick your poison
+
+Free exchange: Close calls
+
+Exoplanets: A measured approach
+
+Archaeology: Tales of the dead
+
+Alternative energy sources: Grey-sky thinking
+
+Architecture and design: Thinking outside the box
+
+The disinformation age: A world of lies
+
+Killer insects: The itch of fate
+
+Sporting fiction: Hoop dreams
+
+Economic data, commodities and markets
+
+The cashless economy: Tossing the coin
+
+Robert Morgenthau: The long arm of the law
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>The Economist</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-02T00:35:46.215713+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
