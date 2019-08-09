@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">252</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">616df615-a6df-4d48-9a1e-1a48fe6fd5e6</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="The Economist" opf:role="aut">The Economist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-09T00:14:32.491264+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The future of Hong Kong: How will this end?
+
+Mass shootings in America: It’s the guns
+
+US-China trade: Dangerous miscalculations
+
+Kashmir’s status: Modi’s bad move
+
+Endangered species: The elephant in the room
+
+Letters to the editor: On happiness and politics, Zhao Ziyang, America, plastic, Boris Johnson, the Moon
+
+Turmoil in Hong Kong: Seeing red
+
+Mass shootings: The definition of insanity
+
+On malign words: Toni Morrison
+
+Tom Dart: Bull’s-eye
+
+Life after coal: Comin’ round the bend
+
+Lexington: Rowing about rights
+
+Espírito Santo: Spirited effort
+
+Argentina’s election: It won’t be easy
+
+Caribbean tourism: Island shopping
+
+Sanctions on Venezuela: Feel the pressure
+
+Kashmir: A state no longer
+
+Uzbekistan: Dismantling the gulag
+
+Japan’s constitution: What grandfather left undone
+
+Race relations in Singapore: Face-off
+
+Cross-strait relations: Sunset for backpackers
+
+Historic preservation: Old buildings, new chic
+
+Chaguan: Distrust and verify
+
+Tertiary education in Africa: A higher challenge
+
+Higher education 2: Go figure
+
+Liberia: On the edge
+
+Ride-sharing in Lebanon: At your service
+
+Egypt’s austerity: Poverty on the Nile
+
+Migrants in Italy: Turning into a trickle
+
+Brussels jobs: All aboard the gravy train
+
+Fish-smuggling: Cod awful
+
+The Black Sea: Gunboat diplomacy
+
+Social care: Club 18-108
+
+The Faroes’ puffins: Well worth saving
+
+Charlemagne: The eastern summer
+
+No-deal Brexit: Can Parliament stop it?
+
+Rural internet: Our island Instagram story
+
+Policing and technology: Hold on a millisecond
+
+Public services: Boris gets out his wallet
+
+Trade post-Brexit: Free-for-all
+
+Northern Ireland: Bracing in the border lands
+
+Bagehot: Theresa 2.0
+
+Illegal wildlife trade: Where the wild things are going
+
+The fertility business: Seed capital
+
+Fertility benefits: Fert perks
+
+Energy companies: Shale sale
+
+Steelmaking: Double-edged
+
+Apps for the old: Silver screens
+
+Cashing out: American companies are no cash-hoarders
+
+Private equity: Locusts in lederhosen
+
+Bartleby: Turn off and drop out
+
+Schumpeter: The Exxon Valdez of cyberspace
+
+Currency wars: The guns of August
+
+Buttonwood: The meaning of seven
+
+Speeding up payments: Overdue
+
+HSBC: Chipped away
+
+Bond yields: Under water
+
+Finance in India: On the way to Wall Street
+
+Free exchange: Cut-price economics
+
+Space debris and human safety: Stopping a hard rain
+
+The IPCC land-use report: Il faut cultiver notre jardin
+
+Ecology: Burning questions
+
+Walter Bagehot: The greatest Victorian
+
+Creepy fiction: Mother courage
+
+Art and activism: High vis
+
+Life in New Orleans: Lost in the flood
+
+Johnson: Big and basic
+
+Economic data, commodities and markets
+
+Tech titans: Exalted valley
+
+Sutopo Purwo Nugroho: Under the volcanoes
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>The Economist</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-09T00:14:52.004702+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
