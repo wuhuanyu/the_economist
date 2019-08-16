@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">257</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a867deef-0284-4172-b435-743cbe688c5d</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="The Economist" opf:role="aut">The Economist</dc:creator>
+        <dc:creator opf:file-as="The Economist" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-16T00:40:40+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The world economy: Markets in an Age of Anxiety
+
+Nuclear doctrine: Finger on the button
+
+Civil liberties: Speak up
+
+Rising seas: A world without beaches
+
+Zimbabwe: Land of hope and worry
+
+Letters to the editor: On the teaching of history
+
+The rising seas: Higher tide
+
+Nuclear weapons: You first
+
+The Democratic primary: Among the 1%
+
+Drug markets: Legal and rarer
+
+Trading water: A liquid market
+
+Co-pay charities: Generous to a fault
+
+Lexington: Bernie’s permanent revolution
+
+Argentina’s election: The bonds that tie
+
+Guatemala’s election: “Sufficient testosterone”
+
+Security in Afghanistan: Exit strategy
+
+Civil rights in Kashmir: An area of darkness
+
+Kyrgyzstan: When presidents fall out
+
+Javanese royalty: Sour about a sultana
+
+Turmoil in Hong Kong: Airport mayhem
+
+Social media: Daka destinations
+
+Chaguan: The “black hands” conspiracy
+
+Zimbabwe’s crisis: Parched and pillaged
+
+Gabon: A scam too far
+
+Poverty in Rwanda: The devil in the details
+
+Yemen: The war within the war
+
+Education in Morocco: Quel est le problème?
+
+Turkey: When a caliphate collapses
+
+Italy: Matteo Salvini makes his move
+
+Russia: Not going away
+
+Germany’s economy: Ground to a halt
+
+Housing in the Baltics: Soviet blocks
+
+Charlemagne: The book of BoJo
+
+Railways: Getting back on track
+
+High Speed 2: A speed bump
+
+Fashion retail: Owning it
+
+Housing and politics: The Conservative catch-22
+
+Brexit and the constitution: A right royal mess
+
+Higher education: Under examination
+
+Football and feuds: Of goons and Gooners
+
+Free speech: The new censors
+
+Business in India: Modi blues
+
+Saudi Aramco: Tap dance
+
+Chinese technology firms: Stuck in the Middle Kingdom
+
+Media mergers: Together again
+
+WeWork’s IPO: Risky business
+
+Schumpeter: The FredEx conundrum
+
+The trade war and America’s economy: Under attack
+
+Financial markets: The new commonplace
+
+Britain’s economy: Deep freeze
+
+1MDB: And then there were seventeen
+
+Bond insurers: Bad wrap
+
+Adapting to climate change: Costing the earth
+
+Microfinance in Sri Lanka: Distress signals
+
+Free exchange: Into the woods
+
+Fooling Big Brother: Face off
+
+Nuclear propulsion: Chernobyl with wings
+
+Ebola: Hope
+
+Animal behaviour: P-P-Pick up a penguin
+
+Espionage fiction: Spies like us
+
+Cold-war summitry: Dancing on ice
+
+Music and morals in America: Boogie nights
+
+Magical realism: Ghost train
+
+Economic data, commodities and markets
+
+Afghanistan: Prisoners of war
+
+Toni Morrison: In her magnificence
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>The Economist</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;, &quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-16T00:40:48+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
