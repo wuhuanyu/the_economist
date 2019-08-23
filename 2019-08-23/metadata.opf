@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">268</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b11ea9c-3387-4fd7-baaf-92e19e8b7a26</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="The Economist" opf:role="aut">The Economist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-23T00:17:53.982077+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Shareholder capitalism: What companies are for
+
+Coal and climate change: Betting on black
+
+Business in China: Cathay’s mayday
+
+Italian politics: Time to govern, not campaign
+
+Germany’s economy: Take aim
+
+Letters to the editor: On the Amazon, BlackRock, Toni Morrison, e-scooters, HR, dry cleaning
+
+Corporate purpose: I’m from a company, and I’m here to help
+
+Immigration policy: Headless chickens
+
+Party politics: Rural change
+
+Evictions examined: Pushed out
+
+Late-term abortions: Abortion war
+
+Paraguay and power: A dam mess
+
+The burning Amazon: Darkness on the edge of town
+
+The Mexico City marathon: Chocolate rush
+
+Bello: The limits of technocracy
+
+Power generation: Down and dirty
+
+Racism in Indonesia: Independence day
+
+America and Taiwan: Tsai’s prize
+
+Social life in South Korea: Dropping the mic
+
+Crime in India: Silence or the grave
+
+Banyan: Fawning frenzy
+
+Hong Kong: Property and protest
+
+Macau: Betting on red
+
+Chaguan: When patriotism is in fashion
+
+Corruption in Mozambique: The net tightens
+
+Polio in Africa: Vanquishing the virus
+
+Hosni Mubarak: La vache qui vit
+
+Sudan: The start of something new?
+
+Syrians in Lebanon: No refuge
+
+Italy’s government falls: Salvini’s gamble
+
+Presidential rudeness: Arctic antics
+
+European unemployment: Work in progress
+
+Romania goes wild: Butting back
+
+Charlemagne: Ghosts of Terezin
+
+Higher education: Searching for students
+
+Foreign policy after Brexit: All at sea
+
+Drag acts: Lip-stick it to the man
+
+London’s politics: Capital fright
+
+In one ear, out the other: Johnson’s European tour
+
+Fried chicken and crime: On a wing and a prayer
+
+The United Kingdom: Wales watching
+
+Bagehot: Boris’s brain
+
+Insurance and the poor: Under cover
+
+The aerospace industry: Tick tock
+
+General Electric: Back on the Street
+
+Business in China: Wings clipped
+
+Productivity: Can get some satisfaction
+
+Semiconductors: Growing smartly
+
+Corporate behaviour: Funny business
+
+Confessions of a tycoon: Mea culpa
+
+Schumpeter: Vodafone’s search for the G-spot
+
+Credit Suisse: L’étranger
+
+International tax: Trading blows
+
+Chinese monetary policy: At any rate
+
+Buttonwood: The eternal moment
+
+Credit cards: Love at first byte
+
+Foreign investment and wages: Unequal partnerships
+
+Free exchange: A crisis of faith
+
+Astronomy: Matters of great gravity
+
+Art and prison: The Rock and a hard place
+
+A life in Zionism: The price of power
+
+Irish fiction: Nobody’s child
+
+Johnson: Everyday superheroes
+
+Wine investing: A cellar’s market
+
+Steve Sawyer: Hoisting the sails
+
+Economic data, commodities and markets
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>The Economist</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-23T00:18:03.336085+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
