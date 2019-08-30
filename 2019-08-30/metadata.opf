@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">273</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2caac2f7-49b7-4303-864e-0b40dd9d5f92</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-30T00:54:33.422303+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Brexit: Who’s gonna stop no-deal?
+
+Populism: Democracy’s enemy within
+
+Opioids: Avoidable pain
+
+Security in Asia: Slight club
+
+Vertical farming: Plant power
+
+Letters to the editor: On cash, the railways, Canada, Venezuela, Wilhelm II, harmony, contracts
+
+Hungary: The entanglement of powers
+
+The American economy: Areas of concern
+
+Real-estate commission: Sellers beware
+
+The 2020 election: The other primary
+
+Political merchandise: The first straw
+
+Criminal-justice policy: Righting the battleship
+
+Lexington: The Kochtopus’s garden
+
+Colombia: No-man’s land
+
+Bello: Playing with fire
+
+The feud between Japan and South Korea: Unique low
+
+Tourism in Thailand: Land of nervous smiles
+
+Bird life in New Zealand: Cheep dates
+
+Clean government in India: Vaulting for probity
+
+Banyan: Wars without end
+
+Gambling: Rien ne va plus
+
+Freedom of speech: Ghost at the feast
+
+Chaguan: Getting a grip
+
+Israel v Iran: The plots thicken
+
+Algeria: Democracy delayed
+
+African airlines: Blue-sky thinking
+
+Millenarianism in Congo: Sensing the end
+
+Botswana: A diamond in the rough
+
+French diplomacy: Back on the scene
+
+German politics: Autumn of the coalition
+
+Corruption in Slovakia: Murky messages
+
+Italy’s government: Not fallen yet
+
+Charlemagne: Air Europe
+
+Brexit tactics: Prime minister v Parliament
+
+National governments: Of gnus and other animals
+
+Education and technology: Prescribing tablets
+
+The football business: Bury, buried
+
+Payment protection insurance: Hasta la vista
+
+Tim Bell: Fake news’s founding father
+
+Restricted company names: Monikers Limited
+
+Bagehot: The new Tory rebels
+
+Cannabis: Going to pot
+
+Pharmaceuticals: Opioids Inc in the dock
+
+Altria and Philip Morris International: Smoke alarm
+
+Investing in technology: Softly, softly
+
+Bartleby: Juggling act
+
+Orsted: Tailwinds
+
+Schumpeter: The return of the merchant class
+
+India’s economy: Meagre fare
+
+The RBI’s reserves: Ravaged Bank of India?
+
+Trade: Fog of war
+
+Blue-collar workers: Reflecting back
+
+China’s economy: The other inversion
+
+Ebola in Congo: Sick notes
+
+Germany’s negative interest rates: Dear prudence
+
+German finance: Covered
+
+Brookfield Asset Management: Tower grab
+
+Free exchange: Meeting of minds
+
+Horticulture: Growing brighter
+
+What is a brain?: Synchronicity
+
+Genetics and sexuality: There is no “gay gene”
+
+Unintended consequences: The numbers guys
+
+Catering empires: Storms in a teacup
+
+Religion and history: The cross’s shadow
+
+Historical fiction: Road trip
+
+Culture in the Caucasus: The dancer and the dance
+
+Economic data, commodities and markets
+
+Woke companies: Money where their mouths are
+
+Richard Booth: A saviour in ermine
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-30T00:54:42.676640+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
