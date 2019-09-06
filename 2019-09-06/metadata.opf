@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebf95016-a943-47a9-9218-7fa47cf28638</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-06T01:02:45.362965+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Syria: Assad’s hollow victory
+
+British politics: The Unconservative Party
+
+The European Central Bank: Parting gifts
+
+Argentina: A superclassic crisis
+
+AI and war: Mind control
+
+Letters to the editor: On Hungary, the great auk, Brexit, Hong Kong, language, conservatism
+
+The Syrian civil war: Wings over prayers
+
+Refugees: The migrant crisis, revisited
+
+Governing: Bureaucratic blight
+
+North Carolina’s election: First in flight
+
+Shootings and gun laws: Daddy lessons
+
+The ideas primary: Wonk-in-chief
+
+Protesting: Dire straights
+
+War in space: The force awakens
+
+Lexington: Trumped by the Taliban
+
+Colombia: FARC, the sequel
+
+Hurricanes: Dorian’s wrath
+
+Bello: Will the “pink tide” return?
+
+Thailand’s armed forces: Changing of the guard
+
+Narcotics in Afghanistan: Meth in the madness
+
+Asylum in Australia: Winging it
+
+Homophobia in South Korea: Pride and protest
+
+Banyan: Forward to the past
+
+Unrest in Hong Kong: Carrie Lam’s blues
+
+The Belt and Road Initiative: From the party, with love
+
+Chaguan: Not yet a coming-out party
+
+The pope in Africa: Stony ground
+
+Gambling in Ethiopia: All bets are on
+
+Israel’s Arab citizens: Arab-Israelis or Palestinians?
+
+Russia: The Kremlin v the people
+
+Germany: Meltdown averted
+
+Italian crime: Hands to yourself
+
+The tenth city: Katowice: Silesian synthesis
+
+Charlemagne: No place for a technocrat
+
+The future of the right: The People’s Revolutionary Conservative Front
+
+Parliament and government: Johnson’s baby takes a bath
+
+Scottish Conservatives: A warning blast
+
+Brexit stockpiling: Cupboard love
+
+Left-behind places: Britain’s banlieues
+
+Demography: An Olympic generation
+
+Bagehot: Into the upside down
+
+Helping the poor: BRAC to the future
+
+Information technology: The digital assembly line
+
+Political risk: Deutschland AG v AfD
+
+Bartleby: The long and winding career
+
+South Korea’s chaebol: Prodigal son
+
+Online behaviour: About face
+
+High-tech fitness: Le maillot jaune
+
+Schumpeter: Popenomics
+
+Argentina’s economy: Force of circumstance
+
+Buttonwood: Tales of the expected
+
+China’s financial system: Expelling the poison
+
+Working hours: Balancing act
+
+Menu pricing: Consider the lobster roll
+
+The uncertainty of genius: The uncertainty of genius
+
+AI and war: Battle algorithm
+
+Memoirs and manifestos: Campaigning in prose
+
+Metafiction: Tilting at windmills
+
+Forgotten history: A killing field
+
+Tradecraft and stagecraft: Laughter in the dark
+
+Johnson: Wars of words
+
+Economic data, commodities and markets
+
+Latin America: Continent of discontent
+
+Jan Ruff O’Herne: Cries from a handkerchief
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-06T01:02:53.965318+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
