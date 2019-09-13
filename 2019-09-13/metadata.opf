@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">284</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3f27c78-c99f-4f57-a66a-f6e65d0d7fc5</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-13T01:32:34.818290+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Connected computers: Chips with everything
+
+The war in Afghanistan: Talking chop
+
+The tech cold war: A way forward?
+
+E-cigarettes: Don’t panic
+
+Europe’s economy: A singular opportunity
+
+Letters to the editor: On sea levels, democracy, property, Taiwan, India, Europe, Jacob Rees-Mogg
+
+The single market: An unconscious uncoupling
+
+Foreign policy: New job opening
+
+North Carolina’s election: Just past the post
+
+State of the unions: Highbrow organising
+
+Employment: The gig is up in California
+
+Health: Vaped and confused
+
+Status update: Friends with benefits
+
+I.M.probable: Modernism in the cornfields
+
+Lexington: A full-court press
+
+Venezuela’s exodus: Darkness falls
+
+Cuba and China: Double happiness
+
+Bello: Settling for half an arepa
+
+Afghanistan: No retreat
+
+Narcotics in Japan: Going for pot
+
+Scientific research in India: Lunacy
+
+East Timor: Foreign medalling
+
+Urbanisation in Bangladesh: Life after Dhaka
+
+Banyan: Spyfall
+
+Social stability: Shutting the gate
+
+Chaguan: Trucker culture, China-style
+
+Israel’s election: The magician’s latest trick
+
+Elections in Tunisia: A jailbird, a robot and many more
+
+Mozambique’s nutcrackers: Cashews and cash
+
+Anti-foreigner attacks flare: Hate thy neighbour
+
+Zimbabwe after Robert Mugabe: Grave threats
+
+France: Risking the rage of the aged
+
+The European Commission: A new Leyen-up
+
+Russia: Moscow’s slap to Putin
+
+Turkey: Protest rap in Turkey
+
+Church taxes: Pay to pray, even if you don’t
+
+Charlemagne: Choppy waters
+
+How Europe sees Brexit: Watchers in the dark
+
+Parliament: Speaker muted
+
+Pilots’ pay: Air strikes hit London
+
+International students: Hire education
+
+Political pacts: Divided they fall
+
+Out with the new: Cabinet churn is disrupting Britain’s government
+
+Monetary policy: The no-deal dilemma
+
+Bagehot: When two tribes go to lunch
+
+Drug shortages: The parrots eat ’em all
+
+Ubiquitous computing: Chips with everything
+
+Smart homes: Very personal computing
+
+From the home to the office: Tracking productivity
+
+Computerised farming: The cow of tomorrow
+
+Throwaway technology: Cheap as chips
+
+Cyber security: Hack the planet
+
+When humans are connected: The data liberator
+
+Connected future: A planetary panopticon
+
+Huawei: Piece offering
+
+Bartleby: The eyes have it
+
+Smartphones: Are you being served?
+
+Russian diamonds: Romancing the stones
+
+Porsche: Profit motor
+
+Nissan: Sayonara
+
+Schumpeter: The Redmond doctrine
+
+Fannie Mae and Freddie Mac: Home truths
+
+Global stock exchanges: Spoiler alert
+
+Buttonwood: The Japan bid
+
+Chinese inflation: A porcine phenomenon
+
+The IMF’s next boss: Sewn up
+
+Argentina’s economy: Exceptionable exceptionalism
+
+Free exchange: Common sense
+
+Flying taxis: Urban aviators
+
+Beach forensics: Name that dune
+
+Ageing: Rejuvenation juice
+
+Human evolution: Say what?
+
+Exoplanets: Blue world
+
+Political fiction: Return to Gilead
+
+Corporate America: The descent of man
+
+Urban history: The fractured lands
+
+Avant-garde conservatism: The air of freedom
+
+Economic data, commodities and markets
+
+100-year bonds: Austrian economics
+
+Robert Mugabe: Rule by the whip
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-13T01:32:48.625682+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
