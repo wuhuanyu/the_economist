@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">289</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2122492e-3af6-4560-ab5d-5d7f2cd02fab</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-20T00:26:03.781832+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+A warming world: The climate issue
+
+The Saudi attacks: Abqaiq the powder keg
+
+Israel: King Bibi’s reign is ending
+
+Regulating rent: Control your instincts
+
+Letters to the editor: On the purpose of a company
+
+Climate change: What goes up
+
+Green New Deals: The obstacle course
+
+Rent control: Progressives for regression
+
+Presidential appointments: Bob’s your adviser
+
+Rudy Giuliani’s adventures: Ukrainian vaudeville
+
+Lexington: Mark Sanford is back on the trail
+
+The Panama Canal: Beyond seasonable drought
+
+Bolivia: High and mighty
+
+Bello: The reds and the black stuff
+
+Planning for rising sea levels: In deep trouble
+
+Haze in South-East Asia: Gasping for air
+
+African swine flu: Boar war
+
+Chinese students in Australia: Waltzing Confucius
+
+Banyan: Cold command
+
+Climate-change targets: From smog to slog
+
+Science and dissent: Relatively revealing
+
+Chaguan: An atheist party gets religion
+
+Conflict in the Gulf: Iran’s dangerous game
+
+Oil markets: Now what?
+
+Israel’s election conundrum: Down but not out
+
+War in South Sudan: Au revoir to arms
+
+Malawi: When it rains
+
+Climate change: A warmer Russia
+
+Spain’s coming election: Back to the ballot
+
+Albania: Changing sides
+
+Italy: Demolition man
+
+Germany: Dirty, and not quick
+
+Charlemagne: Fade to brown
+
+Wind power: The experiment
+
+Abstemious students: Tequila crammers
+
+Asylum and work: Employment-seekers
+
+The Liberal Democrats: Ctrl+Z Brexit
+
+Defence industry: Tempestuous times
+
+Islamist extremism: Radicalisation in reverse
+
+Bagehot: A counterfactual Cameron
+
+Small islands and climate diplomacy: Nothing so concentrates the mind
+
+Climate capitalists: The not-so-dirty dozen
+
+Business and climate change: Planet Inc
+
+Bartleby: Masters of Business in Asia
+
+Purdue Pharma: Peddler’s gambit
+
+Masayoshi Son: Impaired vision
+
+Siemens: Kaeser’s reign
+
+Schumpeter: The lessons of Stephen Schwarzman
+
+Insurance and climate change: Blown cover
+
+Money markets and the Fed: Hitting the ceiling
+
+China’s statist model: Got your number
+
+Cum-ex deals in court: 12-step programme
+
+Buttonwood: Rich Pickens
+
+Free exchange: Learning to live with it
+
+The uncertainties of climate change: Throwing the dice
+
+Palaeoclimatology: Prophetic waters
+
+Climate change and art: Food for thought
+
+Booksellers and the law: There she blows
+
+Families in fiction: Kids these days
+
+American diplomacy: Absolute Power
+
+Johnson: First among equals
+
+The altered Arctic: Ice would suffice
+
+Okjökull: The last of ice
+
+Economic data, commodities and markets
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-20T00:26:13.437075+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
