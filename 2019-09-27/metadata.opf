@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5b845d3-19de-4685-bc0a-29a71bbacbcb</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.48.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-27T00:22:57.431070+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Twaddledee: The reckoning
+
+Twitterdum: The promise and the perils of impeachment
+
+Quantum computers: Supreme achievement
+
+The future of the office: Work in progress
+
+Agriculture: Bureaucratic herbicide
+
+Letters to the editor: On economists, Colombia, Syria, Stanley Baldwin, the Bible, China, Tories
+
+Impeachment: Telephone justice
+
+The Supreme Court: Robes on
+
+Electronic monitoring: Pricey tags
+
+College sports: Pay for play
+
+Public polling: Unknown numbers
+
+Health care: What Warren wants
+
+Lexington: Lessons from Bloody Harlan
+
+Politics in Canada: Dark days for Justin Trudeau
+
+Bello: The battle without end
+
+Japan’s economy: Stocks and scares
+
+Prisons in the Philippines: Breaking into jail
+
+Sinophobia in Kazakhstan: Truncheons at the ready
+
+Immigration to South Korea: Peninsular draw
+
+Malaysia’s youth vote: It’s the economy, bodoh!
+
+Banyan: No Jokowi
+
+Sinicising Islam: Out with the Arab-style
+
+Chaguan: Hearts and minds
+
+Agriculture in Africa: The underground revolution
+
+Natty Nigerians: The tailors of Lagos
+
+Ivory Coast: A delicate peace
+
+Protests in Egypt: Sisi’s pain in Spain
+
+America and Syria: A cry for attention
+
+Ukraine: Hope and fear
+
+France: The view from No 2027
+
+Austria: Kurz’s comeback
+
+Germany: Not good enough
+
+Turkey: Submerging history
+
+Estonian alcohol tax: Sober calculation
+
+Charlemagne: Emmanuel Macron’s long game
+
+The government and the law: Along came a spider
+
+Conflicts of interest: The Arcuri affair
+
+Labour’s conference: Right on in Brighton
+
+Abolishing Eton: A row going on down near Slough
+
+Alumni clubs: The new old-boy networks
+
+Thomas Cook’s collapse: Checking out
+
+Bagehot: After Corbyn
+
+Climate action: The day after tomorrow
+
+The world’s oceans: Sea changes
+
+Poverty in America: Poor America
+
+Who counts as poor?: Measure for measure
+
+Geographical changes: Outer-city poverty
+
+Race: Black and white
+
+Non-public options: Other ways out
+
+Children: The kids are not alright
+
+The future: Winning the war
+
+Future of the workplace (1): Redesigning the office
+
+Future of the workplace (2): WeWorry
+
+Bartleby: Hot desk, cold comfort
+
+Corporate tax: In the dock
+
+Television: Enthusiasm curbed
+
+Fine wine in China: In the vinguard
+
+Chinese drugmakers: A rising star
+
+Schumpeter: The entrepreneur’s new clothes
+
+Europe’s economies: The dip deepens
+
+American stock exchanges: Flash boys in the pan
+
+Indian taxes: Ray of light
+
+Subsidies in India: Sugar lump
+
+The market for lemons: Juicy analysis
+
+Trade wars: System failure
+
+A US-Japan trade deal: Over the line
+
+Free exchange: Repo uh oh
+
+Quantum computing: Schrödinger’s cheetah
+
+Palaeoclimatology: Data from the freezer
+
+Robotics: Pick-a-stick
+
+Medicine, genetics and the law: A not-so-merry dance
+
+Reproductive ecology: Spit it out
+
+A traveller from an antique land: An interstellar visitor
+
+European solidarity: Advance, Britannia!
+
+Mighty memes: Pictures to die for
+
+Religion in fiction: Beyond the pale
+
+The uses of philosophy: Debts to pleasure
+
+America in song: Three chords and the truth
+
+Economic data, commodities and markets
+
+China’s “maritime road”: The best offence is a good defence
+
+Robert McClelland: To save a life
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-27T00:23:06.281765+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
