@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">308</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">682c8db4-e856-45ac-8eb8-f1c93add7837</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.48.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-04T01:00:24.097589+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The rise of the financial machines: Masters of the universe
+
+Kashmir: Vale of tears
+
+Greece’s debt odyssey: Time to end extend and pretend
+
+Technology and politics: Open season
+
+Political rhetoric: Down with the people
+
+Letters to the editor: On Brexit, Afghanistan, popes, Einstein, Columbus, T. Boone Pickens
+
+Automatic investing: March of the machines
+
+Texas: The magenta mammoth
+
+Organised labour: In retreat
+
+Dynasties: Kennedy 4.0
+
+University admissions: Making a meritocracy
+
+Border deterrence: Build the swamp
+
+Lexington: The labours of Doug Jones
+
+Peru: The president, and the people, against the parliament
+
+Chile and lithium: Just-in-brine production
+
+Indigenous languages: Northography
+
+Bello: Crises past and present
+
+India’s courts and Kashmir: State of disgrace
+
+Elections in Afghanistan: Umpire state-building
+
+Depopulation in Japan: Brides for bumpkins
+
+Indonesia’s pious consumers: This magazine is certified halal
+
+India’s IT industry: Fab in India
+
+Banyan: Ode to misconduct
+
+Unrest in Hong Kong: Crashing the party
+
+Military technology: Opening the arsenal
+
+Chaguan: Reasons to be fearful
+
+Lebanon’s economy: Falling apart
+
+The war in Iraq: Roads to ruin
+
+Angola’s oil decline: After the flood
+
+Israel: Bibi makes his case
+
+Ethiopia’s Somali region: Lessons from an open-air prison
+
+Europe’s right-wingers: Populists under pressure
+
+Culture war in France: One tummy, two mummies
+
+Belgium: Tiny democracy
+
+The European Commission: Parliamentary privilege
+
+Gambling in Finland: Unlucky numbers
+
+Britain’s new Brexit plan: An offer they can refuse
+
+Royals and the media: Duke it out
+
+The prime minister: Not such a ladies’ man
+
+Political violence: Fighting talk
+
+Europe’s textile trade: Cut from the same cloth
+
+Trans rights: A new gender agenda
+
+The BBC: Any answers?
+
+Bagehot: Richard Milhous Johnson
+
+Global sports: Ahead of the game
+
+Silicon Valley in the cross-hairs: The tech offensive
+
+The EU v Silicon Valley: Der Techlash
+
+Crowdshipping: Headed your way
+
+African enterprise: Uberising luck
+
+Bartleby: From rags to Richer
+
+Nike: Don’t do it
+
+The Sino-American economic war: Lock stocks and bar all
+
+Schumpeter: Licking the skillet
+
+The Greek economy: To hell and back
+
+Transparency v privacy: FATCA chance?
+
+Boeing v Airbus: Plane clash
+
+India’s struggling banks: Lots of No-Nos
+
+Swiss banking: Discredit Suisse
+
+Crypto-derivatives: Too dicey
+
+European monetary policy: Calming the hawks
+
+Music revenues: Don’t stop me now
+
+Free exchange: Outrageous fortune
+
+Open-source computing: Your own RISC
+
+Optics: Dark business
+
+Space travel: Move fast and build things
+
+Animal behaviour: Children of dunes
+
+Marine pollution: A message in some bottles
+
+Art and faith in Russia: Back to black
+
+Bosnian literature: A pocket of war
+
+The people of the abyss: Always with us
+
+Lives of the composers: Rise up singing
+
+Johnson: Sticks and stones
+
+Economic data, commodities and markets
+
+Urban growth: The paradox of density
+
+Jacques Chirac: Le Bulldozer
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-10-04T01:00:41.408831+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
