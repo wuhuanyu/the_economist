@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">325</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b2e2894-c6ba-4e20-89be-b25b30469c60</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-11T01:26:18.602436+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Macroeconomics: The world economy’s strange new rules
+
+America and the Middle East: The man without a plan
+
+Autonomous cars: Traffic, jammed
+
+India’s economy: A big stink on the brink
+
+Pilfering potentates: How to keep your ill-gotten loot
+
+Letters to the editor: On our climate change issue
+
+Ukraine and impeachment: The backstory
+
+Oversight and impeachment: Wall of silence
+
+Offending China: Alley-oops
+
+Chicago neighbourhoods: Down the tracks
+
+Gay, trans and the law: Sextualism
+
+Atlantic City: Fix your hair up pretty
+
+Lexington: The rules of the game
+
+Canada’s election: Pocketbooks and the planet
+
+Bello: Vizcarra opens Pandora’s box
+
+Ecuador’s state of emergency: Will Lenín weather the storm?
+
+Privilege in South Korea: One country, two systems
+
+Teenage pregnancy in Thailand: A DJ saved my life
+
+Refugees in New Zealand: More Mr Nice Guy
+
+Financial centres in Asia: A tale of two cities
+
+Banyan: A history of violence
+
+Domestic violence: No escape
+
+Unrest in Hong Kong: Emergency brake
+
+Chaguan: Lessons from the square
+
+Turkey invades Syria: Green light, go
+
+Protests in Iraq: Streets of fury
+
+Elections in Mozambique: War wounds
+
+Demonetising old notes: Money to burn
+
+Africa’s money-launderers: Catch me if you can
+
+Poland: PiS at the polls
+
+Polish defence: A firmer fort
+
+Portugal: Hopes unfulfilled
+
+France: An enemy within
+
+Charlemagne: Undeserved detente
+
+Northern Ireland: The place with no government
+
+The Brexit negotiations: Die another day
+
+Psephology: Perils of polling
+
+Diplomacy: Protection racket
+
+Extinction Rebellion: Management theory for rebels
+
+Taxing motorists: Running on empty
+
+Church finances: The root of all fun
+
+Bagehot: Thatcherism today
+
+We’re hiring a journalist to write about British politics
+
+Pseudomeat: Fake moos
+
+The world economy: The end of inflation?
+
+The rich world: Finding Phillips
+
+Technology: Alexa, how much is it?
+
+Globalisation: Prices without borders
+
+The supply side: You’re hot then you’re cold
+
+Emerging markets: Fewer exceptions
+
+Central banks: A new monetarism
+
+Self-driving cars: Autonomous ways
+
+Sino-American economic war: One in the AI
+
+Bartleby: Second thoughts
+
+Airbus and Boeing: In for the long haul
+
+Saudi Aramco: Energetic listing
+
+America’s car industry: Strike force
+
+Schumpeter: Chalk and cheese
+
+Indian banks: Skeletons in the closet
+
+America’s economy: Facing factories
+
+Stock exchanges: Loved and lost
+
+Tether’s travails: Bitfinessed
+
+Instalment loans: Creditworthy
+
+Financial nationalism in South Korea: Investing for victory
+
+Buttonwood: Tale risk
+
+The Vatican’s finances: Divine speculation
+
+Free exchange: Clash of the titans
+
+The 2019 Nobel prizes: Supercharged!
+
+The global burden of disease: Building tomorrow
+
+Natural materials: Protect and survive
+
+Adventures in books: The library of ice
+
+Colonialism and commerce: Bad company
+
+Lies and statistics: Axes of evil
+
+An heiress at war: Big game hunted
+
+Musical diplomacy: The food of love
+
+Economic and financial indicators
+
+Anti-Semitism: Drawing the line
+
+Shuping Wang: The truth-teller of Henan
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-10-11T01:26:26.933628+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
