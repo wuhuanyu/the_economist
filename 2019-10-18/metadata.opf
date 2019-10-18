@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">338</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b160f6e3-0f71-4c26-86a3-bc728ebb0761</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-18T01:22:43.766411+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Geopolitics: Who can trust Trump’s America?
+
+Brexit: Beyond the summit
+
+Climate-change targets: Omissions
+
+Somewhere over the rainbow: The need for speed
+
+Banks and money-laundering: Nordic noir
+
+Letters to the editor: On the single market, trans pupils, Eton, smart technology, the people, Boris Johnson, marijuana
+
+Turkey and Syria: No way to say goodbye
+
+Kurdish homelands: No fixed abode
+
+Homelessness: Urban myths
+
+Flourishing African languages: The other African-Americans
+
+School hours: The bigger sleep
+
+Private prisons: Capital punishment
+
+Emergency preparedness: Tips for troglodytes
+
+Lexington: The unravelling of Rudy Giuliani
+
+Argentina’s elections: The two faces of Peronism
+
+Bolivia’s election: Morales’ hazard
+
+Bello: An equatorial earthquake
+
+Japan’s monarchy: Slave to the tortoise shell
+
+India v China: Forced smiles
+
+Cotton in Uzbekistan: A radical plan to abolish slave labour
+
+Banyan: For king, if not country
+
+Home schooling: Well read v well red
+
+Chinese citizenship: Moving the goalposts
+
+Anger in the chamber: A storm in Legco
+
+Chaguan: Testing times for tofu
+
+Cyril Ramaphosa: The fuse is lit
+
+Liberia: How convenient
+
+Congo’s rainforest: That shrinking feeling
+
+The Nobel peace prize: Abiy wins a medal
+
+Tunisian politics: A new hope
+
+Spain: Dreams and nightmares
+
+Hungary: Orban gets the Erdogan treatment
+
+The Nobel prize in literature: Explosive
+
+Poland: Zlotys for tots win lots of votes
+
+Charlemagne: Ursula’s bumpy start
+
+Scotland: The other referendum
+
+The Queen’s Speech: Ma’am’s manifesto
+
+Electoral law: Identity politics
+
+Cardinal Newman: A saint for all seasons
+
+Economics in schools: Sample bias
+
+Sirius Minerals: In a hole
+
+The solo-living boom: Making room
+
+Bagehot: The hazard at the Home Office
+
+Remotest Russia and Arctic America: So near and yet so far
+
+British Airways: The world’s 19th-favourite airline
+
+Bartleby: Just about managing
+
+Artificial intelligence: Human-machine interface
+
+Corporate governance: Power decouples
+
+Medical psychedelics: Shroom to grow
+
+Luxury goods: A tale of two handbags
+
+Cosmetics: Looking wan
+
+Schumpeter: The stuff paradox
+
+Danske and Swedbank: Northern blights
+
+Buttonwood: From A-list to delist
+
+Puerto Rico’s bankruptcy: Territorial claims
+
+The world economy: Foggy outlook
+
+Trade and emissions: Out of sight
+
+Free exchange: Rich economics
+
+Sustainable forestry: If you go down to the woods today
+
+Fish scales: The mighty pirarucu
+
+Gross national happiness: Reading between the lines
+
+Follow my leader: Trilobites marched along
+
+Cannabis and pregnancy: Smoked out
+
+Political violence: What had to be done
+
+Spy fiction: The enemy within
+
+Johnson: Ill-gotten gains
+
+Economic data, commodities and markets
+
+Alcohol and health: A sober brawl
+
+Alexei Leonov: The blue of Earth
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-10-18T01:22:51.987363+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
