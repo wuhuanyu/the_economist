@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">344</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6174ca4b-0f7d-4ca6-bc89-3a51852aa25d</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-25T01:21:33.193759+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Elizabeth Warren: A plan for American capitalism
+
+India’s economy: The muddle Modi made
+
+Putin’s world: The spy who came in from the cold
+
+China’s Uighurs: Exposing the gulag
+
+Coral reefs: No longer in the pink
+
+Letters to the editor: On anti-Semitism, French addresses, Igbo, people’s juries, automated markets
+
+American capitalism: Warrensworld
+
+Impeachment: Trying times
+
+Convicts’ voting rights: Fined out
+
+Rikers Island prison: Torture Island’s final sentence
+
+California’s blackouts: Power struggle
+
+The Open Skies treaty: Spying the end
+
+Lexington: Amy Klobuchar for sanity
+
+Canada’s election: The chastening of Justin Trudeau
+
+Crime in Mexico: The AMLO doctrine
+
+Bello: Days and nights of rage
+
+Bolivia’s election: Evo just won’t go
+
+Colombia: How to handle Escobar’s narco-hippos
+
+Coral in Asia: Polyp apocalypse
+
+Thailand’s ruthless king: Beauty and the beast
+
+China in the Pacific: Island shopping
+
+Karachi: King of the heap
+
+Banyan: Lo! The marshal rides again
+
+Indonesian politics: Governing unopposed
+
+Aboriginal rights: The seeing-red centre
+
+Uighurs in exile: Through the fence
+
+Gay nightlife: Destination’s journey
+
+Chaguan: Zhou Enlai, the opera
+
+Russia in Africa: The art of darkness
+
+The war in Syria: Vlad the dealmaker
+
+South African politics: The limits of liberalism?
+
+Protests in Lebanon: Message not received
+
+Visegrad economies: Along the beautiful blue Danube
+
+North Macedonia: A kick in the teeth
+
+Dutch environmentalism: Nitro dissidents
+
+Spanish history: Digging up Franco
+
+Charlemagne: Neither dignified nor efficient
+
+The Brexit deal: Coming closer
+
+Immigration: Journey’s end
+
+Northern Ireland: A brief moment in the sun
+
+The Northern Irish economy: Penny wise, pound foolish
+
+The Liberal Democrats: Yellow fever
+
+Education: Star performers
+
+Army food: Marching on its stomach
+
+Bagehot: The end of exceptionalism
+
+The Roman Catholic church: The beautiful south
+
+India: The two Modis
+
+The prime minister: Man with a mission
+
+Foreign policy: All hat, no cattle
+
+Economy: Wake-up call
+
+Three challenges: Too much to do
+
+The future: Which Modi?
+
+Big Tech and antitrust: How to dismantle a monopoly
+
+Bartleby: Khan-do attitude
+
+Germany’s painful history: Generations at war
+
+Business in Mexico: Feeling the heat
+
+Booze in India: Measuring up
+
+Schumpeter: If you see Sid, tell him
+
+Wells Fargo: A journey of self-discovery
+
+Libra: The Zuck Buck ruck
+
+The Doing Business rankings: First across the tape
+
+Foreign investment in Japan: Capital control
+
+Buttonwood: Away from the crowd
+
+The European Central Bank: A spiky relationship
+
+Trade finance: Time’s up
+
+Free exchange: A little less conversation
+
+Combating fake news: Lie detector
+
+Dysgenics: Will ye nae come back again?
+
+Agriculture: Monkey business
+
+Alzheimer’s disease: Fabulous or futile?
+
+Museums: Sexual selection
+
+Inequality: The broken ladder
+
+An everyday epic: Mother courage
+
+European cultural history: Ode to joy
+
+Renaissance art: In communion
+
+Economic data, commodities and markets
+
+Shakespeare: Greatness thrust upon him
+
+Harold Bloom: Falstaff Agonistes
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-10-25T01:21:41.663400+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
