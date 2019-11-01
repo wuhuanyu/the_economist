@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">357</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc6dc60f-2399-432a-ba65-0b3a2cb3b48b</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-01T01:11:58.618086+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+British politics: Here comes the Brexit election
+
+Saudi Aramco: To the last drop
+
+The money markets: Do the right thing
+
+Latin America: Schadenfreude in the south
+
+The future of management education: The MBA, disrupted
+
+Letters to the editor: On money-laundering, hepatitis, economics, Scotland, song choruses
+
+Corbyn’s Labour Party: Downing Street calling
+
+The economy: Easy now
+
+Louisiana and Mississippi: Democrats in Dixie
+
+Mississippi: Loser take all
+
+The Russia inquiry: In search of lost crime
+
+US-Turkish relations: A long march
+
+Lexington: Take me out of this ball game
+
+Argentina: Rolling back the years
+
+Chile: Piñera’s pickle
+
+Bello: Living beside the volcano
+
+Indonesia’s armed forces: About turn!
+
+Politics in Bangladesh: Learning the hard way
+
+Central Asia’s borders: Stalin’s splatter
+
+Fighting groping in Japan: Pervert alert
+
+Banyan: A boost for believers
+
+Penal reform: A bigger cage
+
+Academic exchange: Building bridges and selling them
+
+Chaguan: Facing a contradiction
+
+Islamic State: Decapitated, not defeated
+
+Lebanon’s crisis: A Saad ending
+
+Breaking Bissau: Coups, drugs and party finance
+
+Iraq’s crisis: A bloody mess
+
+Ethiopia: The clash of nationalisms
+
+Saudi Aramco: The Goliath
+
+East Germany: Thirty years after the Wall fell
+
+Eastern Europe: Thirty years of freedom, warts and all
+
+Charlemagne: The magnetic field
+
+The centre folds: The missing median voter
+
+Brexit and the election: Of deadlines and cliff edges
+
+Economic growth and the election: The zombie economy
+
+Sport and diversity: Nice try
+
+The campaign in quotes: Speakers’ Corner
+
+Media and politics: Paper chase
+
+The Grenfell Tower Inquiry: Anatomy of a tragedy
+
+Bagehot: The four faces of Boris Johnson
+
+Credulity and politics: This article is full of lies
+
+Management education: The next business revolution
+
+Advanced Micro Devices: The Zen masters
+
+Tech recruitment: Egghead-hunting
+
+Bartleby: Whistle while you work
+
+Schumpeter: The spirit of Carlos
+
+Chinese demography: Old, not yet rich
+
+HSBC’s latest plan: Failure to thrive
+
+Another trade fight: Spilling over
+
+Turkey’s tottering economy: By a thousand cuts
+
+Buttonwood: VC after SoftBank
+
+Money markets: Making the world go round
+
+Free exchange: It ain’t over till it’s over
+
+Human origins: Eden?
+
+Quantum computing: Not so fast
+
+Civil engineering: Curing concrete cancer
+
+Curbing greenhouse-gas emissions: Pardon!
+
+How science works: Slow. But sure
+
+East German art: Wire in the blood
+
+Painting and life: Art therapy
+
+Literary posterity: War of the words
+
+American history: Dual destiny
+
+Johnson: Don’t fear the Writernator
+
+Economic data, commodities and markets
+
+Public opinion: Talkin’ ’bout my generation
+
+Abu Bakr al-Baghdadi: The blood-soaked scholar
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-11-01T01:12:07.735011+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
