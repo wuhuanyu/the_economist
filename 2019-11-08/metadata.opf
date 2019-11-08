@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">363</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">240d1fa1-fcac-4bb8-bd4f-f4199fab4fd4</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-08T01:09:32.533783+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL's cartoon
+
+Macron and the future of Europe: A continent in peril
+
+Squeezing the rich: In defence of billionaires
+
+Cameroon’s forgotten war: Words and weapons
+
+Fake nudes: Sex, lies and politics
+
+Genetics: A design for life
+
+Letters to the editor: On the Bible, Greece, Congress, Chile, Syria, Canada, wind energy, Atlantic City, Thatcher
+
+Macron’s view of the world: A president on a mission
+
+The policy primary: Warrencare
+
+Off-year elections: Knocking on Bevin’s door
+
+The Ukraine scandal: Impeach cobbler
+
+Political advertising: Lie-posting
+
+Milwaukee’s north side: The silent minority
+
+Russians in America: Odessa on the Intracoastal
+
+Lexington: But thank you for your service
+
+Bolivia: Back to the barricades
+
+Jamaica’s economy: Redemption song
+
+Trade deals: Haunted by Gandhi
+
+Pakistan’s reviving opposition: Container democracy
+
+Cycle rickshaws in Bangladesh: Three wheels v four
+
+Buddhism in Thailand: The eight-fold chin
+
+Taiwan and China: Honey trap
+
+The Fukushima nuclear accident: The wrong reaction
+
+Banyan: Islands in a steam
+
+Mainlanders in Hong Kong: Black terror
+
+Data privacy: The first face-off
+
+Chaguan: Dialectical materialism
+
+Cameroon’s Anglophone crisis: War of words
+
+Iran and the bomb: Undone deal
+
+Jerusalem’s new necropolis: 180 feet under
+
+Saudi Arabia: Thinking only positive thoughts
+
+Spain’s election: Fourth time lucky?
+
+Siberia: The Camry in the gold mine
+
+Sexualised disinformation: Naked untruth
+
+Estonia: The nick of time
+
+Charlemagne: The risks of forgetting
+
+The election: The Tory tipping point
+
+Northern Ireland: Joining forces
+
+Politics and crime: Ill-gotten gains
+
+Election forecasting: Stirring the tea leaves
+
+The campaign in quotes: Speakers’ Corner
+
+Environmental policies: A warmer climate
+
+The Speaker: A new order
+
+Bagehot: Security questions
+
+The splinternet: Net loss
+
+Letter to a chief executive: Diversity memo
+
+McDonald’s: Too much lovin’
+
+A city on edge: Postcard from Hong Kong
+
+Californian utilities: Sparks fly
+
+Social media: TikTok time-bomb
+
+Bartleby: Take the money and run
+
+Japan Inc in China: Neighbourly love-in
+
+Schumpeter: Hard times for SoftBank
+
+The euro area: Rift in the union
+
+Trade war: Phase one, scene two
+
+Distressed debt: Vultures v zombies
+
+The economics of billionaires: The lives of the 0.0001%
+
+Buttonwood: Against the flow
+
+Mexico’s economy: Life after neoliberalism
+
+Litigation finance: Get the third party started
+
+Financial crime: Counter-Terrorists win
+
+Free exchange: When the iron is hot
+
+The new genetics: Gee whizz
+
+Heritage and nation-building: History wars
+
+Forgotten histories: The kindness of strangers
+
+Lives of the rich and famous: The lap of luxury
+
+French literature: I, me and they
+
+The story of a storyteller: Portrait of an artist
+
+Economic data, commodities and markets
+
+Air pollution: Festival of darkness
+
+Huang Yong Ping: Making art out of chaos
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-11-08T01:09:41.219782+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
