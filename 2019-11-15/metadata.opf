@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a84a12d7-e595-4661-b250-bde96bd80c5c</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-15T01:26:17.039460+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The media business: The $650bn binge
+
+Latin America: Was there a coup in Bolivia?
+
+Pension costs: Dependants’ day
+
+Immigration policy: Unlock that door
+
+Aircraft-carriers: Sink or swim
+
+On Elizabeth Warren, the Berlin Wall, southern Democrats, army food, William Rehnquist: Letters to the editor
+
+Aircraft-carriers: Too big to fail?
+
+The future of entertainment: Power to the people
+
+The Ukraine scandal: Teflon Don
+
+Sealing criminal records: Clean slates, rich states
+
+The economy: Inverse psychology
+
+Public radio: Extreme broadcasting
+
+History in the Mississippi Delta: Memories of Emmett Till
+
+Lexington: Iron hand in glove
+
+Bolivia: Rainbow resignation
+
+Matrimony in Mexico: When “sí” means “we’ll see”
+
+Communal relations in India: Ram rod
+
+Electoral districts in Japan: Self-reinforcing bias
+
+Cambodian politics: The opposition twitches
+
+Bushfires in Australia: Spring flames
+
+Buddhism in Myanmar: Nat guilty
+
+Banyan: Still negotiating
+
+Street-sleepers: No shelter for some
+
+Unrest in Hong Kong: Towards the brink
+
+Chaguan: A great unravelling begins
+
+Israel and Palestine: A kaleidoscope of possibilities
+
+Seeds of opposition: Stony ground
+
+Libya’s war: The Sala-fifth column
+
+Bullion and bombs: Jihad and the gold rush
+
+Creepy superfoods: Gourmet grubs
+
+Germany: Are the black zero’s days numbered?
+
+Spain’s election: An electio-shock
+
+Ireland: Compo crisis
+
+Italy: Old wine in new bottles
+
+Charlemagne: Reading the cards
+
+The National Health Service: Spin doctors
+
+The battle for commuterland: Reading the runes
+
+Tactical voting: Nigel Farage’s Christmas present
+
+Incoming MPs: The class of 2019
+
+The campaign in quotes: Speakers’ Corner
+
+Fiscal policy: How to spend it
+
+Giving it some welly: Floods hit marginal constituencies in England
+
+Bagehot: The Party of Davos
+
+Protest movements: We all want to change the world
+
+Tear-gas: A crying shame
+
+Migration: A world of walls
+
+Skilled migrants: Lightbulbs in their luggage
+
+Low-skilled migrants: Labourers and loved ones
+
+The backlash: Fear of the unknown
+
+Domestic migration: City air makes you free
+
+Voting with your feet: The greatest liberty
+
+Corporate governance: Out with the proxies
+
+Bartleby: Don’t show, tell
+
+Italian business: When I’m 84
+
+Lifts: Ascending scale
+
+One for the money: Alibaba sold $38.4bn of merchandise this Singles’ Day
+
+Schumpeter: Tomato catch-up
+
+Public pensions: State of denial
+
+OPEC’s waning power: Under pressure
+
+American trade policy: Parked
+
+Buttonwood: Chinese whispers
+
+Corporate China: Fake it till you break it
+
+The markets: Sentimental journey
+
+Italy’s banks: The reckoning continues
+
+Investing: Rich rewards
+
+Free exchange: Do-gooders and do-besters
+
+Additive manufacturing: Could you print a printing press?
+
+Forging rhinoceros horn: Fooled you
+
+High-tech rugby: Computer says: offside
+
+Archaeology and development: A night at the museum
+
+Literary posterity: So it goes
+
+Family businesses: Diamond geezers
+
+Auto-history: A severe contest
+
+Johnson: Unspeakable things
+
+American music: Playlists and politics
+
+Anwar Congo: The executioner’s song
+
+Economic data, commodities and markets
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-11-15T01:26:26.253322+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
