@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">385</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">16748848-a870-44de-a239-3d98c5d283e5</dc:identifier>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">384</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd99573d-8055-4c5a-8d26-2dace43502f0</dc:identifier>
         <dc:title>The Economist</dc:title>
         <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.3.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2019-11-22T02:38:32.381254+00:00</dc:date>
+        <dc:date>2019-11-22T01:09:55.739691+00:00</dc:date>
         <dc:description>本期文章:
 
 Politics this week
@@ -165,7 +165,7 @@ Global news and current affairs from a European perspective. Best downloaded on 
         <dc:subject>新闻</dc:subject>
         <dc:subject>The Economist</dc:subject>
         <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2019-11-22T02:38:42.085010+00:00" name="calibre:timestamp"/>
+        <meta content="2019-11-22T01:10:04.380828+00:00" name="calibre:timestamp"/>
         <meta content="Economist, The" name="calibre:title_sort"/>
     </metadata>
     <guide>
