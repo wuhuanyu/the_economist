@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">384</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd99573d-8055-4c5a-8d26-2dace43502f0</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-22T01:09:55.739691+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+China’s unruly periphery: Hong Kong in revolt
+
+American health care: Sunshine is a partial disinfectant
+
+Sri Lanka’s new president: Oh brother
+
+Israel and the Palestinians: Unsettling
+
+Product design: Debugging gender bias
+
+Letters to the editor: On the MBA, religion, wind power, British prime ministers, Romania, “Seinfeld”
+
+Hong Kong’s turmoil: Borrowed time
+
+Pre-impeachment: They were all in on it
+
+The turnout game: Everything in moderation
+
+Californian pests: Something rodent in the state
+
+Louisiana politics: A familiar gumbo
+
+Back-channel diplomacy: The art of the shadow deal
+
+Lexington: Impoochment
+
+Brazil: Paper strongman
+
+Fantasy economics: Venezuela’s virtual gold rush
+
+Bello: Metamorphosis in Chile
+
+Sri Lankan politics: Gota hand it to him
+
+Rural Japan: Home is where the art is
+
+South Korea’s alliance with America: Cracks in the cladding
+
+Thai politics: Future backwards
+
+Banyan: Shinzo Abe’s record roll
+
+Nuclear weapons: Warheads up
+
+The dangers of studying abroad: Thar be dragons
+
+Chaguan: Totalitarian and proud
+
+Protests in Iran: Putting out fire with gasoline
+
+Israel and the Palestinians: Unsettled status
+
+Development economics: Helicopter money
+
+Ivory Coast: Crocodile fears
+
+Kenya: Trouble brewing
+
+Fighting corruption: The dirty mop
+
+Switzerland’s coffee stockpile: A nation of have-beans
+
+Romanian medicine: Still in critical condition
+
+Farm subsidies: Milking taxpayers
+
+France: Their daily bread
+
+Charlemagne: Hedges and wedges
+
+The election: The battle for Brexitland
+
+The monarchy: The panned old Duke of York
+
+Online campaigning: Trick or tweet?
+
+Quotes from the campaign trail: Speakers’ Corner
+
+Business and the election: Holier than thou
+
+A Midlands marginal: Left-field Ashfield
+
+The Liberal Democrats: The big squeeze
+
+Bagehot: Knock knock
+
+Drug-trafficking: Changing gear
+
+American health care: Diagnosis: opaque
+
+RWE: After Hambi
+
+Bartleby: Go to work on an egg
+
+Telecoms: Political bandwidth
+
+Technology listings: Group buy
+
+Schumpeter: Rethinking McKinsey
+
+Entertainment: Mortal kombat
+
+Big Tech and banking: Plug and pay
+
+The Vatican’s finances: Good intentions
+
+Asia’s economy: Glut maximus
+
+Buttonwood: A river needs a dam
+
+Climate-data analytics: Sunny days
+
+Europe’s banking disunion: Architectural problem
+
+Euro-dollar volatility: Safe haven
+
+Free exchange: Works in progress
+
+Virtual reality: Lost in cyberspace
+
+Animal husbandry: Turning the worm
+
+Diagnostic nuclear-imaging: Moly-coddling
+
+Shortfall: Fossil-fuel-producing countries say one thing and do another
+
+Solar-powered trains: Light railways
+
+Secret worlds: Spies like them
+
+Problem-solving: Boots on the ground
+
+American memoir: Fairy-tale ending
+
+Georgian fiction: Magic mountains
+
+Congolese art: His dark materials
+
+Economic data, commodities and markets
+
+Culture and development: God and Mammon
+
+Terry O’Neill: Catching the moment
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-11-22T01:10:04.380828+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
