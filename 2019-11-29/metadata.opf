@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">391</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25ec4f24-835e-44c1-89a8-15961d05affe</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-29T01:30:01.639817+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Egalitarianism: Inequality illusions
+
+Democracy and the internet: Policing propaganda
+
+Democracy: A clarion call
+
+The twilight of the WTO: The umpire expires
+
+Climate change and energy: A bid for better batteries
+
+Letters to the editor: On diversity, Palm Beach, America’s army, AI writers, meat, genes, Emmanuel Macron
+
+Inequality: Measuring the 1%
+
+Wealth inequality in Sweden: In the rich man’s world
+
+Civil-military relations: Brassed off
+
+The Democratic primary: For Bloom the polls toll
+
+Sanctions: Financial carpet-bombing
+
+Political advertising: Platforms shoo
+
+Shopping habits: Dreaming of a Black Friday
+
+Lexington: Impeachment endgames
+
+Mexico: It’s all about him
+
+Cuba’s economy: Bringing back the greenback
+
+Bello: The street and the politicians
+
+Politics and religion in South Korea: An unholy alliance
+
+Tiger farms in Laos: Law of the jungle
+
+Citizenship in Malaysia: Bad luck, you’re second-class
+
+Indian politics: The villain of Maharashtra
+
+Mental health in Japan: The rise of recluses
+
+Elections in Hong Kong: No time for the party line
+
+Exploring the Antarctic: Heading south
+
+Chaguan: Heroic, expendable
+
+Ending Darfur’s misery: A slender chance for peace
+
+Ghana’s Bukom boxers: Street fighters
+
+Israeli politics: Highly charged
+
+Repression in Egypt: Sisi and son
+
+Yemen: Food fight
+
+Nuclear weapons: Over here
+
+Turkey: From caliphate to courtroom
+
+Malta: Daphne’s shadow
+
+The new European Commission: Better late than never
+
+France: In cold blood
+
+Italy: The nuts of wrath
+
+Charlemagne: Post-Merkel syndrome
+
+Party manifestos: The spree to come
+
+Fiscal policy: The curious case of the missing taxpayer
+
+Politics and religion: Pick your poison
+
+Brexit and the election: Alas, poor Warwick
+
+Scotland: An election in three dimensions
+
+Campaign logistics: Skye news
+
+Campaign quotes: Speakers’ Corner
+
+Bagehot: Too much of a good thing
+
+Immigrant districts: In the ghettos
+
+LVMH: The everything-that-shines store
+
+Huawei: Where there’s a will there’s Huawei
+
+Novartis: Affair of the heart
+
+Companies and society: On purpose
+
+Energy storage: To have and to hold
+
+Bartleby: Clear as mud
+
+Schumpeter: One company, two systems
+
+Global trade: It’s the end of the World…
+
+Schwab and TD Ameritrade: Going for broker
+
+Chinese bonds: Failing upwards
+
+Buttonwood: A league of their own
+
+Free exchange: Can’t buy me love
+
+Sexual orientation of animals: Basic instincts
+
+Birdsong: Rehearsing for Berkeley Square
+
+Aviation: The panic button
+
+What’s this ear?: How ossicles evolved
+
+Grid-scale power storage: A cool idea
+
+AIDS: Remember, remember
+
+Political economy: The fire next time
+
+Dresden’s Green Vault: Ocean’s Eight on the Elbe
+
+Canadian fiction: Alone, together
+
+Early modern history: Caped crusader
+
+Johnson: How to talk to aliens
+
+Economic and financial indicators
+
+Fiscal policy: Death and taxes
+
+Raymond Poulidor: Gloriously second
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-11-29T01:30:09.341851+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
