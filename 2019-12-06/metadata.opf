@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e53c84cf-fc88-45a7-a795-c082d60da3cc</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-06T01:43:39.629410+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Britain’s election: Britain’s nightmare before Christmas
+
+NATO’s summit: The good, the bad and the ugly
+
+Unrest in the Arab world: System failure
+
+Sergey Brin and Larry Page leave Alphabet: Search result
+
+Climate change: Reverse gear
+
+Letters to the editor: On billionaires, groceries, The National Health Service, wind power, Kurt Vonnegut
+
+Negative emissions: The chronic complexity of carbon capture
+
+Refugee policy: Denying opportunities costs
+
+The impeachment inquiry: Uncommon grounds
+
+Adoption: Fostering enmity
+
+Small towns: Theocracy in America
+
+Lexington: The stickiness of Joe Biden
+
+Canada: “Wexit” doesn’t mean Wexit
+
+Suriname: Desi’s unjust desserts
+
+Bello: The difficulties of Jair López Obrador
+
+India’s economy: Searching for a landing site
+
+Corruption in Kyrgyzstan: The bilk road
+
+Measles in Samoa: Red alert
+
+Freedom of speech in Singapore: False witness
+
+Banyan: Tight bulb moment
+
+China and the United Nations: A new battleground
+
+Borderland tourism: Tense times recalled
+
+Chaguan: Mark it with “B”
+
+Arab unrest: The fight for Iraq’s future
+
+Polling the Arab world: Some numbers behind the rage
+
+Iran: Unprecedented violence
+
+Algeria’s election: The regime sets the menu
+
+Traffic in Sudan: All jammed up
+
+Identity documents in Africa: Papers, please
+
+German politics: Under new management
+
+NATO: Stormy weather
+
+France: Brace for impact
+
+Malta: Revenged
+
+China and the Czechs: Fumbling the capture
+
+Charlemagne: The decline of the Five Star empire
+
+The Conservatives: Leaving Brexit undone
+
+A hung parliament: Corbyn the dealmaker
+
+London Bridge: After the fall
+
+The “Red Wall”: Labour’s last stand
+
+Quotes from the campaign trail: Speakers’ Corner
+
+Politics in the capital: Down but not out in London
+
+Super-safe seats: You’ll always walk alone
+
+Bagehot: Liar, liar
+
+Education: The parable of Finland
+
+Asian tigers: Still hunting
+
+Global trade: Welcome to the jungle
+
+Innovation: A sea change
+
+Discontent: Tyger, tyger, burning
+
+Political economies: The new Asian values
+
+Demography: Endangered species
+
+The tigers’ future: Fearful symmetries
+
+Saudi Aramco: Listless
+
+Mining in Africa: Galvanised
+
+Italian steel: Trouble in Taranto
+
+Chinese dairy: Cow cash
+
+Bartleby: Let them eat Christmas cake
+
+Alphabet: Turning a Page and a Brin
+
+Schumpeter: Conquistadors in a quandary
+
+ESG investing: Poor scores
+
+Multiplying tariffs: Sound and fury
+
+Transatlantic tax tensions: Bottle shock
+
+The euro area: Looking wobbly
+
+Buttonwood: More in Lahore
+
+Insurance in Myanmar: Meant to be
+
+Exchange rates: One-way baht
+
+P2P platforms: Nothing personal
+
+Free exchange: Back to the future
+
+Warfare in space: Quickening the countdown
+
+You can’t get the wood, you know: Rome’s timber trade
+
+Malaria: Off track
+
+Computing records: A trillion here, a trillion there
+
+Centipedes: Nesting instinct
+
+Aviation: Trail blazers
+
+Our books of the year: Word up
+
+Staff books: Giant leaps
+
+Economic data, commodities and markets
+
+Britain’s election: Yellow submarine
+
+Jonathan Miller: Intention and accident
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-06T01:43:47.791947+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
