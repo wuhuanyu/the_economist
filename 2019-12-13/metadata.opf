@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4bd4813-e751-4db7-b8a1-0f55c6d037c5</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-13T03:53:31+00:00</dc:date>
+        <dc:description>Articles in this issue:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Donald Trump: On trial
+
+Central banks: Green envy
+
+Hindu chauvinism: Undermining India’s secular constitution
+
+The spying business: The digital dogs of war
+
+Menopause: Second spring
+
+Letters to the editor: On inequality, videoconferencing
+
+Impeaching the president: The die is cast
+
+The Democratic primary: How to win in Iowa
+
+Training foreign soldiers: Friendly fire
+
+The FBI: National inquirers
+
+Sesame Street: Farewell feathered friend
+
+The Democratic primary: College free-for-all
+
+Lexington: In praise of high-school football
+
+Argentina: The Peronist predicament
+
+Canada: Welcome to Toxic Town
+
+Bello: A decade with no heroes
+
+India: A slap for Muslims
+
+Defamation in Australia: Publish and be slammed
+
+Dissent in Vietnam: Red card
+
+Educating migrant children in Japan: Muddled masses
+
+Crammers in North Korea: Reading not weeding
+
+Banyan: The lady has two faces
+
+Diabetes: Sugar high
+
+Xinjiang and Tibet: Missing their vocations
+
+Chaguan: Caught in the middle
+
+Escaping state capture: Batohi’s battle
+
+Africa’s sharing economy: Brothers in alms
+
+South Africa’s electricity crisis: A failure of power
+
+Libya’s civil war: Magnet for mayhem
+
+Lebanon and Syria: Reverse contagion
+
+The EU’s Green Deal: The way the wind is blowing
+
+Pensions and strikes in France: OK boomer
+
+All change: Finland’s new government
+
+Russia and Ukraine: Mr Putin’s awful week
+
+Moldova and Russia: A quiet takeover
+
+Russian doping: Cheat, cover up, repeat
+
+Charlemagne: Spain’s strange bedfellows
+
+Trust in politics: The sweet hereafter
+
+Life after Parliament: Rock, razors and real ale
+
+Overseas nationals: Out of sight,out of mind
+
+Music: It’s grime, up north
+
+Bagehot: Jeremy Corbyn’s crushing defeat
+
+Menopause: The time of her life
+
+India’s digital revolution: So much rests on so few making so little
+
+Corporate governance: Skirting the issue
+
+Japan’s hoteliers: Room to grow
+
+Global retail: Aisle and hopper
+
+Intellectual property: The trouble with troll-hunting
+
+Computer security: Spooky
+
+Bartleby: Conduct yourself
+
+Schumpeter: Green with shame
+
+America v China: A profitable student
+
+China’s economy: Life after tariffs
+
+The USMCA: Common ground
+
+Buttonwood: Dying many times
+
+Green central banking: Carbon capture
+
+Sweden’s monetary policy: The Riks flips
+
+Behavioural economics: Odds and evens
+
+Free exchange: Mighty market power dangers
+
+Fighting tuberculosis: TB or not TB? That is the question
+
+Data storage: Plans within plans
+
+Solar power: Windows of opportunity
+
+Evolution: A whale of a tale
+
+Pictures at an exhibition: The world’s oldest picture gallery
+
+Democracy in India: Unite and rule
+
+The art of persuasion: A thousand words
+
+Music and politics: Stars and bars
+
+Art and society: No crib for a bed
+
+Johnson: Toil and trouble
+
+Economic and financial indicators
+
+Impeachment: All the wrong places
+
+Paul Volcker: Through a cloud, brightly
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>News</dc:subject>
+        <dc:subject>The Economist Image</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-14T01:24:50.025194+00:00" name="calibre:timestamp"/>
+        <meta content="calibre" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
