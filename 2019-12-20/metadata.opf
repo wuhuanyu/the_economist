@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">419</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c57926fa-b43d-4be8-bfde-a17c7076e5ee</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-20T02:12:53.923839+00:00</dc:date>
+        <dc:description>本期文章:
+
+The world this year
+
+KAL’s cartoon
+
+Technology and society: Pessimism v progress
+
+New Conservative heartlands: Boris Johnson’s northern strategy
+
+Boeing: Maxed out
+
+Homelessness: Mean streets
+
+Country of the year: The improvement prize
+
+Letters to the editor: On purposeful firms, aircraft-carriers, dogs, ice-skating, Singapore, Oxford, “Macbeth”
+
+The southern border: Borderline disorder
+
+Gun control: From our cold dead hands
+
+Au pairs: Help for the help
+
+Missile-testing: Going ballistic
+
+Lexington: Fahrenheit Wisconsin
+
+Venezuela: Turning the taps on—a bit
+
+Cannabis in Canada: Down from a high
+
+America and North Korea: Ice and no
+
+Elections in Uzbekistan: The most democratic ever
+
+Bougainville: The 20-year itch
+
+Kangaroos: Roo pall
+
+Workers’ pay: Keeping caps out of hands
+
+Political vlogging: Confronting the party hacks
+
+Chaguan: The communist block
+
+Diplomacy in the Gulf: Making up is hard to do
+
+Justice in Sudan: Mercy for the mighty
+
+Justice in Congo: Trial and errors
+
+Alcohol in Africa: Adventurous spirit
+
+Housing first: Oh give me a home
+
+Russia and tech: A bite at the Apple
+
+Christian persecution: A useful stick
+
+Turkey: Tea for two times the price
+
+Charlemagne: The spirit of Noël
+
+The new Conservative Party: What’s the story, northern Tories?
+
+Boris and the Beeb: Agony Auntie
+
+Rough sleeping: No crib for a bed
+
+Bagehot: An appetite for power
+
+Young people and the media: Seize the memes
+
+Setting type: The age of mechanical reproductions as a work of art
+
+The sleuth of death row: Watching the detective
+
+Semiconductors: The pivot
+
+Eels: The known unknowns
+
+Keyboards of the world: The Middle-C Kingdom
+
+The solar system: How the planets got their spots
+
+Essay: Beware the Borg
+
+Yeoville: Melting pots
+
+Route setting: Stonemasons
+
+Deepest England: A Cockney Brigadoon
+
+Quiz: A dismal science
+
+Eucalyptus Road: An immigrant story
+
+Leonora Carrington: The sorceress in the jungle
+
+Dubbing: Invasion of the voice snatchers
+
+Siberia: The ironies of freedom
+
+The liberalisation of Ireland: Personal and political
+
+Aerospace: Boeing going wrong
+
+Chinese technology: Bytedancing with the state
+
+Daimler: Two is traffic
+
+Bartleby: An inspiring holiday message
+
+Online business: California’s data sheriffs
+
+Schumpeter: The buzz around AirPods
+
+Wealth management: For the money, not the few
+
+Oil markets: Push-me-pull-you
+
+How US-China trade has changed: US-China trade truce
+
+US v China: Trade truce
+
+Free exchange: Christmas repeat
+
+Bringing rocks back from Mars: A cosmic relay race
+
+Medical diagnosis: iScanning
+
+Climate change: COP-out
+
+Immigration on a plate: A bao in every steamer
+
+Murder mysteries: Sword in the snow
+
+Charting the news: The Trump bump
+
+Stephen Cleobury: In the bleak midwinter
+
+Economic data, commodities and markets
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-20T02:13:09.092534+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
