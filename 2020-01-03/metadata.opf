@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">432</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65599a7d-4fc5-4e03-9968-8478c349f1c4</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-03T01:16:22.863636+00:00</dc:date>
+        <dc:description>本期文章:
+
+The world this week
+
+KAL’s cartoon
+
+China and America: Poles apart
+
+America, Iran and Iraq: Undeterred
+
+Renault-Nissan: Fled to the Med
+
+Brazil: A year of governing dangerously
+
+Criminal justice: How to reduce rape
+
+Letters to the editor: On carbon capture, health care, rats, conservation, Joe Biden
+
+Chinese students in America: The new red scare
+
+Suburbs: Laboratories of democracy
+
+Sex education in Texas schools: TexEd
+
+Romance novelists: The wrong kind of racy
+
+The decline of Vegas weddings: Crying in the chapel
+
+Lexington: Pete Buttigieg heads South
+
+A year of Jair Bolsonaro: Please don’t let me be misunderstood
+
+Colombia: Not so fast
+
+Justice in Japan: Ghosn, going, gone
+
+Fires in Australia: The summer inferno
+
+Election tension in Taiwan: The China factor
+
+Who’s an Indian citizen?: Papers, please
+
+Banyan: Restoring order
+
+China’s view of America: 400-pound rivals
+
+Journalist wanted
+
+America, Iran and Iraq: Combustible
+
+Countering Iran: Neighbourhood watch
+
+Algeria: Hoping for a cheerier Algeria
+
+The end of the CFA: Francly speaking
+
+The Rand Club: Rhodes to redemption
+
+Education in Liberia: Schools of hard knocks
+
+Germany: From protest to power
+
+Campione d’Italia: Unhappy recruit
+
+Joblessness in the EU: Steady state
+
+Charlemagne: Huntington’s disease
+
+Reshaping the state: The Cummings plan
+
+Darts: Bull market
+
+Bagehot: One nation under Boris
+
+Sexual assault: Her word against his
+
+Chinese technology: From the people who brought you fireworks...
+
+Success stories: Reactors and railways
+
+Cars: Electric leapfrog
+
+Intellectual property: Laser brain
+
+Data: A new trinity
+
+Microprocessors: From bottom to top
+
+The future: Of coupling and decoupling
+
+American firms in China: Still worth it
+
+LG: Life’s not good enough
+
+Entertainment: Thank you for the music
+
+Bartleby: A manager’s manifesto
+
+Schumpeter: Cloning Tesla
+
+The stockmarket: Christmas bonus
+
+The World Trade Organisation: What’s the catch?
+
+Digital banking in South-East Asia: Up for Grab
+
+Minimum wages: Who pays?
+
+Buttonwood: Feeling TIPSy
+
+Free exchange: Planned obsolescence
+
+Physics: Assembling the future
+
+The Richard Casement internship
+
+Ostracism: And stay out
+
+Vanished worlds: Writing wrongs
+
+Johnson: Climate-speak
+
+Economic data, commodities and markets
+
+Predicting 2020: What are the odds?
+
+Yuri Luzhkov: Tearing down the past
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-03T01:16:30.522773+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
