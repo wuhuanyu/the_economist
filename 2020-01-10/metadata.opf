@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">439</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b21d8a1e-45d6-493e-b5d9-a326a1fe431f</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-10T01:22:13.849419+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+America and Iran: Masterstroke or madness?
+
+Forest fires: A blaze that will keep on burning
+
+Monetary policy: Why Ben Bernanke is wrong
+
+France: Who rules?
+
+Han Chinese and Uighurs: Apartheid in Xinjiang
+
+Letters to the editor: On menopause, patents, hijabs, impeachment, hot-metal type
+
+Conflict with Iran: After the assassination
+
+School policy: The dignity of all the talents
+
+American education: Signs of progress
+
+Partisan insurgencies: From AOC to shining sea
+
+Digital self-harm: The bully in the black mirror
+
+Voting behaviour: From boom to ballot box
+
+Lexington: All disquiet on the foreign front
+
+Canada: Justin Trudeau’s makeover
+
+Guatemala: New man, old problems
+
+Bello: Maduro v Guaidó, round two
+
+Australia’s bushfires: Burning questions
+
+Indian politics: Cracking heads
+
+Health in the Philippines: Sick days
+
+Jakarta submerged: The incredible sinking city
+
+Education in Malaysia: Prawns and rocks
+
+Ethnic tension in Xinjiang: Never the twain shall meet
+
+Chaguan: Up the river
+
+African governance: Taxing times
+
+Isabel dos Santos: Her struggle
+
+Al-Shabab and Iran: Relationship rumours
+
+Turkey and Libya: Back to the Ottomans?
+
+Despots and mosques: Mine’s bigger than yours
+
+France: Month two
+
+Spanish politics: Sánchez agonistes
+
+Austria: Three’s a charm
+
+Recycling: Waste not
+
+Finland: Prescribing tablets
+
+Charlemagne: Stereovision
+
+The Brexit timetable: It won’t be that easy
+
+Britain’s longest-running family firm: A right-royal shake-up
+
+The Labour leadership race: Under starters’ orders
+
+Stormont Assembly: Time to take off the dust-covers?
+
+Infrastructure spending: Soft money, hard hats
+
+High-speed rail: Fast-tracked
+
+Same-sex divorces: Pride before a fall
+
+Bagehot: The politics of virtue
+
+The science of disgust: Overcoming the yuck factor
+
+Business and war: A multinational desert
+
+Italian motorways: End of the road?
+
+Semiconductors: Memory loss and gain
+
+The man in the flightcase: Carlos Ghosn speaks in Beirut
+
+Bartleby: Lost in the Amazon jungle
+
+Investing in Chinese technology: Less where that came from
+
+Schumpeter: The last GE Man
+
+Ageing Europe: Old, rich and divided
+
+Governments and markets: In a fix
+
+Asset prices: Worth its weight
+
+Economic history: Capital in the 14th century
+
+Opening up economics: Beams and motes
+
+Buttonwood: Inessential oils
+
+Hedge funds: The country home of capital
+
+Free exchange: Mourning in America
+
+New Zealand’s wildlife: Here be giants
+
+Scientific publishing: A novel and promising finding
+
+Stellar evolution: Time for a Big Bang?
+
+Watering deserts: Out of thin air
+
+Scientific methods: Faecal canaries
+
+Democracy and its discontents: The ironies of revolution
+
+Negative thinking: Glass half-empty
+
+The history of psychology: Mad in craft
+
+Autofiction: Love and longing
+
+Beethoven’s afterlife: Prisoner’s dilemma
+
+Economic data, commodities and markets
+
+Gangs in El Salvador: The wrong side of the tracks
+
+Qassem Suleimani: Nowhere and everywhere
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-10T01:22:22.662885+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
