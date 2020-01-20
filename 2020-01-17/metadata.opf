@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">451</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1677020c-710f-4f3e-b148-426518c7afc6</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-20T07:33:49.070991+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Property markets: The horrible housing blunder
+
+Iran: Sorry doesn’t cut it
+
+Russia: Glued to the throne
+
+American economic power: Spooked by sanctions
+
+Health policy: Back to basics
+
+Letters to the editor: On Iran, hormone therapy, Ireland, Dominic Cummings
+
+Chronic pain: Backs to the future
+
+American financial hegemony: Dethroning the dollar
+
+The Democratic primary: The world intrudes
+
+Retirement: Baby steps
+
+America’s animals: City critters
+
+The Department of Commerce: Weapon of choice
+
+Immigration policy: Temporary toil
+
+Lexington: The Senate’s coming test
+
+Haiti: Gourdean knot
+
+Mexico: Out of left field
+
+Bello: Argentina and the reality principle
+
+Sand-mining: Bring me a nightmare
+
+Banyan: The Taiwan consensus
+
+Freedom of speech in Myanmar: Pen, sword and scales
+
+Military reform in India: A major modern general
+
+South Korea’s justice system: Going south
+
+Impaired vision: Hope for myopes
+
+Online censorship: The year of the rat-fink
+
+Chaguan: The digital divide
+
+We’re hiring a new China correspondent
+
+Iran: Regime on edge
+
+Oman: What comes after Qaboos?
+
+Ethiopia: It’s all in your head
+
+A journey up the Congo river: Follow the bottle
+
+Russia: The transition begins
+
+Milan thrives while Italy stagnates: The angel of the north
+
+France and the Sahel: A small Afghanistan
+
+European industrial policy: L’industrie, c’est moi
+
+Language wars: Colonic irritation
+
+Charlemagne: Geopolitics starts at home
+
+The Atlantic alliance: Declarations of independence
+
+Barbershops: Cut-throat competition
+
+Criminal justice: What’s going wrong here?
+
+Northern Ireland: The word was God
+
+Airlines: Keeping Flybe aloft
+
+Political advertising: Soft target
+
+Tax and benefits: The sausage-roll bonus
+
+Bagehot: Harry, Meghan and Marx
+
+Road safety: Crunch time
+
+Road markings: You might as well do the white line
+
+Housing: No place like home
+
+A history: Building up
+
+Supply: In my back yard
+
+Housing finance: Whack-a-mole
+
+Better off renting?: Money down the drain, right?
+
+Home ownership: End of an era
+
+Housing for the poor: A roof of one’s own
+
+The future: Rebuilding
+
+Sources and acknowledgments
+
+The World Economic Forum: A tour of the Magic Mountain
+
+Pharmaceuticals: Cheap shots
+
+Bartleby: The drugs don’t work
+
+Aston Martin Lagonda: Driving nowhere fast
+
+Schumpeter: Blowin’ in the wind
+
+Emerging markets: Not just a first-world problem
+
+Buttonwood: The semaphore of semis
+
+Oil prices: Crude calculus
+
+Sustainable investing: Green giant
+
+US-China trade: Between the lines
+
+Free exchange: Prometheus undirected
+
+Missile technology: Bullseye!
+
+Emerging diseases: The seventh crown
+
+Bioengineering: Robots that come alive
+
+Palaeontology: What really killed the dinosaurs?
+
+Conflict and culture: Pictures at an exhibition
+
+American politics: Original sin
+
+The second world war: Freedom fighters
+
+Chinese fiction: Beneath the waves
+
+Johnson: Who do they think they are?
+
+Economic data, commodities and markets
+
+Criminal justice: Crackdown
+
+Roger Scruton: Defender of the right
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-20T07:33:57.185686+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
