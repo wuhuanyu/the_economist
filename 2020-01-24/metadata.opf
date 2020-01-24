@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">458</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b98f253-7885-44ef-9a0a-2e728397e56e</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-24T00:24:15.945127+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+India’s democracy: Intolerant India
+
+Impeachment: Anything goes
+
+Cyber-security: How to handle Huawei
+
+Poland: The Lawless and Injustice party
+
+The Chinese coronavirus: Time and again
+
+Letters to the editor: On Brexit, technology planning, the Viable System Model, the piano, words
+
+Narendra Modi’s India: Marching to a nastier tune
+
+Impeachment: Long days’ journey into acquittal
+
+Regulating firearms: Bad shot
+
+Internet governance: Unexpected domain
+
+Rural demography: Homesteading 2.0
+
+Criminal justice: Make it better
+
+Agriculture: Business has gone sour in America’s dairy capital
+
+Lexington: Could it be Bernie?
+
+Bolivia: Elusive estabilidad
+
+Brazil: The press pressed
+
+Bello: The selling of silence
+
+Infrastructure in the Philippines: “Build, Build, Build”
+
+Australia’s greenhouse-gas emissions: Smoke and numbers
+
+Civil-military relations in Pakistan: Extend and pretend
+
+Vietnam’s energy mix: Sunny spell
+
+Banyan: Sex, lies and videotape
+
+Viral pneumonia: The Wuhan crisis
+
+Homosexuality and the law: Gay prospects
+
+Chaguan: More equal than others
+
+Britain in Africa: Boris Johnson woos Africa
+
+Lesotho: Murder in the mountains
+
+Isabel dos Santos: A self-made something
+
+Libya: The spoiler
+
+Hacking Jeff Bezos: Alexa, define chutzpah
+
+Poland: Law and Justice v law and justice
+
+Russian disinformation: Memory wipe
+
+Cyber-security in Germany: Their way or Huawei
+
+Romanian farmers: Market-makers
+
+France: Brutal facts
+
+Charlemagne: The new natalism
+
+Aping ARPA: How to invent the future
+
+Management gurus: Losing the title
+
+EU citizens: Another Windrush?
+
+Discrimination: Not black and white
+
+Jobs: Sticky millennials
+
+Scottish politics: Battle commences
+
+Bagehot: The politics of somewhere
+
+Private diplomacy: Not your average diplomats
+
+The future of labels: A brand new world
+
+Bartleby: The number of the best
+
+Huawei: Coming to America?
+
+Japanese business: Cross-examined
+
+Bushfires and business: Singed but not scorched
+
+European earnings: Techno-charged
+
+Schumpeter: Moutai madness
+
+America’s public finances: The great Treasuries binge
+
+India’s economy: Good down, bad up
+
+Precious metals: Rhodium ride
+
+Transatlantic trade tensions: Still frosty
+
+Economic growth: Slower is better
+
+Derivatives: Fare play
+
+Buttonwood: Taking toll
+
+Energy markets: Special delivery
+
+Free exchange: Tearing up the rule book
+
+Neuroscience: Fly atlas
+
+Personal identification: Finding it in one’s heart
+
+Space exploration: Breathing moondust
+
+Animal colouration: Beetle drive
+
+Art and genocide: Caught on paper
+
+Opera stars: The high life
+
+American history: Safe havens
+
+The future of work: If you can get it
+
+Campus mysteries: Class acts
+
+Economic data, commodities and markets
+
+The Holocaust: A memorial and a name
+
+Nell Gifford: The triumph of magic
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-24T00:24:24.613331+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
