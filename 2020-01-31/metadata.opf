@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">468</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6991d1cb-ff88-4c2b-b33c-84c003222e67</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-31T01:11:11.738232+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Coronavirus: How bad will it get?
+
+Britain after Brexit: Into the unknown
+
+Donald Trump’s peace plan: Dead on arrival
+
+Goldman Sachs: How the mighty have fallen
+
+Puberty blockers: Pill-pushers
+
+Letters to the editor: On one-nation Tories, chips, back pain, Boeing, disgust
+
+The special relationship: No longer such a smooth ride
+
+The presidential primaries: Who will be Donald Trump’s most forceful foe?
+
+The politics of gender: Changing states
+
+Vermont’s economy: The road not taken
+
+The Iowa caucus: Progressives’ dilemma
+
+The Supreme Court: Injunction dysfunction
+
+Lexington: Voting with their eyeballs
+
+Poverty in Brazil: Left behind
+
+Bello: Peru and the difficulty of reform
+
+Incan culture: Knotty tale
+
+South-East Asia’s special economic zones: Viva Laos Vegas
+
+Thai boxing: Muay too young
+
+North-eastern India: Bodos and don’ts
+
+Civil liberties in Pakistan: Arresting the messenger
+
+Banyan: No crater love
+
+The Wuhan virus: Sealed off
+
+Chaguan: The politics of pandemics
+
+Donald Trump’s peace plan: The sound of one hand shaking
+
+Iraqi politics: Sadder and Sadr
+
+Health care in Uganda: Why wait for death?
+
+Locusts in Africa: Severe swarms
+
+Italy’s regional elections: Salvini’s Sardine surprise
+
+Hungary: In search of a David
+
+Paris’s mayoral race: How not to do it
+
+Energy: Greening Greece
+
+China and Turkey: Bumps in the belt and road
+
+Clubbing in Berlin: Strings of life
+
+Charlemagne: The Brit awards
+
+Brexit and regulation: Into the wide blue yonder
+
+Euro-myths: Carry on commissioner
+
+Fisheries after Brexit: A scaly problem
+
+Immigration after Brexit: Points of departure
+
+Trade deals: Third country stories
+
+Rail nationalisation: Northern Fail
+
+Television news: British Broadcasting Cuts
+
+Judicial reviews: Trans: the pushback
+
+Bagehot: The English problem
+
+Coronavirus economics: Locked down
+
+Coronavirus: Prepare for the worst, hope for the best
+
+Labour in Deutschland AG: Unseating an old idea
+
+Labour in management: What’s American for Mitbestimmung?
+
+Electric vehicles: Car stock racing
+
+Deferred gratification: Corporate prosecutions
+
+Luxury cast-offs: Not for sale
+
+Bartleby: From the cradle to the Grove
+
+Online governance: A court of public opinions
+
+Schumpeter: An existential questioner
+
+Asset management: Privacy and its limits
+
+Investment banking: Turntable
+
+Poverty and privacy: Hidden costs
+
+Inflation in the euro area: A fuller figure
+
+Free exchange: Rummaging in the toolbox
+
+Finance internship
+
+The arrest of Charles Lieber: No small matter
+
+Entomology: More than meets the eye
+
+Forensic science: Whendunnit?
+
+Climate change: The methane hunters
+
+Marine science: Cyborg Cnidaria
+
+Art and dissent: Pursued by a bear
+
+Making movies: Forget it, Jake
+
+Bygone civilisations: Secret gardens
+
+Enigmatic fiction: Ghost in the machine
+
+Johnson: A cup o’ kindness
+
+The Democratic primary: Bernie and bust
+
+Kobe Bryant: Love story
+
+Economic data, commodities and markets
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-31T01:11:19.876286+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
