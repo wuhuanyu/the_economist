@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">475</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce9f8cfb-35b2-4052-9c7c-e4e417812a49</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-07T01:00:29.488804+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Management in the 2020s: Meet the new boss
+
+The presidential election: State of the Democrats
+
+The economic fallout in Hong Kong: Three strikes
+
+Congo and Malawi: A tale of two elections
+
+Investing in rail: High speed ahead
+
+Letters to the editor: On the Holocaust, #MeToo, diplomacy, Russia, mosques, Portugal, sporting metaphors
+
+The Democratic race: Iowa and after
+
+Headhunters: Take me to a leader
+
+Donald Trump’s record: What he did, not what he said
+
+New Hampshire’s turn: Waiting for Bernie
+
+Testing and college admissions: What’s SAT
+
+Government architecture: Column inches
+
+Public transport: In a jam
+
+Lexington: Trump unbound
+
+Ecuador: The future of the undoing project
+
+Colombia: Wine whinge
+
+Venezuela: Rum raisin’
+
+Bello: A new war of religion
+
+Law and order in India: Pish cosh
+
+Shrimp-farming in Asia: Brain v prawn
+
+Pakistani prisoners in Saudi Arabia: Junk bondage
+
+Gambling in Japan: The chips are down
+
+Banyan: The ministries of truth
+
+The Wuhan virus: Under observation
+
+Hong Kong and the mainland: Keep out
+
+Chaguan: A people’s war
+
+Congo: Not much to celebrate
+
+Kenya: Après Moi
+
+Mixed marriages: Conscious coupling
+
+Malawi: Let’s do this again
+
+Yemen and Iran: The Houthi model of government
+
+Germany: The splintering states
+
+Turkey: The new Turks
+
+Russia: The vagaries of memory
+
+Ireland: The worrying rise of Sinn Fein
+
+Norway: Ecowarriors bankrolled by oil
+
+Charlemagne: The parable of the plug
+
+EU-UK negotiations: There may be trouble ahead
+
+Aristocrats’ jobs: Courting fame
+
+Rail: Return of the fat controller
+
+Urban infrastructure: Euston, we have a solution
+
+Nuclear weapons: Critical condition
+
+Slavery and universities: Ties that bind
+
+Bagehot: Cummings v the blob
+
+Coronavirus: Run, don’t walk
+
+China’s Belt and Road: Return to centre
+
+The belt: Tighten up a notch
+
+The road: A long game
+
+Of belts and roads: What’s in a name?
+
+The digital Silk Road: The future stage
+
+The future: Wanted: new maps
+
+Sources and acknowledgments
+
+USA Inc: Goldilocks and the three bears
+
+Fast and furious: Tesla gains $60bn in market value in a week
+
+Technology C-suites: Time for an update
+
+Bartleby: I am Number 0.6
+
+Goldmining: Golden retrievers
+
+Business in India: Buy and sell tax-and-spend
+
+Schumpeter: Ace in a hole
+
+Hong Kong’s economy: A train of troubles
+
+China’s economy: Viral injections
+
+Contagion effects: What the coronavirus means for financial markets
+
+Financial markets: Knocking off work
+
+ICE bids for eBay: Making an offer
+
+Banking in India: Small change
+
+Buttonwood: Two tribes
+
+Free exchange: Progress of a sort
+
+Agriculture: Farming with Tom, Dick and Harry
+
+Oncology: The topography of tumours
+
+Neuroscience: Lost in the city
+
+French cinema: Sounding the alarm
+
+Literature and beyond: Marriage story
+
+Trade secrets: As you sow
+
+Indian fiction: Tales of a city
+
+War and its aftermath: The inferno
+
+Economic data, commodities and markets
+
+Music and moods: Sad songs say so much
+
+Homero Gómez: Logger turned saviour
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-02-07T01:00:39.495985+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
