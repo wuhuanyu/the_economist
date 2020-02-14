@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16aa3ac0-8062-49c1-8c6d-5b731b4d3fd0</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-14T01:25:06.608154+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+A united Ireland: Could it really happen?
+
+Germany: Bad heir day
+
+Disease and growth: Viral slowdown
+
+The wrong person for the Fed: Shel-no
+
+Property in America: The real-estate racket
+
+Letters to the editor: On housing
+
+A united Ireland: Is some revelation at hand?
+
+The economics of migration: Delayed reaction
+
+Political revenge: Department of Selective Justice
+
+Mayor Pete’s progress: Seeking an edge, edge
+
+Ethical landmines: Watch your step
+
+Trumpenomics: Vin-dictive
+
+Lexington: Mike Bloomberg’s moment
+
+Canadian health care: Justin Trudeau’s drug problem
+
+El Salvador: Bukele up
+
+Bello: “What is Peronism?”
+
+Social conservatism in the Philippines: Papal power
+
+Duterte v America: A treaty for a visa
+
+Ethnic tensions in Kazakhstan: Fire and fury
+
+Elections in Delhi: Capital loss
+
+Banyan: Belt and roadblock
+
+The virus and the economy: Business in paralysis
+
+The virus and politics: The hard men
+
+Chaguan: Death of an everyman
+
+Diplomacy: Frustrated are the peacemakers
+
+Qatar: Tamim the gloriously tolerant
+
+Religious politics in Israel: Shabbat riders
+
+Kenya: I shot the DJ
+
+The International Criminal Court: A day of reckoning nears
+
+Germany’s government: Trouble at the top
+
+Kosovo: A new start
+
+Russia: Show trials
+
+France: The emoji wars
+
+Charlemagne: Making Europe boring again
+
+Northern Ireland: Blessed are the merciful
+
+Competition policy: Ripping into the rip-off merchants
+
+Reshuffle: Number 11’s new incumbent
+
+Restitution of cultural artefacts: Spears and spires
+
+Politics: Leftward ho!
+
+Growth: Keeping down with the trends
+
+Public toilets: Spending a penny
+
+Public transport: Omnibus no longer
+
+Bagehot: The perils of Lennonism
+
+Covid-19: Curbing the Asian contagion
+
+Covid-19 and trade: A deadly disease disrupts
+
+Armsmakers in the Middle East: From muskets to missiles
+
+Restaurants: Chasing Ronald
+
+Remote advertising: Hoarding cash
+
+Elliott v SoftBank: Singer-Son time
+
+Bartleby: Teenage picks
+
+Business education: MBAs with Chinese characteristics
+
+Schumpeter: The Qualcommunist manifesto
+
+Real estate in America: Tearing down the house
+
+The International Monetary Fund: Structural adjustment
+
+The World Bank: The Goldberg variations
+
+Sustainability-linked debt: Green paper
+
+African currencies: Value judgments
+
+Buttonwood: Eyeing the storm
+
+Free exchange: Trickle-up economics
+
+Metabolites and you: Shed-loads of chemicals
+
+Climate change: Goodish news
+
+Animal behaviour: Lake-bed properties
+
+Solar physics: Hot topics
+
+Power from the people: Too much of a good thing
+
+The Academy Awards: Creepy crawlies
+
+Johnson: Original sins
+
+Tom Stoppard’s new play: Laughter in the dark
+
+Economic data, commodities and markets
+
+Behavioural finance: Price and prejudice
+
+Li Wenliang: The man who knew
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-02-14T01:25:14.486743+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
