@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">481</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e59afc16-f3ba-4b57-bf1c-0529a6383b65</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-21T00:52:25.324278+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Big tech: Big tech’s $2trn bull run
+
+Student debt: Getting the maths right
+
+The Bundesbank and the ECB: Couples therapy
+
+Britain’s legal system: Boris v the judges
+
+Climate philanthropy: The great Bezos giveaway
+
+Letters to the editor: On Clayton Christensen, Bernie Sanders, puberty blockers, private equity, police, China, sad songs
+
+The Philippines: Still the people’s choice
+
+South Carolina’s Democratic primary: Twilight of the moderates
+
+The Democratic debate: Mike drop
+
+Presidential approval ratings: A bogus bump
+
+Peter Hotez, vaccine campaigner: Anger in a time of autism
+
+Boy Scouts of America enters Chapter 11: Scout’s (dis)honour
+
+Medicine and the law: Kidney failure
+
+Gentrification in Washington, DC: A no Go-Go area
+
+Lexington: The other war on migrants
+
+Uruguay’s next president: Changing the guard
+
+Pipeline protests: Shut down Canada
+
+Japan’s economy: Typhoon, pestilence and tax
+
+Manufacturing in Australia: Holden folds
+
+Marriage in Pakistan: Clawless clauses
+
+Elections in Afghanistan: To the victor the toils
+
+Banyan: Mandarins for Mandarin
+
+The coronavirus epidemic: Casualties of war
+
+Diplomatic rhetoric: Discovering Twitter
+
+Chaguan: Putting faces to the numbers
+
+American policy in Africa: A strategy on autopilot
+
+Voting in Africa: Why the young and rich vote less
+
+Delivering letters in Congo: The postman never rings at all
+
+South Sudan: Inching towards peace
+
+Jews in Egypt: Welcome back, sort of
+
+Arab states and the IMF: A bit too austere
+
+France’s economy: The president’s paradox
+
+French puritanism: Liaisons dangereuses
+
+China v Sweden: Shotgun diplomacy
+
+Russia v Yukos: Much ado about “such”
+
+Orthodox Christianity: The sound of schism
+
+Turkish justice: Guilty of caring
+
+Charlemagne: How to mess up immigration
+
+Constitutional reform: Judging the judges
+
+Brexit negotiations: Will Britain lose its marbles?
+
+Immigration policy: Points mean prizes
+
+Brexit negotiations: Why Britain isn’t Canada
+
+Trade unions: Uncomradely behaviour
+
+Reshuffle revisited: Revolving doors
+
+Members’ clubs: More woke than coke
+
+Bagehot: The imperial prime minister
+
+Covid-19: Watchful waiting
+
+The data economy: Mirror worlds
+
+Economics: Digital plurality
+
+Infrastructure: Spreading out
+
+Business: The new AI-ssembly line
+
+Geopolitics: Virtual nationalism
+
+Policy: And the winner is…
+
+Business and the next recession: Downturn, disrupted
+
+Tech regulation: The Brussels effect, continued
+
+Apple in China: Red plateau
+
+Force majeure: A force to be reckoned with
+
+Bartleby: Cutting the pie
+
+Schumpeter: The CEO who loved me
+
+The Bundesbank: Spheres of influence
+
+Labour hoarding: Are there too many central bankers?
+
+HSBC pivots east, again: The incredible shrinking bank
+
+Michael Milken: Friends in high places
+
+Buttonwood: The cash bug
+
+Cross-border capital flows: Following the money
+
+Young, gifted and in the red: Student debt in America amounts to over $1.5trn
+
+Free exchange: Shock therapy
+
+The American Association for the Advancement of Science: Is there anybody out there?
+
+Soil microbiology: Three’s company
+
+Psychology: Face blind
+
+Cell biology: An atlas of the innerverse
+
+Histories of the web: Paradise lost
+
+Jean history: Rhapsody in blue
+
+Mountaineering wars: Summit diplomacy
+
+Kurdish art: Remember, remember
+
+Russian lives: The grey zone
+
+Economic data, commodities and markets
+
+Discrimination in China: Call me maybe
+
+“Mad Mike” Hoare: Living dangerously
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-02-21T00:52:34.540008+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
