@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">486</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15f3032c-87e7-4c83-939a-94999a0ede88</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-28T00:39:03.803426+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL's cartoon
+
+Bernie Sanders: America’s nightmare
+
+The pandemic: Going global
+
+The war in Afghanistan: This way out
+
+Argentina and the IMF: New partners, old dance
+
+Free speech at work: Woking nine to five
+
+Letters to the editor: On companies, gender, Qatar, war, Brexit, committees
+
+Covid-19: Flattening the curve
+
+The Democratic primary: That Berning feeling
+
+Harvey Weinstein: Celebrity justice
+
+The Supreme Court: Roberts rules
+
+High-skilled immigration: The invisible wall
+
+Lexington: The primary problem
+
+Guyana: An opportunity to score
+
+Carnival in Brazil: Rain delay
+
+Bello: Political theatre
+
+Afghanistan: Can it be?
+
+Thai politics: Too forward
+
+Political reform in Kazakhstan: Democracy is on its way
+
+Malaysian politics: The old men and the seats
+
+Banyan: The trumpets sound
+
+Japanese abroad: The endangered tourist
+
+Sectarian violence in India: A tale of two neighbourhoods
+
+Surveillance technology: Code red
+
+Remote learning: Getting to know your teacher
+
+Chaguan: Globalisation under quarantine
+
+Israeli politics: Take three
+
+Israel: In search of a one-party solution
+
+The death of Hosni Mubarak: A soldier’s tale
+
+South Africa’s budget: Comrade cosmonaut
+
+African trade: Africa’s beef with America
+
+Extremism in Germany: The threat within
+
+Jean Vanier: Feet of clay
+
+Austria’s Jews: Charity confiscated
+
+Tech in Serbia: Return of the geeks
+
+Italy’s troubled steel factory: Down at heel
+
+The future of research: The £18bn question
+
+Heathrow: It won’t fly
+
+The politics of pop: Taking back control
+
+Farming after Brexit: A green and poorer land
+
+Barricaded Britain: Beauty or safety?
+
+Shooting ranges: The legal battlefield
+
+Life expectancy: Groundhog day
+
+Menstruation: Scotland’s free periods
+
+Bagehot: The man who dares to be dull
+
+Speech at work: None of your business
+
+ASML: Industrial light and magic
+
+Luxury goods: Unbedevilling Prada
+
+Berkshire Hathaway: How hath Berkshire done?
+
+Social networks: A friendly portrait
+
+Bartleby: When rank leads to rancour
+
+Diversity in America Inc: The benefits of being bold
+
+Oil in North America: Of tar sands and shale beds
+
+Schumpeter: Bob Iger’s magic kingdom
+
+Covid-19 and market turmoil: Spread and stutter
+
+Covid-19 and China’s economy: Marching orders
+
+Buttonwood: Benchmark blues
+
+Americans’ personal finances: Land of the frugal
+
+The information economy: Data, data everywhere
+
+European Union trade: Hulk Hogan
+
+Who wants to run a bank?: Bank bosses in Europe
+
+Free exchange: Motive power
+
+Cardiology: The heart’s digital twin
+
+Armed forces: War on attrition
+
+Planetology: Beneath the surface
+
+Defending delivery drones: Incoming!
+
+Geomythology: Fossilised folk tales
+
+Thomas Cromwell, special adviser: The bedchamber and the axe
+
+Photography and memory: Out of shot
+
+Lincoln’s second inaugural: Immortal words
+
+Johnson: Double-take
+
+Football and inequality: A game of two halves
+
+Katherine Johnson: The girl who asked questions
+
+Economic data, commodities and markets
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-02-28T00:39:29.785669+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
