@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">489</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3bc9230-e691-445d-b0f7-a38e195ebe2f</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-06T00:47:44.605658+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The pandemic: The right medicine for the world economy
+
+American politics: Joe Biden redux
+
+Britain’s budget: Be bold, Boris
+
+The war in Syria: An ally in need
+
+African democracy: How to beat the Big Men
+
+Letters to the editor: On telecoms, Ireland, Singapore, America, bananas, Brazil, oil
+
+Covid-19: New world curriculum
+
+After Super Tuesday: Look at Joe go
+
+News from China: Quid pro quo
+
+Lori Lightfoot: Policing poverty
+
+Donald Trump’s record: The toolkit
+
+Household budgets: The price is wrong
+
+Lexington: Legends of the slaughter
+
+Feminism in Mexico: The violet tide
+
+Crime in Latin America: Special victims
+
+Surfing in Brazil: The big break
+
+Bello: Happily after Evo?
+
+Malaysia’s new government: Beset at its birth
+
+Regulation in Bangladesh: Rules are made to be broken
+
+Elections in Tajikistan: United in unity
+
+The war in Afghanistan: Peace with Afghan characteristics
+
+Politics in Sri Lanka: Brotherly shove
+
+Banyan: Flu jabs
+
+Women and covid-19: The mask slips
+
+Uighurs: From slammer to serfdom
+
+Chaguan: Total incredulity
+
+Syria’s war: The battle for Idlib
+
+Israeli politics: In limbo
+
+Democracy in Africa: Generation game
+
+Refugees: You shall not pass
+
+The euro area: A series of unfortunate events
+
+Ireland: Shape-shifters
+
+Slovakia’s election: A different kind of populism
+
+France: Aux powerpoints, citoyens!
+
+Charlemagne: Minority Report: Brussels edition
+
+The budget and the bond markets: Neither shaken nor stirred
+
+Coronavirus preppers: Apocalypse soon
+
+Brexit negotiations: Seconds away, round two
+
+Politicians and civil servants: Priti difficult
+
+Hydrology: Putting the wiggles back in rivers
+
+Retail: The high street’s escape route
+
+Bagehot: A man of the world
+
+Abortion: From backstreet to mail-order
+
+Jack Welch: Captain of industry
+
+Technology mergers: Xeroxing HP
+
+Bartleby: A woman’s work
+
+Private equity: Locusts of attention
+
+Go north, young woman: The glass-ceiling index
+
+Telemedicine in China: The smartphone will see you now
+
+Schumpeter: Plan V
+
+The world economy: Sneezy money
+
+Asset prices: Motion sickness
+
+Buttonwood: Penthouse to pavement
+
+Liquidity in bond markets: Match point
+
+American banks: When the bucks stop
+
+Catastrophe finance: A pussyfooting cat bond
+
+Free exchange: Material losses
+
+Military technology: The rise of the ray gun
+
+Wildfires: Animal heat
+
+Satellite communications: A call from the heavens
+
+Evolution: Which is really the weaker sex?
+
+Inequality, revisited: A modern Marx
+
+New American theatre: Notes from the underground
+
+Baltic literature: The farmer’s tale
+
+Irish fiction: A life in parts
+
+Economic data, commodities and markets
+
+Coronavirus statistics: Tracking the stealthy killer
+
+Ernesto Cardenal: Building Utopia
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-06T00:47:53.219020+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
