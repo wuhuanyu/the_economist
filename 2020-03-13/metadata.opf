@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">491</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">389a41b0-750a-4ff2-988b-c634cf02e600</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-13T01:07:53.321585+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Covid-19: The politics of pandemics
+
+Financial conditions: V is for vicious
+
+Russia: Vlad the indefinite
+
+Latin America: How to reform Chile
+
+Succession at JPMorgan Chase: Mission accomplished
+
+Letters to the editor: On Bernie Sanders, green technology, Mexico, Chinese MBAs, facial expressions
+
+The covid-19 virus: Anatomy of a killer
+
+JPMorgan Chase: The house that Jamie built
+
+Public health: Dropping the ball
+
+Covid-19 and the economy: Spluttering
+
+The Democratic primaries: Berning out
+
+Climate change: Green Texas
+
+Rural policing: Country cops
+
+Lexington: Digital myths and political reality
+
+Chile: A model country in need of remodelling
+
+Myanmar’s army: Making war and law
+
+Traffic on Everest: High and climbing
+
+Politics in Afghanistan: Twin peaks
+
+Sectarianism in India: First the mob, then the law
+
+Banyan: Apocalypse, but no deliverance
+
+Politics and the coronavirus: A gesture to the sequestered
+
+Covid-19 and farmers: The other 40%
+
+Chaguan: When nationalism bites back
+
+The politics of cheap oil: The big squeeze
+
+Tanzania and the World Bank: Bankrolling bigotry
+
+Traffic in Nigeria: Two wheels bad, four wheels better
+
+Iran and covid-19: Sickly state
+
+Lebanon: Resilient no more
+
+Russia: The prisoner in the Kremlin
+
+French local elections: A kicking on the way
+
+Women and work: Why Germany’s pay gap is so large
+
+Charlemagne: Pour décourager les autres
+
+The NHS and covid-19: Is it ready?
+
+The Budget: Economic medicine
+
+Scottish politics: Sturgeon at bay
+
+House names: Dun Namin’
+
+Technology startups: Unicorn lead
+
+Policing the police: Watchdogs without bite
+
+Looking for gardeners: Green gods
+
+Bagehot: The meaning of conservatism
+
+Covid-19: All’italiana
+
+Deaths from covid-19: Where will it be worst?
+
+Personalised medicine: Populations of one
+
+The human genome project: Welcome to you
+
+Genes and treatment: Side-effects include death
+
+Congenital disease: Broken
+
+The pharmaceutical industry: Kill or cure?
+
+The sum of all lives: The coming of the datome
+
+Technology in India: Silicon subcontinent
+
+Coronavirus and business: The anti-covid industrial complex
+
+Bartleby: In sickness and in health
+
+Cloud business: Altocumulus
+
+Corporate purpose: Going in circles
+
+Schumpeter: The rise and rise of Accenture
+
+The cash question: In a sea of debt
+
+Oil prices: Scorched earth
+
+Italy in crisis: Mr Conte counts the costs of covid
+
+The bear facts: Entering a bear market
+
+Indian banks: When Yes means no
+
+Buttonwood: Involuntary code
+
+Free exchange: The ravages of time
+
+Big wet data: An ocean of things
+
+Ecology: Siren smell
+
+Atomic energy: Fun-sized fission
+
+Palaeontology: The smallest dinosaur?
+
+Music and protest: The beat goes on
+
+Global scourges: The famished
+
+Future histories: Fragments and ruins
+
+Fiction of reality: Brothers in arms
+
+Johnson: Old wine, new bottles
+
+Economic data, commodities and markets
+
+Covid-19 in cities: Ghost towns
+
+Freeman Dyson: Infinite possibilities
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-13T01:08:02.697911+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
