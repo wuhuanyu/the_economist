@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">494</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d6ee748-d5f0-4ca8-ae81-f76d54bc6aef</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-20T00:39:29.872357+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The Pandemic: Closed
+
+The world economy: Fighting the slump
+
+Free speech: Stop deporting reporters
+
+Guyana: Petro power struggle
+
+Professional sports: The game’s the thing
+
+Letters to the editor: On coronavirus and business, central banks, Hong Kong, data
+
+The pandemic: The lockdown and the long haul
+
+The economic emergency: Experimental treatment
+
+Responding to covid-19: In sickness, not in health
+
+The 2020 population count: Census and sensibility
+
+The Democratic primary: Electoral distancing
+
+Families: Little gay house on the prairie
+
+The Bible museum: A load of old cobblers
+
+Lexington: Pandemic polarisation
+
+Eradicating coca: Burning leaves, spurning leavers
+
+Bello: Venezuela’s political quarantine
+
+Canada: A little lichen relief
+
+Covid-19 in India: The billion-person question
+
+Banyan: No island is an island
+
+Australia’s economy: Up, up, up and down
+
+The Maldives: The other contagion
+
+Making wagyu Japanese again: Sperm wail
+
+China and America: The blame game
+
+Imported infections: A frosty welcome
+
+Chaguan: This virus also kills dreams
+
+Separatism in Ethiopia: Abiy’s war
+
+HIV and the disabled: Double trouble
+
+The Democratic Republic of Congo: A crocodile-hunter’s tears
+
+Coping with covid-19: Prayer in a pandemic
+
+Israeli politics: Bibi and the virus
+
+Italy and covid-19: The race against time
+
+Spain: Sánchez’s big test
+
+Europe’s borders: Frontier theatre
+
+France: The virus and the vote
+
+North Macedonia: Deplinthing Alexander
+
+Russia: The new Soviet Union
+
+Charlemagne: Europe, more or less
+
+Government: Leviathan rising
+
+Theatreland: Curtains
+
+Trains: Bailing out the railways
+
+Panic buying: Supermarket sweep
+
+Old people: Leave granny alone
+
+Life under lockdown: Dispatches from the front room
+
+Brexit and covid-19: Crises collide
+
+Digital infrastructure: Stayin’ online
+
+Bagehot: The spirit of the Blitz
+
+School closures: Mid-term break
+
+Business and the pandemic: Covid carnage
+
+Air transport: Flight risk
+
+Manufacturing: My iron lung
+
+Bartleby: Embracing the suck
+
+Very golden oldies: Berkshire Hathaway has America Inc’s oldest board
+
+Schumpeter: Processing power
+
+The cash crisis: Down the drain
+
+Buttonwood: Capitulation
+
+The surging dollar: Multi-coloured swap shop
+
+Two versions of reality: Exchange-traded fundamentals
+
+Closing stock exchanges: The pits
+
+Free exchange: From V to victory
+
+The coronavirus pandemic: Test acts
+
+Scientific methods: Sentimental journey
+
+Palaeontology: Fowl play
+
+Music and politics: Ghetto blasters
+
+Muhammad bin Salman: The prince
+
+The play’s the thing: Brave new world
+
+Arresting new fiction: He said, she says
+
+Johnson: Talking to the world
+
+Economic and financial indicators
+
+Covid-19 and flights: Ending the nosedive
+
+Falafel: The throw of the dice
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-20T00:39:37.930884+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
