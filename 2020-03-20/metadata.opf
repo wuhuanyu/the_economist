@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">494</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">2d6ee748-d5f0-4ca8-ae81-f76d54bc6aef</dc:identifier>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">496</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18bdf3d1-ae1b-4706-9440-d7f49d03a36e</dc:identifier>
         <dc:title>The Economist</dc:title>
         <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.12.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2020-03-20T00:39:29.872357+00:00</dc:date>
+        <dc:date>2020-03-20T01:11:50.218305+00:00</dc:date>
         <dc:description>本期文章:
 
 Politics this week
@@ -115,9 +115,9 @@ Air transport: Flight risk
 
 Manufacturing: My iron lung
 
-Bartleby: Embracing the suck
-
 Very golden oldies: Berkshire Hathaway has America Inc’s oldest board
+
+Bartleby: Embracing the suck
 
 Schumpeter: Processing power
 
@@ -161,7 +161,7 @@ Global news and current affairs from a European perspective. Best downloaded on 
         <dc:subject>新闻</dc:subject>
         <dc:subject>The Economist</dc:subject>
         <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2020-03-20T00:39:37.930884+00:00" name="calibre:timestamp"/>
+        <meta content="2020-03-20T01:12:07.414884+00:00" name="calibre:timestamp"/>
         <meta content="Economist, The" name="calibre:title_sort"/>
     </metadata>
     <guide>
