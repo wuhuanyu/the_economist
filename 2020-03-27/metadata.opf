@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">499</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7115145-3254-4d93-bb66-a9a8c1151275</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-27T00:53:38.482480+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The state and covid-19: Everything’s under control
+
+The pandemic: The next calamity
+
+America’s rescue package: Mixed medicine
+
+Iran and covid-19: Get serious
+
+Videoconferencing etiquette: Through the keyhole
+
+Letters to the editor: On Taiwan, Myanmar, primaries, elephants, Freeman Dyson, congenital diseases, house names
+
+The pandemic and the state: Creating the coronopticon
+
+Economic policy and the virus: Building up the pillars of state
+
+Congress responds: A $2 trillion bazooka
+
+Viral exceptionalism: The bills you have to pay
+
+Dating: Love under lockdown
+
+Covid-19 and the locked-up: Pushing on an open door
+
+Teenage sexting: Sharing and not caring
+
+The Green Party: Zowie Howie
+
+Lexington: Sore and feverish
+
+Covid-19 in Brazil: BolsoNero
+
+Mexican-American relations: Distancing neighbours
+
+Bello: The Latin American patient
+
+Covid-19 in Japan: Blowing out the flame
+
+Politics in Bangladesh: Ee begum!
+
+Sexual abuse in South Korea: Naming and shaming
+
+Banyan: An island at the ready
+
+Covid-19 in South Asia: Hand-to-mouth to lockdown
+
+The post-virus economy: Back to work
+
+Chaguan: No shining city on a hill
+
+Coronavirus in Africa: Not immune
+
+The virus in the Arab world: An even tighter grip
+
+Covid-19 reaches Gaza: Quarantine while under siege
+
+Spain: The emergency room
+
+Italy, Germany and the virus: A numbers game
+
+Coronanomics: Money for all
+
+Swearing: Dutch disease
+
+Russia’s economy: Isolationomics
+
+Charlemagne: Aesop’s euro zone
+
+Covid-19 and inequality: The great divider
+
+Politics: Slow starter
+
+Drugs: Stay in, drop out
+
+Health care: National Covid Service
+
+Village England: The Swan takes flight
+
+Community life in London: Alone, together
+
+Saving jobs: Furlough maintenance
+
+Scottish politics: Leaping Salmond
+
+Bagehot: The new politics
+
+The pandemic: Stop, collaborate and listen
+
+Hospital ventilators: Wind rush
+
+Jobs at The Economist: We’re hiring
+
+Africa: The African century
+
+Demography: Sex and education
+
+Migration: Young, bright and on the move
+
+Fighting the jihadists: The forever wars
+
+Food and climate: Feeding another billion
+
+Economy: Take-off speed
+
+The future: Perchance to dream
+
+Business and the virus: Best in show
+
+Confinement shopping: Still open
+
+Human resources: The importance of people people
+
+Bartleby: Diary of a home worker
+
+Distributed companies: The nowhere firm
+
+Schumpeter: A dispatch from the home front
+
+World trade: Trucks, queues and blues
+
+On shaky ground: America’s mortgage market sickens
+
+The dollar: The Zoom accord
+
+The euro zone: Ripping up the rules
+
+Commodities: Buyer beware
+
+Buttonwood: Bridges to somewhere
+
+Free exchange: How to pay for the pandemic
+
+Covid-19 and climate change: Clear thinking required
+
+Covid-19 and pollution: Heat and dust
+
+Detecting elevated body temperatures: And now here is the fever forecast
+
+Disease and democracy: How to survive a plague
+
+Art on the internet: The online of beauty
+
+Italian history: Civilisation and barbarism
+
+Disappearing acts: Woman overboard
+
+Disaster fiction: The yolk of fate
+
+Economic data, commodities and markets
+
+Climate change: Winter is not coming
+
+Michel Roux: Cooking with Albert
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-27T00:53:47.410294+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
