@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">693417a1-7a9d-45cd-bed1-b3c264c34d96</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-03T00:58:22+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Pandemic trade-offs: A grim calculus
+
+Corporate bail-outs: Bottomless Pit, Inc
+
+The technology industry: Don’t waste a good crisis
+
+Mozambique: Gas, guns and guerrillas
+
+Oil and geopolitics: The Rosneft riddle
+
+On covid-19, Bolivia, sports, rivers, lichen: Letters to the editor
+
+Pandemic trade-offs: Hard choices
+
+Medical ethical dilemmas: Triage under trial
+
+Anatomy of an investing bubble: Exit unicorns, pursued by bears
+
+Covid-19 and the states: It can happen here
+
+Social distancing: Movement Republicans
+
+The labour market: Trough to peak
+
+Wisconsin’s chaotic elections: Petri-dish democracy
+
+The presidential campaign: Reade’s digest
+
+Military strategy: Send the marines
+
+Lexington: A shadow over the Sunshine State
+
+Venezuela: Maduro rap
+
+Cuban doctors: Mercy and money
+
+Bello: Wisdom and witlessness
+
+Migration and the virus: Under pressure
+
+The occult in Myanmar: A wizard wheeze
+
+Thailand’s economy: Sigh-am
+
+South Korea and America: Stay-at-home allies
+
+Love in Indonesia: Wed first, ask questions later
+
+Banyan: The drifters
+
+The gig economy: Visible and vocal
+
+Chaguan: A Chinese mirror
+
+Cabo Delgado: Mayhem in Mozambique
+
+Chocolate in Africa: Sweet dreams are Congolese
+
+States of emergency: Stay home or be whipped
+
+A lost year in Saudi Arabia: Stalled
+
+Faith and covid-19: Insular, but not isolating
+
+France and covid-19: The new war
+
+European agriculture: Farmhands needed
+
+Sweden and covid-19: Europe’s outlier
+
+Germany’s would-be leader: Söder’s moment
+
+Kosovo: A Balkan bust-up
+
+Charlemagne: The Orban way
+
+Innovation: Move fast and try not to break things
+
+Life under lockdown: Home comforts
+
+Testing: Negative result
+
+Policing a lockdown: Booby on the beat
+
+The army: War, or something like it
+
+Rough sleeping: Shelter from the storm
+
+The steel industry: Braced for trouble
+
+Call centres: Please hold
+
+Bagehot: The return of the opposition
+
+Covid-19 and mental health: Only connect
+
+Jobs at The Economist: We’re hiring
+
+Self-improvement: Net benefits
+
+Corporate rescues: Great white night
+
+Boeing: Up in the air
+
+Show business and the pandemic: Aaaaand cut!
+
+Huawei: Indestructible
+
+Bartleby: Just the job
+
+Schumpeter: You’re furloughed!
+
+Emerging economies: Stringent but stingy
+
+Projecting uncertainty: Economists’ forecasts for GDP growth in 2020 vary widely
+
+Squeezed incomes in America: Bills, bills, bills
+
+Buttonwood: Advantage Norway
+
+Allianz: Lonely work
+
+Free exchange: Chinese rate trap
+
+The coronavirus pandemic: Testing’s testimony
+
+Treating patients: A racing chance
+
+Overloaded telecoms: Breaking the net
+
+Geopolitics: The victor’s curse
+
+New fiction: Secrets and lies
+
+Pandemics of yore: How to understand a plague
+
+Creatures of the deep: Rich and strange
+
+Johnson: Corona-speak
+
+“I, Claudius”: A family affair
+
+All-in together: Gambling with the future
+
+Economic data, commodities and markets
+
+Coronavirus statistics: Fatal flaws
+
+Joseph Lowery: Justice like waters
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-03T00:58:31+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
