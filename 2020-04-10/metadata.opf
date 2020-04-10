@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">506</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ca28e33-4e18-4ccd-bf6e-45b44ddc951a</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-09T22:07:38.234285+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+A business survival guide to the economic slump: The business of survival
+
+The euro area: Cut to the chase
+
+Voting in a pandemic: Wisconsin’s warning
+
+The IMF: Break the glass
+
+America v China: Huawei and 5Geopolitics
+
+Letters to the editor: On covid-19, China, digital payments, cats, Sinn Fein, Jamie Dimon, Tahiti
+
+Covid and the company: Sinking, swimming and surfing
+
+Manufacturing at a distance: Still made in China
+
+Ructions in the oil market: Upside down
+
+White House v virus: Bigger than Trump
+
+Race and covid-19: Woes compounded
+
+The intelligence community: The spooky state
+
+The navy: Seasickness
+
+Living spaces: Please shower on entry
+
+Prison gerrymandering: Ghost constituents
+
+Lexington: A river runs through it
+
+Latin America and covid-19: Bracing for a battering
+
+A battle in the Caribbean: Bolivarian farce
+
+Bello: A president who is isolating himself
+
+Singapore and covid-19: No way out
+
+Justice in Uzbekistan: Blind obedience
+
+Taiwan on alert: Strait and harrow
+
+Sexism in Japan: Heels at high water
+
+Criminal justice in Australia: Judges v jury
+
+Politics in South Korea: Voting amid the virus
+
+Banyan: Locked out of the bolthole
+
+Traditional medicine: Fighting it the Chinese way
+
+Beekeeping: The honey trap
+
+Chaguan: A window almost closed
+
+Iraq: Dark times ahead
+
+Covid couture: Lebanon gets comfortable
+
+Fiscal ill-health: Debt and disease
+
+Kenya: Tall tales of the city
+
+African agriculture: Dummy farms
+
+Europe’s response to covid-19: Paying for it
+
+Greece’s vulnerable economy: A terrible toll on tourism
+
+Turkey and covid-19: Perfumed guardian
+
+Russia: The invisible leader
+
+Charlemagne: Zoom diplomacy
+
+Covid-19: Patient number one
+
+Labour’s new leader: Socialism with a barrister’s face
+
+Lockdown compliance: For queen and country
+
+Misinformation and mobile networks: Dodgy signal
+
+The other sick: Stay home, protect the NHS, unless...
+
+Funerals: Ashes to ashes
+
+The economy: Over the cliff edge
+
+Bagehot: Missing Boris
+
+Religious divides: Living on a prayer
+
+Virtual worship: Our Father, who art in cyberspace
+
+South Korea: Loosening up
+
+New economic models: Another way to work
+
+Men and women: Battle lines
+
+Beyond K-pop: K-pop’s intellectuals
+
+Politics: A flickering legacy
+
+North Korea: A god-king with nukes
+
+The future: The limits of loosening
+
+Telecommunications: 5Geopolitics
+
+Bartleby: It’s cold outside
+
+Technology: SoftBank and sensibility
+
+Online collaboration: Zoom in, Zoom out
+
+Schumpeter: Strategic pile-up
+
+Banks and the economic emergency: This time we’re different
+
+Price gouging: Signal failure
+
+Buttonwood: Stacked and whacked
+
+Joe Stiglitz and the IMF: Pilgrimage to the gamma quadrant
+
+Taken ill: The labour market’s turn for the worse
+
+Free exchange: Special delivery
+
+Covid-19 (1): Maskarade
+
+Covid-19 (2): Absence of evidence is not evidence of absence
+
+Art and injustice: Vengeance is hers
+
+London fiction: Through the trapdoor
+
+Postcards from doomsday: This is the end
+
+Do the right thing: Walking on by
+
+Soviet dissidents: Keeping the flame alight
+
+Trollope’s world: The way to live now
+
+TV drama: A Flemish Robin Hood
+
+Economic data, commodities and markets
+
+Measuring covid-19: Footprints of the invisible enemy
+
+Catherine Hamlin: Faith healing
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-09T22:07:47.593179+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
