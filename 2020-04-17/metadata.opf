@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">510</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a281911a-2fd3-48bb-a69d-1e54ba6946ba</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-17T00:20:30.754621+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+China and covid-19: Is China winning?
+
+The oil industry: A view of the future
+
+Covid-19 lockdowns: Fumbling for the exit strategy
+
+Should dividends be cut?: Jam postponed
+
+Postal voting: Two myths
+
+Letters to the editor: On Africa, covid-19, Mount Everest, Dutch swear words, podiums, exacting
+
+Creating immunity to covid-19: So many possibilities, so little time
+
+Convalescent plasma and artificial antibodies: Survivors as saviours
+
+Coronavirus and inequality: Unequal protection
+
+Violence and the virus: Ceasefire, for now
+
+Revolution interrupted: Democrats in array
+
+Military recruitment: Social climbing
+
+Lexington: The paradox of the pandemic
+
+Mexico: Shoestring king
+
+Bello: The light that flickers
+
+Ethnic strife in Myanmar: Guerrillas with attitude
+
+Informal workers and covid-19: Get sick or go hungry
+
+Covid-19 in Japan: Déjà flu
+
+Politics in South Korea: Infectious enthusiasm
+
+Banyan: In hot water
+
+Global influence: Thanking big brother
+
+Chaguan: China’s self-censoring nationalists
+
+Public health: What South Africa learned from AIDS
+
+Remittances and Africa: Covid dries up a cash cow
+
+Gaming in the Middle East: Covideo heaven
+
+The war in Yemen: Looking for an exit
+
+Quackery in Iran: A bad time for bad medicine
+
+Spain: A house divided
+
+The coronabonds row: Dutch courage
+
+Poland’s election: Epidemocracy
+
+Wildlife encroaches in Italy: Rus in urbe
+
+Charlemagne: Unlucky millennials
+
+Covid-19: What went wrong?
+
+Farm labour: Your polytunnel needs you
+
+Care homes: Careless
+
+Small business: The bank manager will see you now
+
+Magazines: Glitz-krieg
+
+Newspapers and covid-19: Breaking: news
+
+Government debt: Printing money
+
+Brexit negotiations: Extension rebellion
+
+Bagehot: The establishment strikes back
+
+How to end lockdowns: Emergency exit
+
+Jobs at The Economist: We’re hiring
+
+Corporate fraud: Who’s lost their trunks?
+
+ByteDance: Unabashed
+
+Dividends and buy-backs: Chop chop
+
+Non-essential retailers: Fashion victims
+
+Bartleby: Lessons from the front line
+
+Schumpeter: Slumbering serpents
+
+The world after covid-19: By invitation: Mark Carney
+
+The recession in rich countries: Picking off the weak
+
+Earnings on Wall Street: Dispatch from the front
+
+China’s economy: Fighting with shadows
+
+Finance and geopolitics: Bucking the trend
+
+Buttonwood: A shrewd counterweight
+
+Free exchange: The cost of living
+
+Contact-tracing: A global microscope, made of phones
+
+Disease transmission: Not so guilty
+
+Climate change: Scorched earth
+
+Global health: WHO’s in trouble?
+
+Solitude and its consequences: Immunity from being alone
+
+Covid-19 and entertainment: Sealed without a kiss
+
+Tales of survival: Exodus and odyssey
+
+Demography: The big ask
+
+Lives of the plutocrats: The money tree
+
+Johnson: Locked and learning
+
+Home Entertainment: Listen to Bertrand Russell, the English Voltaire
+
+Home Entertainment: The joy of making your own tortellini
+
+Economic data, commodities and markets
+
+The internet and covid-19: Get used to it
+
+Hal Willner: Mr Music Man
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-17T00:20:41.727133+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
