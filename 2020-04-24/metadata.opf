@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ec44b4a-1d32-4019-85b5-6935a4c672e4</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-24T00:36:31.778536+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Government finances: After the disease, the debt
+
+Government under covid-19: A pandemic of power grabs
+
+Carmakers in trouble: Pimp the ride
+
+Migrants and the virus: Essential workers
+
+Climate change: An Earth Day in the life of a plague
+
+Letters to the editor: On wet markets, Thailand, abortion, covid-19, house names, management
+
+The world after covid-19: Bill Gates on how to fight future pandemics
+
+Covid-19 and public finances: Undercut
+
+The crisis in carmaking: From 60 to zero
+
+Better batteries: Charging up for a long ride
+
+Reopening America: Stir craziness
+
+Environmental regulation: Mercury rising
+
+Biodefence: Spore wars
+
+The Hua-war: Some body to hold
+
+Catholic voters: Cathechismic
+
+Lexington: The limits of energy independence
+
+Argentina: The Peronist and the pandemic
+
+Bolivian wine: High varietals
+
+Bello: Cuba on the edge
+
+When the epidemic is over: A process of elimination
+
+Moonshine in Sri Lanka: Worth a shot
+
+Ignoring covid-19 in Central Asia: What pandemic?
+
+India on lockdown: Impossible sums
+
+Banyan: Fin pickings
+
+Politics in Hong Kong: The long arm of Beijing
+
+Table manners: Safer ways to use chopsticks
+
+Chaguan: When children say #MeToo
+
+The Gulf’s outbreak: Covid in the camps
+
+Israeli politics: Bibi wins again
+
+Food distribution: The race to feed Africa
+
+Abba Kyari: The parable of the bag of cash
+
+Germany and covid-19: Top of the class?
+
+A French conundrum: Rush-hour running
+
+Turkey, refugees and covid-19: A crisis within a crisis
+
+NATO in Europe: Yankees go home
+
+Charlemagne: Testing the faith
+
+The BBC’s future: The next episode
+
+Politics: Jolly difficult
+
+The price isn’t right: Not just a problem for economists
+
+Covid communities: Neighbourhood watch
+
+Food and the economy: Pret A Ouvrir
+
+Freemasons: Out of the shadows
+
+Bagehot: Back to abnormal
+
+Covid-19 and autocracy: Protection racket
+
+Corporate innovation: Crucible of creative disruption
+
+Facebook in India: Jiostrategic
+
+Television: Medium and message
+
+The data economy: Tear down this wall
+
+Bartleby: Play’s the thing
+
+Schumpeter: Minting it
+
+Hedge funds: Back in the game
+
+Risk parity: Under the weather
+
+Financial technology: Virtually money
+
+Commodities: Tick tock
+
+Buttonwood: Hard money
+
+Free exchange: Tough love
+
+Tackling climate change: The challenge without precedent
+
+Covid-19: Tests of reason
+
+Pandemics past and present: A lesson from history
+
+The solace of Tolstoy: Unhappy in the same way
+
+Power in Russia: Made men
+
+Coffee and capitalism: The big grind
+
+Dutch fiction: Cold comfort farm
+
+Home Entertainment: “The Shining” is perfect quarantine viewing
+
+Home Entertainment: Try painting in watercolours
+
+Perspectives: How previous contagions changed cities
+
+Economic data, commodities and markets
+
+Vulnerability to covid-19: Dixie in the crosshairs
+
+John Conway: The game of maths
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-24T00:36:40.695849+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
