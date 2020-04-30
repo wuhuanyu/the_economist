@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">518</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54db1d57-7240-4067-844c-381027214d6b</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-30T23:40:41.225959+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Life after lockdowns: The 90% economy
+
+Covid-19 and the classroom: Open schools first
+
+State and local governments: Unsteady states
+
+Big tech and the crisis: West-coast shuffle
+
+Disease and laboratories: The origins of the virus
+
+Letters to the editor: On testing, stimulus, the three-day week, ancient Athens, coughing
+
+The post-covid economy: Not quite all there
+
+Debt in developing countries: Next in line
+
+Presidential politics: Election monitoring
+
+Military service and citizenship: Battling to be American
+
+Residential property: The house loses
+
+Food supplies: Slaughterhouse dive
+
+Distributed manufacturing: A multitude of drops
+
+Lexington: Conservatism in the crisis
+
+Brazil: A dangerous divorce
+
+Venezuelans in Colombia: The welcome mat frays
+
+Bello: The lockdown conundrum
+
+North Korea: Oh leader, where art thou?
+
+Employment in Japan: Shake-work scheme
+
+Garment factories in Bangladesh: Suffering from a stitch
+
+Banyan: Pious and infectious
+
+Sexism in Malaysia: When make-up is essential
+
+Curbing covid-19 in Asia: The legitimate use of farce
+
+Graduate unemployment: Spring freeze
+
+Endangered species: Tilting the scales
+
+Chaguan: Virus exceptionalism
+
+Zambia: In the pits
+
+Sudan: Technical solutions
+
+Africa: Leaders and misleaders
+
+Yemen’s war within a war: The south rises
+
+The war in Libya: A warlord in trouble
+
+Saudi Arabia: No more flogging
+
+Lockdowns and trust: Infectious doubt
+
+Germany: The explainer-in-chief
+
+Italy: In need of assistance
+
+Covid tech: Protocol politics
+
+Politics in Ukraine: Is the man from Georgia back?
+
+Norway’s sovereign-wealth fund: How not to hand over to your successor
+
+Charlemagne: Emmanuel and the three costumes
+
+Universities: Time to think small
+
+Horticulture: A nation of gardeners
+
+Local government: Sinking
+
+Scottish independence: Scarier alone?
+
+Tracking and tracing: And then there were 18,000
+
+Death toll: Rivalling the Blitz
+
+British Airways: Grounded
+
+Northern Ireland and Brexit: Just how is this going to work?
+
+Bagehot: Blair’s back
+
+Closing schools: No more pencils, no more books
+
+The experience of Ebola: Lessons learned
+
+Covid-19 infections: Think of the children
+
+Chinese entrepreneurs: Flowerbeds of enterprise
+
+Bartleby: The road to hell
+
+Virtual AGMs: Low resolution
+
+German blue chips: Despondent DAX
+
+Schumpeter: The riddle of Samsung
+
+Bailing out small businesses: Averting nightmare on Main Street
+
+Bailing out large firms: Big bucks
+
+Melissa Dell: To good effect
+
+Local finances in America: Less than zero
+
+Buttonwood: Pulp fiction
+
+Free exchange: Mountain to climb
+
+Computing climate change: Model behaviour
+
+The origin of covid-19: Only connect
+
+Covid-19 and the immune system: Uncertainty’s principals
+
+Covid-19 and smoking: An unexpected ally
+
+Me time: All the lonely people
+
+Romek Marber: Order and peril
+
+Johnson: The purpose of classics
+
+Home Entertainment: Ghosts of baseball’s past
+
+Home Entertainment: Rereading “The Leopard”
+
+Economic data, commodities and markets
+
+Covid-19 and life expectancy: Before their time
+
+Joe Brown: Through crack and crag
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-30T23:40:53.186090+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
