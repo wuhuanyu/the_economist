@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6120ffed-abf0-433b-81f8-f91c2e731e66</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-07T22:08:23.069954+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The market v the real economy: A dangerous gap
+
+Supply chains and the pandemic: The food miracle
+
+El Salvador: My tweet is your command
+
+America and China: The new scold war
+
+Scientific publishing: High-speed science
+
+Letters to the editor: On children, Mozambique, lockdowns, tracking covid, Japan, Labour, liberty
+
+The world after covid-19: Margaret MacMillan on a turning point in history
+
+Food security: The tables not yet turned
+
+America v China: Superpowered insults
+
+Measuring inequality: How the 0.1% did
+
+Trumpian governance: Watchdogs in the doghouse
+
+Steve King under pressure: The ninth inning
+
+The electoral college: Going rogue
+
+Education and society: The social experiment
+
+Lexington: What’s in store
+
+El Salvador: The rise of the house of Bukele
+
+A battered brand: The synonymous crown affair
+
+Bello: The long wait
+
+Developing countries and covid-19: Bargain abatement
+
+Politics in Kazakhstan: Bye-bye Nazarbayeva
+
+Press freedom in the Philippines: Blank screen
+
+Afghanistan and covid-19: Gunmen with thermometers
+
+Thailand’s armed forces: In the doghouse
+
+Sunbathing in Indonesia: Hot spot
+
+Banyan: Lockdown lock-up
+
+Social security: Socialism’s precariat
+
+Christianity: Heaven’s outposts
+
+Lebanon: From crisis to crisis
+
+Solar power: Rays of hope
+
+Africa’s data deficit: Start counting
+
+Benin: Voodoo v virus
+
+Hemp in Africa: Pot of gold
+
+European law: Seeing red
+
+Russia: Journalists are revolting
+
+Care-home covid deaths: Getting to the truth
+
+Italy: Caffè to go
+
+Turkey: Istanbully
+
+Charlemagne: All Europe’s a stage
+
+Offices: The shape of things to come
+
+First orders: The return of fun
+
+Scientists and politics: Of white coats and grey suits
+
+Tracing: App exceptionalism
+
+The politics of lockdown: Climbing the walls
+
+Vulnerable children: A different danger
+
+Newspapers: Stunt men
+
+Bagehot: Contra mundum
+
+Virtual dating: Fever when you hold me tight
+
+Domestic abuse: No safe haven
+
+International banking: Parallel universe
+
+Global banks: Credit clout
+
+International currencies: Redback on track
+
+Payment systems: Piping up
+
+After covid-19: The dark side
+
+Acknowledgements
+
+The business of health: Prognosis: mixed
+
+Drugmakers: Convalescent
+
+Big business in France: Reargardère action
+
+Disney: Cruising for a bruising
+
+Office culture: The presenteeism premium
+
+Bartleby: Don’t stand so close to me
+
+Schumpeter: The mavericks of oil
+
+Airlines: Eyeing the sky
+
+Credit-rating agencies: Markers marked
+
+Commodities: Custom of the country
+
+The stockmarket rally: Uppers and downers
+
+Emerging markets: QE too
+
+Finance in India: Bright spot
+
+Gig workers unite: All worked up
+
+Free exchange: Unprofitable arguments
+
+Humans and the carbon cycle: Where nature ends
+
+How covid-19 is changing science: Reaping from the whirlwind
+
+Covid-19’s many faces: The body snatcher
+
+Treating covid-19: Hope rears its head
+
+Road safety: Touchy drivers
+
+Crewed space flight: A new Moon race
+
+Cinema in America: After the intermission
+
+John Maynard Keynes: Alive in the long run
+
+Historical fiction: A kind of freedom
+
+The Troubles: Ghost town
+
+The hereafter: A place on Earth
+
+Home Entertainment: The comforts of suburbia
+
+Home Entertainment: Bake your way through the lockdown
+
+Economic data, commodities and markets
+
+Covid-19 and politics: Following the leader
+
+Willie Levi: A midwestern parable
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-05-07T22:08:49.593474+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
