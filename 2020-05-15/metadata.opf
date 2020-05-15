@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">523</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d1779e0-c9a5-4968-bb69-8c8878d43305</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-14T22:07:48.252556+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The world economy: Goodbye globalisation
+
+The EU’s bad crisis: On the blink
+
+Escaping the lockdown: First, do no harm
+
+Unemployment: Reopen and shut
+
+Hydropower in Asia: Water torture
+
+Letters to the editor: On reopening schools, golf, religion, St Helena, underpants
+
+Europe under strain: Searching for meaning
+
+Globalisation: Torn apart
+
+Business resilience: Hanging together
+
+Welfare and work: The jobless market
+
+Social mobility: Is zipcode destiny?
+
+Donald Trump’s taxes: On the money
+
+Irish pubs: Craics in the business model
+
+The rule of law: Friends with benefits
+
+Lexington: Mike Pompeo’s followership
+
+Bolivia: In limbo
+
+Venezuela: Bay of piglets
+
+Bello: Looking back on the Shining Path
+
+The Mekong: Torrent to trickle
+
+Sino-Indian border disputes: High dudgeon
+
+Covid-19 in South Korea: A catchy beat
+
+Sexual mores in Taiwan: Philanderers hold their breath
+
+Banyan: Soldiers everywhere
+
+Mental health: Picking up the pieces
+
+Tibet: The lost boy
+
+Chaguan: Keeping it local
+
+Elections 1: We don’t need no observation
+
+Ethiopia: Democracy delayed
+
+Syria: Family feud
+
+Saudi television: Series of changes
+
+France leaves lockdown: Free at last
+
+Controlling covid-19: The Swedish way
+
+North Macedonia: Lies, damned lies…
+
+Naval strategy: Northern fights
+
+Charlemagne: Real life and postcard views
+
+Britain’s international reputation: How others see us
+
+Toothache in a pandemic: Say cheese!
+
+Immigration: Who cares?
+
+The economy: Acute to chronic
+
+Public Health England: Carry on covid
+
+Schools: Pencils down
+
+Trade unions: A whiff of smoke-filled rooms
+
+Crime and covid-19: Covid nostra
+
+Bankruptcies: Chapter 11’s new chapter
+
+Profits seeping: America’s profit warning
+
+Bankruptcies in Europe: Buying time
+
+Chinese brands: Upping the Anta
+
+Bartleby: Teachable moment
+
+Austerity in Silicon Valley: The next garage
+
+Schumpeter: The gathering swarm
+
+The global economy: A good kind of bubble
+
+Turkey in trouble: A host of difficulties
+
+Geopolitics and capital markets: Feuding over funds
+
+European Central Bank: Lane speaking
+
+Free exchange: The great levelling
+
+Award
+
+Bad times: The widespread damage from climate change
+
+Health data and privacy: Looking without looking
+
+Protecting great apes from covid-19: Maintaining other species’ barriers
+
+Wirelessly charging electric cars: It’s time to cut the cord
+
+Industrial standards: Shear, veer, cheer
+
+Disinformation and democracy: The rhythm of struggle
+
+British fiction: Down to Brixton
+
+Johnson: What’s that again?
+
+Home Entertainment: Catch up on the finest French television dramas
+
+Home Entertainment: Design your own board game
+
+Perspectives: Confinement has always been part of human life
+
+Economic data, commodities and markets
+
+Travel and covid-19: The covid network
+
+Eavan Boland: Visions in the ordinary
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-05-14T22:08:05.045618+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
