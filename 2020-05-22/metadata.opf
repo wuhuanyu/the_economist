@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">526</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edbe15ce-f39e-4bc7-9ba9-37f808db1250</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-22T00:15:27.741160+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Climate change and the pandemic: Seize the moment
+
+After lockdowns: The cure and the disease
+
+Uncle Sam v Huawei: Chip wars
+
+Malaysia: No bail-outs without representation
+
+Big pharma: Back in from the cold
+
+Letters to the editor: On solitude, investors, electric cars, Yemen, Labour, Einstein, three points
+
+Covid and the climate: Flattening the other curve
+
+Never let a crisis go to waste: A trillion-dollar question
+
+Taxing carbon: The contentious and correct option
+
+Emissions: If a tree falls
+
+The Centres for Disease Control and Prevention: Handcuffing an institution
+
+Civil rights: Attention-deficit disorder
+
+Congressional elections: Exit, pursued by a centrist?
+
+Dechurching: The Sunday slump
+
+Francis Collins: Jesus is not his vaccine
+
+The extreme right: A boog’s life
+
+Lexington: Joe Biden’s good pandemic
+
+Mexico: Betting on black
+
+Women’s health: Birth pangs
+
+Bello: In the valley of the shadow of death
+
+India’s economy: Lockdown and out
+
+Malaysian politics: Muhyiddin’s mess
+
+Japanese politics: Unscathed but scathing
+
+Power-sharing in Afghanistan: Titles all round
+
+Australia’s trade with China: Barley barney and beef beef
+
+Cruise ships in the Philippines: Floating confinement
+
+Banyan: Sixty-somethings in a sack
+
+Arms control: Be afraid, America
+
+Coal-fired power: Brown elephants
+
+Chaguan: Critical condition
+
+Egypt’s economy: Riders wanted
+
+Iran’s bourse: A bizarre bazaar
+
+Israel and the Palestinians: Nice while it lasted
+
+Félicien Kabuga: The man who wasn’t there
+
+The African School of Economics: Lessons from Leonard
+
+Russia and covid-19: The anatomy of lies
+
+Bailing out Europe: Not quite Hamiltonian
+
+Tourism: We aren’t off to sunny Spain
+
+Indigenous rights: Sami difference
+
+Charlemagne: The wizards of Luxembourg
+
+Peak London: The wheel turns
+
+Grand houses: A palace of one’s own
+
+Transport: The great land grab
+
+Government finances: Not so burdensome
+
+Health care: Now for the recovery
+
+Politics: The pandemic goes partisan
+
+Covid-19 and global poverty: The great reversal
+
+Chip wars: Immaculate misconceptions
+
+SoftBank: Born again
+
+Indian capitalism: Elephants in the room
+
+Walmart: A nimble beast
+
+Bartleby: Zoomers, zeros and Gen Z
+
+Schumpeter: Closing time
+
+Sovereign-wealth funds: Raid on the piggy banks
+
+The World Trade Organisation: Trading places
+
+Buttonwood: Darcy and debt
+
+All work and no play: Economic recovery
+
+Banking in Africa: Borrower beware
+
+Free exchange: The land down under
+
+Energy transitions: Not-so-slow burn
+
+Controlling covid-19: To each according to his need
+
+Photovoltaics: Solar’s new power
+
+Covid-19 in the young: Suffer the little children
+
+Solidarity in reading: The lives of others
+
+Instagram: The camera always lies
+
+Crime fiction: Ice-cold cases
+
+American history: The ballad of Malcolm and Martin
+
+Home Entertainment: Discover trio sonatas
+
+Home Entertainment: Travel in confinement
+
+Economic data, commodities and markets
+
+Forecasting covid-19: A terrible toll
+
+Little Richard: Gonna have some fun tonight
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-05-22T00:15:37.091949+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
