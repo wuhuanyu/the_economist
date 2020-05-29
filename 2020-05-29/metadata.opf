@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">529</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0169450-650c-4d45-98ea-fe04a207f3cb</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-29T00:49:28.777262+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Covid-19: The American way
+
+China’s power: Dragon strike
+
+State aid in Europe: A €2trn loophole
+
+Global tourism: Summer break
+
+Masks and covid-19: Face it
+
+Letters to the editor: On Bolivia, bio-weapons, covid-19 research, food, “The Leopard”
+
+Covid-19 in America: 100,000 and counting
+
+Cyber-defence: Policing the Wild West
+
+Google and China: Everything in moderation
+
+The Mashpee Wampanoag: To lose your land twice
+
+Troubled universities: College blues
+
+Lexington: Black America in peril
+
+Brazil: Losing the battle
+
+Mexico: The mystery of the missing mummies
+
+Bello: Forwards and backwards
+
+North Korea’s economy: Running out of juche
+
+Universities in Australia: Bye degrees
+
+India and China: Mountain claimers
+
+Sexual minorities in Myanmar: Aygay angslay
+
+Banyan: Take these broken wings
+
+Hong Kong’s freedoms: Rule by fear
+
+Chaguan: “Wolf Warrior” fantasies
+
+Wars in Africa: Are mercenaries no longer taboo?
+
+Where dead men vote: Burundi’s sham election
+
+Ping don’t cheque: Dial it up
+
+Lebanon’s crisis: Devaluation gardens
+
+Iran: The revolution will be televised
+
+State aid: The visible hand
+
+Covid-19 in Germany: The virus detectives
+
+Espionage pacts: To your good stealth
+
+Viral couture: Paris masked
+
+Eastern Europe’s economies: Into the trough
+
+Charlemagne: The benefits of Brexit
+
+The Brexit negotiations: Every man to his island
+
+Puppies: Barking mad
+
+Dominic Cummings: Ill-advised
+
+Education: Back to school, sort of
+
+Carmaking: The Lotus position
+
+Carmaking: Assembly without assembling
+
+Summer holidays: On the beaches
+
+Bagehot: I love the sound of breaking rules
+
+Travel after covid: Lonely planet
+
+Chinese tourists: Still grounded
+
+Chinese diaspora Inc: High-wire act
+
+Asian business dynasties: Godfathers depart, too
+
+Energy companies: Don’t worry, it’s all under control
+
+Information technology: AI manoeuvres
+
+Bartleby: From BC to AD
+
+Carmaking: Kiss and make up
+
+The grooming business: Things get hairy
+
+Schumpeter: The warehouse king
+
+Private equity (1): More money, more problems
+
+Private equity (2): From locusts to honey bees
+
+Monetary policy in China: The thin red line
+
+Buttonwood: The inflation bug
+
+A change of plan: China's growth target
+
+Carmen Reinhart: No fear of floating
+
+Economic statistics: Crisis measures
+
+Free exchange: A political economist
+
+Move fast, mend things: Softening the blow
+
+Covid-19 and face masks: We interrupt this transmission...
+
+Antifouling technology: Keelhaul that ’bot!
+
+Not yet, but soon: Crew Dragon is postponed
+
+Recycling: Crackle, pop, snap
+
+Artistic posterity: Still lives
+
+Power in America: Clash of the titans
+
+European history: A breed apart
+
+The story of a cult novel: Perish and publish
+
+Johnson: They can feel it all over
+
+Home Entertainment: Damn fine coffee
+
+Home Entertainment: Will to power
+
+Economic data, commodities and markets
+
+Bogus academia: Garbage in
+
+Antonio Bolívar: The wisdom of the forest
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-05-29T00:49:37.950134+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
