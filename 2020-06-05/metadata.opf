@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">532</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae0518c4-8e1e-457d-b636-ff03972be6f9</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-05T06:26:22.396861+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Policing and race in America: The fire this time
+
+Covid-19: The other three-quarters
+
+Hong Kong: Conduit’s end?
+
+Inflation: Tomorrow’s problem
+
+Commercial space flight: Orbital liberties
+
+Letters to the editor: On public debt, Vitamin D, the BBC, clock dials, lists of three, globalisation
+
+How covid-19 kills: Assault and battery
+
+Criminal justice: Order above the law
+
+African-Americans: Slow progress
+
+Global leadership: Groping for the right grouping
+
+Fishing: Alaska welcomes hooligans
+
+Lexington: Far worse than Nixon
+
+Canada: Contenders for a cracked crown
+
+Colombia: Medellín’s medical marvel
+
+Bello: The empty skies
+
+Covid-19 in South Asia: Deadly tide
+
+Marriage in Japan: Knot happy
+
+Repressing dissent in Thailand: Voice of treason
+
+South Korea: Haunted by Gwangju
+
+Indonesian politics: Viral marketing
+
+Banyan: The beast from the east
+
+The Belt and Road Initiative: Break time
+
+Chaguan: Crossing blood lines
+
+Yemen and covid-19: The invisible outbreak
+
+Israel: Empty empires
+
+The Hirak: Streets with no rage (for now)
+
+Boko Haram: No rain, slow gains
+
+Women and politics in Uganda: Hell yeah, I’m a feminist
+
+Debt relief: Thanks, but no
+
+Inequality and the pandemic: Widening spread
+
+Spain: A more equal country
+
+Poverty in Italy: Hitting the poorest hardest
+
+France: Time for a reboot
+
+Germany: Social distancing and sex work
+
+Slovenia: Barbarians at the gates
+
+Turkey and covid-19: Strength in numbers
+
+The United Kingdom: One nation, under covid
+
+Hong Kong: A warm(ish) welcome
+
+Ethnicity and covid-19: Doubly unlucky
+
+Lifting lockdown: A risky reopening
+
+Religion: Your own personal Jesus
+
+Parliament: The mother of all queues
+
+Documenting the pandemic: How history is made
+
+Bagehot: The new victims
+
+Fake news: Return of the paranoid style
+
+Speech online: The moderator’s dilemma
+
+The sharing economy: What’s mine is yours
+
+Floating not drowning: IPOs stay afloat
+
+Twitter and Facebook: A tale of two social networks
+
+Video gaming: Command &amp; reconquer
+
+IKEA: Part of the furniture
+
+Bartleby: Cultural challenge
+
+Schumpeter: Boffins v the bug
+
+Hong Kong’s future: Electrical storm
+
+America’s public pensions: Counting the cost
+
+Prudence in the pandemic: Americans saved a record chunk of their incomes in April
+
+Sustainable finance: Social climbing
+
+Buttonwood: The options gambit
+
+Women in the workforce: This time is different
+
+Free exchange: Land of the rising sum
+
+Human space flight: The shape of things to come
+
+Archaeology: Taking soundings in Teotihuacan
+
+Climate feedbacks: Fire down below
+
+Russian literature: Rapture on the battleground
+
+Morality: Hearts of gold
+
+Socially distanced art: The floor lines of beauty
+
+Home Entertainment: Hayao Miyazaki’s flights
+
+Home Entertainment: Rereading “Jane Eyre”
+
+Perspectives: Of covid and kin
+
+Economic data, markets and data
+
+Covid-19 and democracy: Out in the open
+
+George Floyd: The life pressed out
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-05T06:26:33.966617+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
