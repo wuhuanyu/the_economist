@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">534</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95d65998-cb4a-433c-acd5-c9d10e873750</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-11T22:04:54.316444+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Race and social change: The power of protest
+
+Slavers’ statues: Marble monsters
+
+The world economy: Achilles heal
+
+Cities and the pandemic: After disaster
+
+Britain and the European Union: Don’t pretend, extend
+
+Letters to the editor: The European Union, the Thames, Peru, the classics, Kraftwerk
+
+Cities after covid-19: The destiny of density
+
+Freedom of the press: Muffled cries
+
+Renewable energy in Japan: No mill will
+
+Politics in Taiwan: Han’s down
+
+Banyan: Circulars, directives and rules
+
+The protests: No justice, no peace
+
+Police reform: The shifting ground
+
+Identifying protesters: Supremacist safari
+
+The presidential campaign: Model voters
+
+Lexington: Lone Wolf
+
+Urban society: On every street
+
+Street life: Back peddling
+
+Chaguan: Pondering America’s election
+
+The Amazon: Of chainsaws and supply chains
+
+Bello: Brazil’s endangered democracy
+
+Industry in Africa: Will it bloom?
+
+Burundi: “The Champion of Patriotism”
+
+Covid-19 in the Middle East: An unwanted guest returns
+
+Libya’s civil war: A warlord retreats
+
+German economics: Hey, big spenders
+
+Italy: The not-so-dolce vita
+
+France: Raoultmania
+
+Sweden: Who killed Olof Palme?
+
+Charlemagne: The Sinatra doctrine
+
+Remembering slavery: Pillaried
+
+Ozophilia: The Tories’ promised land
+
+Quarantine rules: Mumbo jumbo
+
+Sleep under lockdown: Bedtime story
+
+Courts in a pandemic: Rough justice
+
+The pee problem: Causing a stink
+
+Social insurance: The great risk shift
+
+Bagehot: Battle for the working class
+
+Black Lives Matter: So other people would be also free
+
+Autocrats denounce America: We love to see you burn
+
+Artificial intelligence and its limits: Reality check
+
+Data: Not so big
+
+The business world: Algorithms and armies
+
+Brain scan: An AI for an eye
+
+Computing hardware: Machine, learning
+
+Automobiles: Road block
+
+The future: Autumn is coming
+
+Business and race in America: The great awakening?
+
+Hacking: Basin motives
+
+Bartleby: Tale of the century
+
+Japan’s bullying bosses: Anger management
+
+Turkish companies: Hard landing
+
+Virgin: Still smiling, captain?
+
+Schumpeter: The great game
+
+Crude oil: After the fall
+
+America’s jobs market: Acute or chronic?
+
+India’s economy: Moody moment
+
+The yuan: The 24-body problem
+
+Bank provisions: Pandemic pendulum
+
+Buttonwood: Pumping iron
+
+Free exchange: Stony the road
+
+Planetary monitoring: Something’s in the air
+
+Laboratory mice: Here’s one I prepared earlier
+
+Nasal probiotics: No entry!
+
+The search for a covid-19 treatment: Testing times
+
+Rethinking capitalism: Free but fair
+
+Authenticity in architecture: Living wills
+
+Johnson: Snide and prejudice
+
+“Brideshead Revisited” at 75: The Flyte club
+
+Home Entertainment: Pop goes postal
+
+Home Entertainment: In the summer kitchen
+
+Economic data, commodities and markets
+
+Deforestation in Brazil: The roots of the problem
+
+Larry Kramer: Shout loud, save lives
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-11T22:05:02.387365+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
