@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">539</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa999df8-dd4a-4435-a57d-41c906122a6d</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-19T01:02:19.574838+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The pandemic: Not Britain’s finest hour
+
+Geopolitics: The new world disorder
+
+India and China: Elephant v dragon
+
+Climate change and investing: The trouble with green finance
+
+Global trade: Invisible hands
+
+Jeff Bezos: The genius of Amazon
+
+Letters to the editor: On prosecutors, the media, mercenaries, Greek, carbon pricing, the Bible, Andrew Johnson
+
+Amazon: And on the second day…
+
+Green investing: Hotting up
+
+State finances: The calamity ahead
+
+LGBT rights: A wider umbrella
+
+Midwives: Ripe for rebirth
+
+John Bolton’s revelations: National security chastiser
+
+Bill de Blasio: How’s he doin’?
+
+Maine politics: The race of the long driveways
+
+Lexington: A shovel-ready project
+
+Covid-19: Leaving lockdowns
+
+Uruguay: Standing apart
+
+Bello: Breaking a gentlemen’s agreement
+
+The Sino-Indian border: Death valley
+
+South Asian civil servants: Manners maketh district commissioners
+
+Migrant workers in Singapore: Breathing room
+
+Inter-Korean relations: In the dust
+
+Banyan: A bad rap?
+
+The South China Sea: Identify yourself
+
+Fighting the pandemic: It’s back
+
+Chaguan: Why China bullies
+
+Covid-19 in Africa: Testing times
+
+Malawi: President v people
+
+Football and war: More than a game
+
+African cities: A tax on all your houses
+
+Syria: From bad to worse
+
+Poland’s election: Playing the family card
+
+Belarus: The slipper revolt
+
+The covid economy: Spending big to save jobs
+
+France: The call of the wild
+
+Charlemagne: How a dining club took over the EU
+
+Covid-19: Trust me, I’m a prime minister
+
+Drug discovery: Small ticket, big difference
+
+Anti-racism protest: What next?
+
+Diplomacy and foreign aid: Will charity begin at home?
+
+Bookshops: Just browsing
+
+Bagehot: Losing his grip
+
+Pandemics and war: Horsemen of the apocalypse
+
+The new world disorder: Missing in action
+
+Power plays: Who’s in charge?
+
+Global firefighting: Missions impossible
+
+New START’s end?: Avoidable Armageddon
+
+Reform: Grand redesigns
+
+Reflections at 75: The wisdom of youth
+
+Three future scenarios: Bedlam, bumbling or boldness?
+
+Luxury in the pandemic: Fashion victims
+
+Race in Silicon Valley: Beyond the pale
+
+Bartleby: Waging war on recessions
+
+Samsung: No end in sight
+
+Business in China: Chopped and screwed
+
+JAB Holding: The Reimann hypothesis
+
+Schumpeter: Zoom and gloom
+
+The Federal Reserve (1): From yields to maturity
+
+The Federal Reserve (2): Swapping panic for calm
+
+Poverty in China: Clarifying the battle lines
+
+The euro area: Better tailored
+
+The economics of reparations: Forty acres and a mule
+
+Buttonwood: The detail on retail
+
+Global trade: Ninety percent of everything
+
+Free exchange: Changing room
+
+Arctic exploration: Pole position
+
+The fate of nations: Too many setbacks
+
+Goths v Romans: Loser’s justice
+
+Alfredo Jaar: Opening the black box
+
+Rewatching “The Prisoner”: He was not a number
+
+Illness in literature: Climb every mountain
+
+Economic data, commodities and markets
+
+The Sahel: The next Afghanistan?
+
+Lily Lian: The lark of metro Barbès
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-19T01:02:31.050051+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
