@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">543</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f1a22ec-214b-4375-84c3-d335b514e369</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-26T00:51:16.425772+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Preparedness: The next catastrophe
+
+Israel and the Palestinians: Consider the cost
+
+Property troubles: Watch this space
+
+The Wirecard scandal: In praise of short-sellers
+
+E-sports: Citius, Altius, Fortnite
+
+Letters to the editor: On statues, alcohol, metal prices, Colombia, video games, Elon Musk
+
+Catastrophic risks: What’s the worst that could happen?
+
+Nuclear weapons: Viva Las Vegas?
+
+Collecting: Instant museums
+
+State-funded media: Freedom FM
+
+The course of covid-19: Unhappy medium
+
+Clarence Thomas: Radical justice
+
+Immigrants: Another brick
+
+Lexington: Xi bangs his drum
+
+Venezuela: The many machinations of Nicolás Maduro
+
+Brazil: Corner kicks and cutting corners
+
+Bello: Lessons from history
+
+Canada: When C-pop is not enough
+
+An election in Singapore: Thirteenth time lucky
+
+Crime and punishment in Kyrgyzstan: Jail to the chief
+
+Ageing in Japan: Ready, cane, fire
+
+Espionage in Fiji: Pen and stink
+
+Bullfighting in South Korea: Locking horns
+
+Banyan: Sudden onsen
+
+Human rights in Xinjiang: Walk on by
+
+Civil liberties in Hong Kong: Sight unseen
+
+Chaguan: A campaign with costs
+
+Israel and the Palestinians: Into darkness
+
+Avoiding famine in Somalia: A stitch in time
+
+Judging elections: Tough justices
+
+Travel trouble: Citizens of the world
+
+Corruption in Congo: Laughing all the way to the slammer
+
+Transatlantic security: Going home
+
+Italy: No longer a figurehead
+
+Tourism in the south of France: Empty palaces
+
+Kosovo: Mr Thaci doesn’t go to Washington
+
+Women and drugs: Overdosed
+
+Charlemagne: Doomed to lead
+
+Labour’s leader: Starmer’s army
+
+Virtual agricultural shows: MooTube
+
+Leaving lockdown: Full steam ahead
+
+Education and covid-19: The great catch-up
+
+Criminal justice: More porridge, please
+
+The newspaper business: Radio killed the video star
+
+London Business School: A lesson in business
+
+Bagehot: Revolutionary conservative
+
+E-sports: Legends in lockdown
+
+Advertising: The new admen
+
+Apple: Squeezing the pips
+
+Petrochemicals: The hole in the hedge
+
+Bartleby: Mid-year motivational magic
+
+…and wining: Claret correction
+
+Dining…: Crash diet
+
+Schumpeter: Raising live music from the dead
+
+Commercial property: Like a ton of bricks
+
+Wirecard: The demise of a Wunderkind
+
+Race and economics: Gains to diversification
+
+Buttonwood: A long shadow
+
+Chinese manufacturing: The world’s factory
+
+Doom and zoom: The IMF’s grim outlook
+
+Free exchange: The three-year nap
+
+Disease surveillance: Pandemic-proofing the planet
+
+Cops on TV: Watching the detectives
+
+Trade and geopolitics: A hill of beans to die on
+
+Johnson: The rules of coronaspeak
+
+Home Entertainment: “Pride and Prejudice”
+
+Home Entertainment: How to make cholent
+
+Perspectives: The lessons of HIV/AIDS
+
+Economic data, commodities and markets
+
+Genomics: Dawn of an era
+
+Vera Lynn: Queen in all but name
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-26T00:51:26.420829+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
