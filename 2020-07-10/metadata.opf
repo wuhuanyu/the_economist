@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b92c19ae-a8e2-4def-9a3e-cb35d050719f</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-10T06:11:36.738766+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Race and social change: The new ideology of race
+
+The world economy: Tapering without the tantrum
+
+Nuclear proliferation: A better way to contain Iran
+
+Sino-American tensions: Techtonic plates
+
+Sourdough economics: The need to knead
+
+Letters to the editor: On the UN, foreign aid, Olof Palme, green finance, China, coronaspeak
+
+Race in America: Staying apart
+
+Economic policy: The covid bonus
+
+Kansas’s Senate race: The 88-year itch
+
+Policing: Bands of blue
+
+The courts: Reform squared
+
+Chaplains: Civil rites
+
+Lexington: The mark of Cain
+
+Brazil: Christianity, covid, contact
+
+Dominican Republic: A rare power shift
+
+Bello: Promise and disappointment
+
+Covid-19 in India: Flattening the wrong curve
+
+Regional development in South Korea: Seoul v the rest
+
+Asylum in Taiwan: A whispered welcome
+
+Australia and covid-19: Lock, unlock, repeat
+
+Lockdown in the Philippines: Four months and counting
+
+Banyan: Wai-five
+
+Civil society: Who you gonna call?
+
+Human rights: The party’s grip
+
+Chaguan: American soft power, trashed
+
+Jihad in the Sahel: Fighting a spreading insurgency
+
+Zimbabwe: For a few dollars more
+
+Ethiopia: The fragile federation
+
+Iran and the bomb: Booms in the night
+
+Turkey: Converting Istanbul’s Hagia Sophia
+
+France’s reshuffle: L’inconnu
+
+Italy: The last bandit
+
+Bosnia’s memory war: A genocide still denied
+
+Spain’s economy: A lopsided recovery
+
+Charlemagne: A Dutch dilemma
+
+Relations with China: About turn
+
+Human rights: From red carpet to blacklist
+
+Fiscal policy: Sunak’s summer splurge
+
+Economic data: Wrong numbers
+
+Theatres: Cast adrift
+
+Crime in lockdown: Catching up on their to-do lists
+
+Food: Retro diners
+
+Bagehot: Fading Anglophilia
+
+Race and liberal philosophy: In the balance
+
+Executive compensation: Pay guaranteed, performance optional
+
+Sino-American tech tussles: What goes up, and up and up
+
+Online business: E-shopping frenzy
+
+Bartleby: Parkinson’s law updated
+
+Schumpeter: The battle for low-Earth orbit
+
+The global economy: How to feel better
+
+China’s stockmarket: A bull market returns
+
+Global trade: Leading question
+
+The European Union: Seeking haven
+
+Stock exchanges: Down time
+
+Buttonwood: Default settings
+
+Free exchange: Which way, Jay?
+
+The 23rd International AIDS Conference: Social distancing
+
+Archaeology: How illuminating
+
+Climate change: Delayed cool
+
+Populism and democracy: Party like it’s 1999
+
+Japan under the shogunate: A handmaid’s tale
+
+Johnson: Shock value
+
+Choral singing: Voices off
+
+Thought-provoking fiction: Not going gently
+
+Economic data, commodities and markets
+
+GDP and life satisfaction: Blessed are the rich in spirit
+
+William Dement: Perchance to dream
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-10T06:11:55.486619+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
