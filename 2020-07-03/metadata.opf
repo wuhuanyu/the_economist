@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">546</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8df44aee-b0dc-40a0-b642-f45decb50ac0</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-03T15:30:11.441208+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Joe Biden: Retro or radical?
+
+The pandemic: The way we live now
+
+Hong Kong: A safe harbour no more
+
+Investing in India: Inside game
+
+The Nile: Dam bluster
+
+Letters to the editor: On artificial intelligence, green investing, GDP, gardens, working from home
+
+Joe Biden: He persisted
+
+The presidential election: Donald Trump’s uphill battle
+
+State flags: Mississippi changes its colours
+
+John Roberts: Hail to the chief
+
+Capital punishment: Cruel, unusual and costly
+
+The Democratic left: Gathering steam
+
+Intelligence and the president: Pandering to the bear
+
+Lexington: It’s messing with Texas
+
+Mexican-American relations: The two amigos
+
+Colombia: Post-party town
+
+Cuba: Neither mulas nor moolah
+
+Bello: Ecuador’s anguish
+
+The war in Afghanistan: Withdraw first, ask questions later
+
+India and China: Hit them where it hurts us
+
+India’s obsession with TikTok: Fifteen seconds of fame
+
+Feeding Singapore: The rise of the rooftop farmer
+
+Vietnam: Your loss, my grain
+
+Banyan: A charged relationship
+
+Hong Kong’s freedoms: The evening of its days
+
+Popular culture: Star wars
+
+Chaguan: The great unifier
+
+The Grand Ethiopian Renaissance Dam: Showdown on the Nile
+
+Malawi’s new president: A lesson in democracy
+
+Another sort of plague: Locusts at the gate
+
+Sierra Leone: Guild of thieves
+
+Facebook and autocrats: With friends like these
+
+Music in the Arab world: Rap the casbah
+
+Russia: Parade’s end
+
+Turkey: Osman and the snails
+
+France: The president’s dilemmas
+
+Ireland: A new world
+
+Covid-19 and the Nordics: Borderline personalities
+
+Charlemagne: Let expats vote
+
+Producing a vaccine: Moonshot
+
+Relations with China: Getting off the fence
+
+The economy: V-sign
+
+Infrastructure: Boris digs for victory
+
+Lockdown in Leicester: Not again
+
+Teaching history: War of the poses
+
+Toy soldiers: The lead belt booms
+
+Bagehot: Giving the bureaucrats a rocket
+
+The pandemic’s next stage: The new normal
+
+If the Republicans pivoted on climate: The elephant’s U-turn
+
+If water shortages destabilised China: Trickle-down policies
+
+If climate activists turned to terrorism: Green blood
+
+If carbon removal became the new Big Oil: Big Suck
+
+If covid-19 devastated aviation: Peak plane
+
+If technology tracked all carbon emissions: The rise of carbon surveillance
+
+If mammoths were recreated: Doing the tundra quick-steppe
+
+If nuclear power had taken off: The road not taken
+
+Business in India: All aboard
+
+Meal-delivery wars: Appetite for destruction
+
+Airlines and the climate: Setting a new CORSIA
+
+The Facebook boycott: With a little help from its friends
+
+Nissan: Turning down the volume
+
+Logistics (1): Seeking deliverance
+
+Logistics (2): Droning on
+
+Bartleby: Keep it practical
+
+Schumpeter: The legacy of Chesapeake
+
+Public finances: The debt toll
+
+Banks and the recession: What if?
+
+Trade finance: Collateral damage
+
+Chinese banking: Xi sank your battleship
+
+Property in America: The house wins
+
+Buttonwood: Zero gravity
+
+Free exchange: A Latin American tragedy
+
+Hydrogen power: Another look in the toy box
+
+Phylloxera: The root of the problem
+
+Urban history: A night at the Cathay
+
+American politics: Orange warning
+
+Secrets and lies: Cherchez les femmes
+
+Television drama: Creative destruction
+
+Home Entertainment: Chekhov in Siberia
+
+Home Entertainment: Hidden depths
+
+Economic data, commodities and markets
+
+Covid-19 and lockdowns: Thinking fast and slow
+
+Li Zhensheng: Facing it
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-03T15:30:24.590572+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
