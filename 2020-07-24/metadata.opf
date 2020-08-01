@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">560</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d7d7b8b-839c-4331-a31f-cf7b9ac3d479</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-24T01:29:17.619306+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Macroeconomics: Free money
+
+Collective debt: Europe pulls together
+
+Regional development: Revive, then thrive
+
+Tanzania: You say bullish, I say...
+
+Space exploration: Tread softly
+
+Letters to the editor: On Hong Kong, short-sellers, the Supreme Court, horse jumping, “The Prisoner”, medical terms, breadmaking
+
+A new era of economics: Starting over again
+
+Caste in India: No escape
+
+The Philippine economy: A milder infection
+
+Covid-19 in Central Asia: Dust-busters
+
+Shipping in Japan: Sailing without sailors
+
+Banyan: South China scene
+
+Miscarriages of justice: Righting wrongs
+
+Wild mushrooms: The champignon champions
+
+Chaguan: Lessons from a summer hit
+
+Congress and covid-19: Spot trades
+
+Work and incentives: One-handed economics
+
+Easing lockdowns and covid-19: The geometry of the pandemic
+
+Police reform: Now for the hard part
+
+Lexington: Trouble in Trumplandia
+
+Migration and Mexico: Youth departs
+
+The Caribbean: Welcome Zoomers
+
+Bello: The Inca trail leads to populism
+
+Tanzania: A Potemkin economy?
+
+Uganda’s coming elections: Power unmasked
+
+Israel and covid-19: Mission unaccomplished
+
+Illegal migration: No passport required
+
+Racism in the Middle East: Maids for sale
+
+Europe’s economy: A big fiscal deal
+
+The Franco-German relationship: Back on the tandem
+
+Covid-19 in slaughterhouses: Germany’s wurst jobs
+
+Bulgarian protests: Bullies on a beach
+
+Greek ruins: Attic views
+
+Spain’s monarchy: A tarnished crown
+
+Charlemagne: Chekhov’s treaty
+
+Russian interference in politics: See no evil
+
+Labour’s new management: Man overboard!
+
+Demography: Turning Japanese
+
+Travelling people: Gypsy lives matter
+
+Life on furlough: Hold on
+
+Housing market: A fragile boom
+
+Brexit and fish: On the menu
+
+Care homes: No place like home
+
+The Midwest: An outsized punch
+
+Cities: The urban prairie
+
+Race and the city: Separate, downtrodden
+
+Industry: America’s Mittelstand
+
+Universities: From rustbelt to brainbelt
+
+Politics: America’s divided middle
+
+Nature’s metropolis: Don’t be the next Cahokia
+
+TikTok: Sixty seconds of fame
+
+Information technology: In need of a software update
+
+Bartleby: Pandemic veterans
+
+Corporate profits: Seeing is disbelieving
+
+Vaping: Puff piece
+
+Mergers and acquisitions: Wakey, wakey
+
+Schumpeter: The wannabe Alibaba
+
+Shadow banking: Putting the capital into capitalism
+
+Metals: Shining brightly
+
+Much Ant-icipated: Ant Group goes to market
+
+Digital currencies: Bips and bytes
+
+Buttonwood: Snake in the grass
+
+Free exchange: Real-time danger
+
+Astrobiology: Life on Mars: the search continues
+
+Covid-19: The bat signal
+
+Inside Tibet: Fear and loathing on the plateau
+
+Bullfighting: The cape and the masks
+
+Rock’n’roll fiction: The band played on
+
+Home Entertainment: There’s always a catch
+
+Johnson: The shadowland
+
+Economic data, commodities and markets
+
+Covid-19 and football: Home comforts
+
+John Lewis: A country’s conscience
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-24T01:29:26.329639+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
