@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">554</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63f7f248-04b1-42e2-954c-e3402432e616</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-17T01:25:54.092492+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Huawei and the world economy: Trade without trust
+
+Covid-19 and schools: Let them learn
+
+Poland’s presidential election: A narrow, nasty win
+
+Oil and the Arab world: There will be pain
+
+Banks and the economy: A window on America
+
+Letters to the editor: On resilience, advertising, maritime quarantine, Joe Biden, zoonotics, covid-19, deforestation, Boris Johnson, bubbles, the Stone Roses
+
+Huawei and 5G: The European theatre
+
+Operation Warp Speed: America First-Aid
+
+The virus: Here it goes again
+
+Schools: Classroom cops
+
+SCOTUS: The centre can hold
+
+Nomenclature: Skin in the name
+
+Lexington: A family separation
+
+Chile: Gimme shelter
+
+Mexico: Banda does not play on
+
+Drugs and vigilantes: Myanmar vice
+
+Australia and the monarchy: Crown duels
+
+Malaysian politics: A 70-minister mandate
+
+Singapore’s election: Gluttons for punishment
+
+Banyan: Shah of India
+
+Hong Kong’s companies: The darkness behind
+
+Satellite navigation: BeiDou begins
+
+Floods: A deluge of doubts
+
+The Arab world: Twilight of the petrostates
+
+South Africa: Measuring the poverty pandemic
+
+Burkina Faso: Rhyme and punishment
+
+Pineapples and prohibition: Dry, the beloved country
+
+Germany’s China policy: Out of date
+
+Protests in Russia’s Far East: An unlikely local hero
+
+Poland’s election: Narrow minds, narrow win
+
+France: Accent grave
+
+Italy: Parting the waters
+
+Charlemagne: How Ireland gets its way
+
+Work-life balance: Union slack
+
+Government help for startups: The joy of equity
+
+Brexit: The nameless one approaches
+
+Armed forces: Culture war
+
+Government and covid-19: How the levers came off
+
+Household finances: Run to the banks
+
+Bagehot: Dance of the lemons
+
+School closures: A class apart
+
+Schools in poor countries: Won’t know much about history
+
+Unwanted fossil fuels: The bottom of the barrel
+
+Entertainment (1): Ad nauseam
+
+Entertainment (2): Off his rocker?
+
+Sino-American tech mistrust: At the end of a rainbow
+
+I’ll have semiconductors with that: Analog devices buys Maxim Integrated for $20bn
+
+Cyber-security: The other virus threat
+
+Bartleby: A question of judgment
+
+Schumpeter: When bits bite
+
+Wall Street: A banking drama, in three acts
+
+China’s economy: Low and mighty
+
+The Big Mac index: Patty power
+
+Corporate taxes: Digital divide
+
+Insurance: A premium on change
+
+Buttonwood: Lotus esprit
+
+Free exchange: Housing was the business cycle
+
+Chipmaking: The incredible shrinking machine
+
+Environmental science: Pining for water
+
+A new comet: Comet NEOWISE lights up northern skies
+
+Navigation: Crystal clear
+
+The socioeconomics of sewage: Class acts
+
+The theory of relativity: Cycling tricks
+
+The future of journalism: Invisible men
+
+Craft and commerce: Shifting plates
+
+Science and politics: Trial and error
+
+Musical high jinks: Played for laughs
+
+Economic data, commodities and markets
+
+Resource economics: Capital pains
+
+Ennio Morricone: Man on a mission
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-17T01:26:08.128949+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
