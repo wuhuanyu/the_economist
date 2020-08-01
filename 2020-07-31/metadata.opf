@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">563</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8b3f34b-301a-4a02-9c4c-a07ec916cbdc</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-31T01:07:04.696323+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Google: How to cope with middle age
+
+Global migration: Locked out
+
+Sino-American relations: One thing after another
+
+Belarus: The next revolution?
+
+Airlines: Don’t carry flag-carriers
+
+Regional inequality: Levelling up Britain
+
+Letters to the editor: On race and liberalism
+
+Alphabet: Google grows up
+
+Policy towards China: Peering through the smoke
+
+Tech titans testify: Hearing without listening
+
+Posthumous hip-hop hits: Dead rappers are killing it
+
+Crime statistics: Few signs of a surge
+
+Lexington: Mid-century modern
+
+Canada and America: No Canuck do
+
+Crime in Canada: Rough justice
+
+The Galapagos islands: Fishy business
+
+Bello: The return of rigged elections
+
+75 years after Hiroshima: Never forget
+
+Singapore: From fairway to highway
+
+Malaysia: Down and out
+
+Sri Lanka’s election: Pax Rajapaksa
+
+Banyan: Spiked
+
+Voting with their feet: One country, two passports
+
+Transgender justice: Evolving rights
+
+Chaguan: China digs its past
+
+Turkey and the Arab world: Ottoman redux
+
+Covid-era travel in the Gulf: Viral vacations
+
+Pollution in Africa: A smouldering sky
+
+South Africa and the IMF: Fund facts
+
+Ethiopia: Urban brawl
+
+Italy: How to spend it
+
+Covid-19 in Europe: Still with us
+
+The Aegean: Muddying the waters
+
+Turkey: The queen is dead
+
+Charlemagne: Euro crisis (with guns)
+
+Regional economics: The national tilt
+
+Urban explorers: Beauty in decay
+
+Public transport: Going underground
+
+Obesity: Witness the fitness
+
+Competition policy: A world leader after all
+
+Migration after covid-19: Tearing up the welcome mat
+
+The airline-industrial complex: Terminal conditions
+
+Bartleby: Back on the chain gang
+
+Bicycles: Electric shock
+
+Technology companies: Wish upon a STAR
+
+Schumpeter: A GE whodunnit
+
+Emerging markets: A sigh of relief, a gasp for breath
+
+India’s banks: Delayed reaction
+
+Buttonwood: The SPAC hack
+
+Bridgewater: Troubled waters
+
+The dollar dips: The price of gold surges to an all-time high
+
+The European Union: Filling the coffers
+
+Emmanuel Farhi: A lost asset
+
+Free exchange: The Replacements
+
+Electric cars: Million-mile car batteries are coming
+
+Concussion: RAT tales
+
+Palaeomicrobiology: The bugs that time forgot
+
+Ways of seeing: Attention pays
+
+Cheating in sport: Through the mousehole
+
+Icelandic fiction: Lines of beauty
+
+Understanding data: Sums of all fears
+
+Home Entertainment: “The Seventh Seal”
+
+Perspectives: Cleanliness is next to growth
+
+Economic data, commodities and markets
+
+Twitter’s algorithm: Relevant content
+
+László Bogdán: The tale of a village
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-31T01:07:17.724427+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
