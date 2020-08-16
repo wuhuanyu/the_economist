@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58acac1e-9896-4331-a4ef-cb28596b003d</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-16T09:50:11.804134+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The Chinese model: Xi’s new economy
+
+Belarus: The sham of it
+
+American politics: What Kamala says about Joe
+
+Microfinance: Credit where it’s due
+
+Britain’s economy: Grey v growth
+
+Letters to the editor: On elderly care, technology, Lyndon Johnson, choral singing, journalism
+
+China’s hybrid capitalism: Blooming for the glory of the state
+
+Kamala Harris: Groundbreaking and predictable
+
+Economic stimulus: Prolonging the pain
+
+Looting in Chicago: Smash and grab
+
+Au-pair wars: Essential or exploited?
+
+The decennial census: All flaxen was his poll
+
+Lexington: Flag-rapping
+
+Mexico: A new kingpin on the block
+
+Bolivia: Democracy deferred
+
+The Arctic: A shortened shelf life
+
+Development in Cambodia: Service economy
+
+Indonesia’s environment: For peat’s sake
+
+NIMBYism in Japan: Anti-anti-missile systems
+
+Eating ant eggs in Laos: Jungle caviar
+
+Banyan: A one-family state
+
+WeChat in America: The big unfriending
+
+Repression in Hong Kong: In the party’s sights
+
+Chaguan: Being blind and young in China
+
+Tunisia: Ten years after the revolution
+
+Lebanon after the blast: Taking a fall
+
+Nigeria: Hair from everywhere
+
+Ivory Coast: Triumph of the gerontocrats
+
+Tanzania: Courting the big man
+
+Belarus’s bogus election: The gentle revolution
+
+Russia and the Baltics: Hacker alert
+
+Germany: The ballooning Bundestag
+
+Bike gangs: Sleazy riders
+
+Charlemagne: The other villain
+
+Economic policy: A grey and stagnant land
+
+GDP: Crash
+
+Exam results: A level playing field?
+
+Migrants in dinghies: A rather small invasion
+
+Fighting covid-19: Local heroes
+
+Farm labour: Ripe for reform
+
+Feminising the Foreign Office: Who runs the world?
+
+Bagehot: A certain idea of Britain
+
+America’s State Department: The dereliction of diplomacy
+
+Sino-American commercial relations: Endgame
+
+More Sino-American decoupling: The nuclear option
+
+Bartleby: Labour’s lost love
+
+Saudi Aramco: Trial by fire
+
+Juggling profits and purpose: Profits v purpose
+
+Airbus A380: Superjumbo problems
+
+Schumpeter: The new dividend royalty
+
+Economic convergence: Club class
+
+Turkey’s currency turmoil: Not at this rate
+
+Tax transparency: Hands off, Uncle Sam
+
+Gold in India: Financial alchemy
+
+Blended finance: Seeking scale
+
+Free exchange: Conscious uncoupling
+
+Raising the floor: What harm do minimum wages do?
+
+Space warfare: A legal void
+
+Quantum mechanics: A flutter in time
+
+Palaeontology: Not guilty?
+
+Zoology: Rules of attraction
+
+Images of covid-19: Decent exposure
+
+People power: Beginner’s luck
+
+Espionage: The Führer’s man in Manhattan
+
+Brazilian literature: Dead man’s blues
+
+Economic data, commodities and markets
+
+US presidential election: The old college try
+
+Leon Fleisher: Right hand, left hand
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-08-16T09:50:20.691422+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
