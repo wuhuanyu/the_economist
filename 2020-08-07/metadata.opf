@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">567</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d6f35af-d3db-43c7-a315-fb094071f16f</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-07T01:39:33.080024+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Universities: The absent student
+
+Lebanon: No way to run a country
+
+Tech wars: Trumpian TikTok
+
+Vaccine economics: A bigger dose
+
+Gay rights: The world comes out
+
+The dismal yet flexible science: When the facts change
+
+Letters to the editor: On reopening schools, oil, French accents, Amazon, sports teams
+
+Covid-19 and college: Uncanny University
+
+Electing a president: Jarring
+
+The postal service: Law of the letter
+
+Hyperloops: Pipes of fancy
+
+DC history: Without representation
+
+Baseball returns: Strike two
+
+Taxing and spending: From unthinkable to universal
+
+Lexington: Channel-hopping
+
+Argentina: Fighting on fewer fronts
+
+Guyana and Suriname: Oil futures
+
+Bello: Beyond the troika of tyranny
+
+Hindu nationalism: India shrining
+
+Australia and covid-19: Borderline cases
+
+Corruption in Uzbekistan: Weirs and recriminations
+
+Personal freedom in Thailand: Cold cuts
+
+Banyan: Trojan democrat
+
+Entertainment: Heady Hunan
+
+The civil code: Thirty more days of hell
+
+Lebanon: City in ruins
+
+Mali: Fear and loathing in the Sahel
+
+Prohibition in a pandemic: Tea-total
+
+The pandemic in Africa: One million and not counting
+
+Racism in Europe: See no evil
+
+Open again: Genoa bridge reopens
+
+Turkey: Sultan of censorship
+
+Covid-19 in the Balkans: Not as stated
+
+Charlemagne: Strandkörbe in place of sangria
+
+Spain: The signal turns to red
+
+Scottish independence: Is Caledonia Catalonia?
+
+Covid-19 in Scotland: Independence fever
+
+Food and trade: A pig of a problem
+
+Planning reform: Weak foundations
+
+Masks and culture: Made in the USA
+
+John Hume, 1937-2020: A dove over Derry
+
+Bagehot: The smell of rot
+
+Coming out: Queer, there and everywhere
+
+Corporate America: The trouble with TINA
+
+Stockmarket indices: Inclusive growth
+
+Semiconductors: Worth an arm and a leg
+
+Microsoft and TikTok: Unproductivity puzzle
+
+European business: Sverige AB v Deutschland AG
+
+Bartleby: Called to account
+
+Schumpeter: Dangerous curves ahead
+
+Vaccine economics: More hard questions
+
+Chinese finance: A dynamic duopoly
+
+Banks’ earnings: Dud light
+
+Pre-doctoral programmes: Selection effects
+
+The IMF and the World Bank: Abandoning hope
+
+Free exchange: Change for the dollar
+
+A healthy dose of competition: From hospitality to hipsterism
+
+Artificial intelligence: Bit-lit
+
+Covid-19 testing: Dive in
+
+Entomology: Parasites under pressure
+
+Cookery: A good grilling
+
+Museums and restitution: Legacies of violence
+
+Johnson: The Greatest Phrases!
+
+Climate change: A glacier’s pace
+
+New American fiction: The girl next door
+
+Home Entertainment: In the woodshed
+
+Economic data, commodities and markets
+
+Life in the time of corona: 90% economy, 120% gastronomy
+
+Olivia de Havilland: The ingénue who roared
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-08-07T01:39:47.050055+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
