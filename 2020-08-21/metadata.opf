@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">576</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12fd9404-617b-483e-a17a-260a7c74e59c</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-21T01:20:40.692228+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The aliens among us
+
+Israel and the Arab world: Out of the closet
+
+Mali’s coup: Why the Sahel is suffering
+
+Tech IPOs: Silicon Valley v Wall Street
+
+Tensions in the eastern Mediterranean: A sea of trouble
+
+On software problems, Britain, India, racism, Clement Attlee: Letters to the editor
+
+The viral universe: The outsiders inside
+
+The presidential election: The postmaster always rings twice
+
+America’s black elite: Our kind of people
+
+Veterans in politics: Old soldiers
+
+Lingua securitatis: From iPhones to aircraft carriers
+
+Lexington: Unconventional
+
+Internship
+
+The Arctic: Drill music
+
+The Caribbean: Anxious isles
+
+Canada: No more Morneau
+
+Myanmar’s forever war: Will it ever stop?
+
+Japan: Virtual respect for the dead
+
+Thai democracy: Street cred
+
+The internet in Pakistan: Calls waiting
+
+Banyan: Sensitive Seoul
+
+Hukou reform: Worlds apart
+
+Chaguan: Past its Peak
+
+The United Arab Emirates: The strong, silent type
+
+Israel and the Arab world: Who’s next?
+
+Iran and covid-19: A rite old mess
+
+African stamps: Wait a minute Mr Postman
+
+Oil on protected waters: An oil spill off Mauritius threatens protected ecosystems
+
+Mutiny in Mali: A coup that was coming
+
+The Belarus uprising: The dictator hangs on, for now
+
+Italy’s populists: Welcome to normal politics
+
+Alexei Navalny in peril: Russia’s opposition leader is in a coma
+
+Depopulating the Balkans: Ageing, dying, leaving
+
+Charlemagne: Why Europeans love Schengen
+
+Unemployment: It’s coming
+
+Gymshark: Primus Insta pares
+
+Public Health England: Turning German?
+
+Exam marks: U and non-U
+
+Race in Northern Ireland: Green or orange, not black
+
+Media and society: No news is good news
+
+Labour: Left out
+
+Bagehot: Rule by algorithm
+
+Tension in the eastern Mediterranean: Battling over boundaries
+
+Technology listings: Partying like it’s 1999
+
+Apple’s Epic dust-up: Playing hard ball
+
+Electric vehicles: Believe the hypercar
+
+Entertainment: A big-sum game
+
+Working hours: Weekend plans
+
+Sino-American tech war: No more quarter
+
+Schumpeter: Supply chained and bound
+
+Dubai: Navigating the storm
+
+Mask economics: Cloth of gold
+
+People’s Bank of China: Conforming to norms
+
+Buttonwood: Foam party
+
+Free exchange: State of the unions
+
+Hidden figures: A flattened curve
+
+Covid and chronic illness: Lingering fog
+
+The American story: Twentieth-century fox
+
+Johnson: Moral minorities
+
+Colombia: A river and a nation
+
+Home Entertainment: In the mind’s eye
+
+British fiction: Unmoored
+
+Economic data, commodities and markets
+
+Authoritarianism: Drifting apart
+
+Julian Bream: Passion plays
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-08-21T01:20:50.815762+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
