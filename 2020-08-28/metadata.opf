@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">579</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72e737a7-077f-4bb7-bf4e-e676f2916720</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-28T01:12:53.960782+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Russia: What Putin fears
+
+Dementia: The forgotten problem
+
+Mexico: How not to handle a scandal
+
+Hollywood and China: Un-American activities
+
+Covid-19 and mental health: A world of trauma
+
+Letters to the editor: On Kamala Harris, vaccines, fishing rights, postmen, IPOs, Boris Johnson, TikTok
+
+Belarus and Russia: The people lose patience
+
+Japanese politics: After Abe
+
+The Christchurch massacre: Dignity in the face of depravity
+
+North Korea’s economy: Self-strangulation
+
+Catering in the time of covid-19: Grounded beef
+
+Banyan: Tough, but incompetent
+
+Podcasting: Listening in
+
+Matronymics: In the name of the mother
+
+Chaguan: System, heal thyself
+
+Natural disasters: The condor’s cry
+
+QAnon: On and on
+
+Guo Wengui and Steve Bannon: Cognitive dissidents
+
+More trouble in Wisconsin: A summer of fury
+
+Sparring for the Senate: Kennedy fatigue?
+
+Back to school: Learning and covid
+
+Covid-19 in schools: Don’t blame the children
+
+Lexington: Hail to the king
+
+Mexico: Bombshells on board
+
+Sibling storms in the Caribbean: Storms Marco and Laura strike the Caribbean
+
+Mozambique: More misery, few answers
+
+Migration: Cheques don’t check treks
+
+Nollywood and the pandemic: Time to sharpen up
+
+The Palestinians: Very brief holidays in the sun
+
+Islam and dogs: Bone of contention
+
+Germany’s refugee influx: Did they handle it?
+
+Green-fingered Bulgarians: Constant gardeners
+
+Montenegro’s election: Not very Christian
+
+French higher education: Saclay sacré
+
+Charlemagne: The Pampers index
+
+Housing: Generation rent grows up
+
+Fading Sinophilia: Flying dragon, passing fashion
+
+The Labour Party: Middle-class hero
+
+Politics and music: Last fight of the Proms
+
+The hospitality business: Turning the tables
+
+Books: The old stories
+
+School uniforms: The new school tie
+
+Bagehot: Learning German
+
+Mental health: The common tragedy
+
+Dementia: The perils of oblivion
+
+The science: Plaque blues
+
+Care: God’s waiting rooms
+
+Going abroad: The last resort
+
+Financing care: Alms for oblivion
+
+Ethics: Still human
+
+Hollywood and China: Red carpet
+
+German blue chips: Ascend and deliver
+
+Health care: Left to their own devices
+
+Energy utilities: Lit
+
+Bribery: A closer look at greasy palms
+
+Palantir Technologies: A prickly patriot
+
+Schumpeter: For your eyes only
+
+Stock exchanges: Big fish
+
+King of the hill: Ant Group IPO filing shows its might
+
+Phil Hogan: Exit bruiser
+
+Norges Bank: An expensive dream
+
+Lebanon’s insurers: Broken cover
+
+Housing in Seoul: The high-rise life
+
+Buttonwood: Pinky v Blinky
+
+Free exchange: Razing hopes
+
+Greenback dominance: Buck up
+
+Automation: Walking with robots
+
+Covid-19: Trials and tribulations
+
+Body art: The new ink masters
+
+Elena Ferrante’s new novel: The second sex
+
+The Freemasons: Inside the Lodge
+
+Pop music: Send for “Help!”
+
+Economic data, commodities and markets
+
+Vaccination: A first-world problem
+
+Marvin Creamer: Wind, sea and stars
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-08-28T01:13:22.753345+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
