@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">582</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6464b26d-0cd3-418d-b833-bcb47bbabb12</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-05T02:14:56.512831+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Politics: America’s ugly election
+
+A prime minister’s legacy: How Abe Shinzo changed Japan
+
+High finance in China: The exception
+
+Digital ID cards: Time for proof
+
+Rwanda: Nowhere to hide
+
+On coming out, competition, the Midwest, Turkey, John Snow, York: Letters to the editor
+
+America’s presidential election: A house divided
+
+Swing states: The suburban strategy
+
+Polls and nerves: Shorting volatility
+
+Inclusivity v fairness: Vitrix ludorum
+
+NYC’s MTA: Train wreck
+
+Lexington: It’s the covid-economy, stupid
+
+Brazil: An increasingly prickly partnership
+
+Canada and the United States: Frontier friendship
+
+Japanese politics: A new story at last
+
+Feminism in Pakistan: No shrinking violets
+
+Covid-19 in India: Double whammy
+
+Taiwan: Unambiguously dangerous
+
+Banyan: Three-finger salute
+
+Education reform: Testy times
+
+Inner Mongolia: Mongolingualism
+
+Chaguan: Keeping a grip
+
+United Nations peacekeeping in Congo: Blue helmet blues
+
+Rwanda’s celebrated hotel manager: We don’t need another hero
+
+Elections in Burkina Faso: Sacking the voters
+
+Lebanon: The sultan et le président
+
+Egyptian politics: Defendant number 54,000,000
+
+France: The man with le Plan
+
+Belarus and Russia: A distorted picture
+
+Germany’s envoy to Poland: Not much of a welcome
+
+Animal rights in the Netherlands: Not fur sale
+
+Charlemagne: Politicians or technocrats?
+
+Boris Johnson: Could do better
+
+Dog-walking: Parading the pooch
+
+Brexit negotiations: Deal or no deal?
+
+Covid-19 in England: A summer break
+
+The housing market: Flatlining
+
+5G: Moobile networks
+
+Rave revival: Third summer of love
+
+Bagehot: The Lib Dems might just fly again
+
+The digitisation of government: Paper travails
+
+Prosus: Winner’s curse
+
+Wizz Air: Rising in the east
+
+Japanese business: Rebalancing act
+
+Berkshire Hathaway’s Japanese bet: Buffett bets on Japan
+
+Bartleby: After the fall
+
+Indian business: Over-Reliance
+
+TikTok: Limbo dance
+
+Schumpeter: Reconstituted
+
+Financial coupling in China: Present tense, future market
+
+The Federal Reserve: New job description
+
+Indian finance: Silent no more
+
+Campaign finance: Wall Street’s money
+
+World Bank: Unease of Doing Business
+
+Buttonwood: Impaired visibility
+
+Free exchange: Parting shot
+
+A social turn: Hard work and black swans
+
+Military strategy: What motivates the dogs of war?
+
+Brain-computer interfaces: And pigs may drive
+
+Forensic botany: Murder will out
+
+Psychology: Lucid dreams
+
+Violence and music: Drilling down
+
+Johnson: Lost in dictation
+
+Myrmecology: A bug’s life
+
+Abe Shinzo: Family man
+
+Home Entertainment: Assassin’s creed
+
+Economic data, commodities and markets
+
+Air pollution: Blue skies turn grey
+
+Chadwick Boseman: To be a king
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-09-05T02:15:24.227395+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
