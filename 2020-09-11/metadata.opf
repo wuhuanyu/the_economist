@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">585</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37cb5d78-473d-48b6-85e0-a7154987de6d</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-11T00:07:49.422174+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Work and: Office politics
+
+Belarus: Don’t let Putin swallow Belarus
+
+Brexit and international law: A shocking breach
+
+Wildfires: Burning up
+
+Title and ownership: Whose land?
+
+Letters to the editor: On digital trade, Ferdinand Magellan, the centre-left, mental health, diplomacy, economics
+
+The future of the office: What a way to make a living
+
+Generations and the election: The boomers’ last stand
+
+Rap on the block: Sotheby’s hip-hop auction
+
+The horse race: One trot closer
+
+Political skulduggery in Missouri: The will of the...whatever
+
+Eviction: Shelter in place
+
+Lexington: The view from the scaffold
+
+Education in Latin America: Home truths
+
+Mexico: Air show
+
+Bello: Damned either way
+
+Kashmir: Highland brig
+
+India’s border with China: Ice and fire
+
+Railways in Japan: Undo the locomotion
+
+Myanmar and the Rohingya: They shot the smoking guns
+
+Banyan: The new weather gods
+
+Party building: The red front-line
+
+Foreign media: Bumping heads
+
+Chaguan: More red than green
+
+Property rights: Parcels, plots and power
+
+Jordan: Failing the test
+
+Serbia, Kosovo and Israel: An awkward embrace
+
+America and the Middle East: Stealth diplomacy
+
+Turkey: Erdogan’s world
+
+Italy’s migrants: Blamed for the virus
+
+Germany and Russia: The lady may toughen up
+
+French intellectuals: Sex, lies and philosophy
+
+Charlemagne: Last of the centre-lefties
+
+Brexit negotiations: A new barrier
+
+Suburban life: The end of commuterland
+
+Sandwich strategies: Getting out of a pickle
+
+Education: Famine to feast
+
+Climate change: Extinguished Rebellion
+
+Metal detectorists: Gold diggers
+
+Bagehot: Revolutionary conservatism
+
+The World Health Organisation: What’s wrong with the WHO
+
+Netflix: The Hastings doctrine
+
+Vaccines: Strong medicine
+
+Beverages (1): Caffeine clash
+
+Beverages (2): Bottle shock
+
+America v Huawei: Creative destruction
+
+Bartleby: The delight is in the detail
+
+Schumpeter: The one that got away
+
+Stockmarkets: Techtonic shifts
+
+Fractional ownership: Money in the Banksy
+
+Global trade: Down but not out
+
+Climate change: Stormy waters
+
+Buttonwood: Eggheads
+
+Cyber-heists: Malware and mules
+
+European banks: Badwill hunting
+
+Free exchange: Which market model is best?
+
+Government debt: Putting on weight
+
+Natural disasters: Learning to live with it
+
+Atmospheric dynamics: Fire, then ice
+
+Palaeontology: Bones of contention
+
+Immunology: Green shoots
+
+Armoured warfare: Army surplus?
+
+Globalisation: Lowering the drawbridge
+
+American history: Out of the closet
+
+Prairie gothic: Thicker than water
+
+Philosophy: New speak
+
+Irish fiction: Memory lane
+
+Economic data, commodities and markets
+
+Influenza: Cold case
+
+Comrade Duch: The mathematics of death
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-09-11T00:07:58.086593+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
