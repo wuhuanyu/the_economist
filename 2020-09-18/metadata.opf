@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">588</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95607877-7c32-4620-9d74-1995a76d4006</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-18T01:10:04.379453+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The new energy order: Power in the 21st century
+
+Inflation: Off target
+
+Multinational business and protectionism: Birth of the Frankenfirm
+
+Deliberative democracy: Amateurs to the rescue
+
+Abortion: Pills by post
+
+Letters to the editor: On dementia, the Beatles, scientific management
+
+Energy’s new world order: Petrostate v electrostate
+
+Donald Trump’s record: The master’s bidding
+
+HBCUs: Historically back
+
+Resort towns: The virus in paradise
+
+The 2020 campaigns: Following the money
+
+Abortion by pill: No scrubs
+
+Lexington: Fire and ice
+
+Colombia: Fight crime, not war
+
+Barbados: Bajan bye-bye
+
+Bello: The return of the Monroe doctrine
+
+After Abe: Searching for Suga-san
+
+The Afghan peace negotiations: Clearing their throats
+
+Labour in Singapore: Aggrieved Parti
+
+Liberals, Nationals, marsupials: Koalition politics
+
+Pacific plebiscites: No island is an island
+
+Banyan: No pay, no rights, no recourse
+
+Bangladesh and China: Two-timing
+
+Indian politics and media: Covid? What covid?
+
+Wuhan’s recovery: Washing away the tears
+
+Social class: The landlords are back
+
+Chaguan: The politics of poverty
+
+Ethnic tensions and state violence: Ethiopia’s transition is in peril
+
+Public spending in Ghana: High noon for half-bridges
+
+Politics in Uganda: Divided we stand
+
+Banning names: Sorry, you’re not on the list
+
+Israel and the Arab world: End of the illusion
+
+Russia’s local elections: Winning from death’s door
+
+Spanish history: A law to fight Franco
+
+The eastern Mediterranean: Anchors awry
+
+Germany’s economic recovery: Zombie dawn
+
+Charlemagne: Europe’s asylum compromise
+
+Britain after Brexit: Opening the taps
+
+Abortion: Call to action
+
+Covid-19: Flunked
+
+Northern Ireland: Up(load) the RA
+
+Unemployment: Pain in unexpected places
+
+Public art: For God’s sake
+
+Threats to Britain: Into the greyzone
+
+Bagehot: Boris v the blue blob
+
+Deliberative democracy: Some assembly required
+
+Business and climate change: The great disrupter
+
+Physical impact: A grim outlook
+
+Regulation: Costs of carbon
+
+Carbon offsets: Cheap cheats
+
+Legal risks: Guilty by emission
+
+Technology: Green machines
+
+The future: Directing the disruption
+
+The future of carmaking: Journeys in the Teslaverse
+
+Electric altercations: Short circuit
+
+Not quite beyond petroleum: A less oily BP
+
+Chipmaking: Integrating circuits
+
+Sino-American tech tussles: Trump card
+
+Bartleby: The only way is ethics
+
+The database business: Steam engine in the cloud
+
+Schumpeter: The perils of stakeholderism
+
+The world economy: The 90% economy, revisited
+
+China’s recovery: One-armed fighter
+
+International trade: Continuity candidate
+
+Climate finance: The meaning of green
+
+One-woman show: Women on Wall Street
+
+European stock exchanges: Shotgun wedding
+
+Buttonwood: McJobbers and brokers
+
+Free exchange: Altered vistas
+
+Planetary science: A sniff of life?
+
+Biodiversity: We started the fire
+
+Cloud computing: Better down where it’s wetter
+
+Cyber-power: Digital dominance
+
+Africa goes pop: From Nollywood to Netflix
+
+Banlieue cinema: The dancer and the dance
+
+Richard Wagner: A hateful beauty
+
+Energy and politics: Maps about chaps
+
+Johnson: Cawfee break
+
+Economic data, commodities and markets
+
+Investing: Value judgment
+
+Joan Feynman: Getting to know the Sun
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-09-18T01:10:22.544021+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
