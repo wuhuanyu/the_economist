@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">591</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5cb81bb-199c-43b1-a199-84b96f084f72</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-25T01:07:50.525982+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Covid-19: Why governments get it wrong
+
+Covid-19 and poverty: Failing the poor
+
+The Supreme Court: After RBG
+
+The corporate undead: Zombies at the gates
+
+Quantum computing: From cloisters to the cloud
+
+Letters to the editor: On Abe Shinzo, Venezuela, national ID cards, America, Imran Khan’s pets
+
+The covid-19 pandemic: Grim tallies
+
+The battle for the Senate: The donkey’s long tail
+
+Amy Coney Barrett: From RBG to ACB
+
+Rural voters: Signs of the times
+
+The US Navy: AI, Captain
+
+Partisan warring: Courting trouble
+
+Lexington: A double negative
+
+Peru: Limping in Lima
+
+Argentina and Uruguay: A mini-war across the River Plate
+
+Bello: Darkness in Mexico
+
+Bureaucrats in Indonesia: Rejoice to serve
+
+The monarchy in Thailand: Do you hear the people, king?
+
+Agriculture in India: Yield curve
+
+Malaysian politics: Anwar on the attack
+
+Banyan: Twitchers without borders
+
+Climate change: A greener horizon
+
+Ren Zhiqiang: A loose cannon silenced
+
+Chaguan: Tit for futile tat
+
+Syria: Despot of deprivation
+
+Lebanon: After the blast, the bulldozers
+
+Social media and war crimes: Accidental cover-up
+
+Gold in Ghana: What’s the rush?
+
+French diplomacy: Trying to square a circle
+
+Corruption in Ukraine: Lock up the small fry—for a start
+
+Italy: Counter-strike
+
+Switzerland and the European Union: Is it in Europe?
+
+Charlemagne: The right to sell passports
+
+The Labour Party: Reflections on conservatism
+
+Trans rights: Who’s a woman?
+
+Covid-19: Winter has come
+
+Public transport: The little engine that couldn’t
+
+Conservative protest: Leave.BBC
+
+Income distribution: Importing inequality
+
+Commercial property: A pain in the portfolio
+
+Bagehot: The king in the north
+
+Covid-19 and poor countries: From plague to penury
+
+Oracle: Larry’s last stand
+
+TikTok: The principals’ uncertainty
+
+Cola wars: Fire-starter
+
+BP v utilities: The new majors
+
+Bartleby: The toughest business school
+
+Rocket Internet: Coming down to earth
+
+Microblogging: Weibo woes
+
+Schumpeter: Lighting up Japan Inc
+
+Ailing companies: The corporate undead
+
+Companies in Japan: The return of the living dead?
+
+America’s economy: Snapback
+
+Buttonwood: The bright side
+
+The Vatican’s finances: A holy mess
+
+Free exchange: The mop that never stops
+
+The business of quantum computers: Uncertainty principals
+
+Evolution: Accidental killer
+
+A fossorial fossil: A burrowing dinosaur
+
+Gangs and governments: The monster and the boys
+
+American statesmen: All the presidents’ man
+
+Cradles of civilisation: Pivot of the world
+
+A writer’s life: Cool to be kind
+
+Hercule Poirot: The case of the 100-year-old detective
+
+Economic data, commodities and markets
+
+America’s Senate: The Maine reason
+
+Ruth Bader Ginsburg: Diva dissenter
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-09-25T01:08:11.859284+00:00" name="calibre:timestamp"/>
+        <meta content="Economist, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
