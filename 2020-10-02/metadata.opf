@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">600</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">167ee3a6-37c2-4133-bd98-6b3b835e0af5</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-02T01:10:37+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+America’s election: Bidenomics
+
+Global housing: The house party returns
+
+Famine in Yemen: An avoidable tragedy
+
+Germany: Growing up at last
+
+China’s countryside: Mass destruction
+
+On working from home, land reform, scientific management: Letters to the editor
+
+Joe Biden’s economic plans: The pragmatist
+
+Florida and the election: Key largo
+
+Supreme Court and the election: Not so fast
+
+Election troubles: Rashomon, with ballots
+
+Measuring poverty: And the poor get poorer
+
+Catholic priests and politics: Render unto Caesar
+
+Lexington: The end of the debate
+
+Canada: Justin’s timing
+
+Mexico: Tabascan onomastics
+
+Peru: Patient, don’t heal thyself
+
+Bello: The missing local links
+
+The coronavirus in South Asia: India v Pakistan v covid-19
+
+Natural resources in Uzbekistan: Colourless, odourless, buyerless
+
+Elections in New Zealand: Jacindarella
+
+Investing in Myanmar: No time for details
+
+Banyan: Always the man of the future
+
+Consolidating villages: On Harmony Road
+
+Betel nuts: Hard to crack
+
+Chaguan: When China fought America
+
+Competition law: No contest
+
+Somaliland and Taiwan: Outcasts united
+
+Kuwait: A king of co-operation
+
+Yemen: Unsafe Safer
+
+Iraq and covid-19: Out of control
+
+Reunified Germany, 30 years on: Waking Europe’s sleeping giant
+
+Armenia and Azerbaijan: The cauldron bubbles again
+
+Hungary: Taking on Viktor Orban
+
+Spain: Dancing with death
+
+Pop music: The Albanian all-stars
+
+Charlemagne: The revenge of strategic yogurt
+
+Race: Not black and white
+
+Cars in the capital: Road warriors
+
+Covid-19 in universities: Freshers’ covid
+
+Skills: How the other half learns
+
+Lithium: Wheels within wheals
+
+Scotland: In their sights
+
+Bagehot: We shall fight them on the airwaves
+
+Parenting: The rugrat race
+
+Virtual realities: Reaching into other worlds
+
+Simulation: Reality bytes
+
+Hardware: The promise and the reality
+
+Health care: Getting better
+
+Brain scan: Lord of the Metaverse
+
+The future: What is real, anyway?
+
+Tata Sons: Endangered species
+
+Epic v Apple: Storing up trouble
+
+Fracking: Shelling out on shale’s sale
+
+A luxury tiff: Letting go lightly
+
+Measuring sustainability: In the soup
+
+Bartleby: Why we need to laugh at work
+
+Schumpeter: All the president’s moolah
+
+Global housing markets: The three pillars
+
+Evergrande: Not forever grand
+
+Digital payments: If you can’t bill them
+
+Investment banking: Spoof proof
+
+Employment in Germany: Nature v nurture
+
+Investment in India: Sticking plaster
+
+Buttonwood: Gifts that keep giving
+
+Free exchange: Marching bans
+
+Hybrids and evolution: Match and mix
+
+Mexico’s chroniclers: The other half of history
+
+The CIA and the cold war: Original sins
+
+Geography and imagination: Water all around
+
+Japanese fiction: I don’t belong here
+
+Johnson: Justice and just slips
+
+Economic data, commodities and markets
+
+Wealth and schooling: A rising tide
+
+Harold Evans: Attacking the devil
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-02T01:10:45+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
