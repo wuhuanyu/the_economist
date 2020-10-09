@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d0ef613-5ba2-4407-abc8-a0edf78c7f61</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-09T01:04:32.333142+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The economy after covid-19: Winners and losers
+
+Nagorno-Karabakh: No one in charge
+
+American democracy: Don’t rob them, count them
+
+Sweden and covid-19: Land of the mask-free
+
+China’s fintech champion: On the march
+
+Letters to the editor: On Mexico, “Cuties”, democracy, Milton Friedman, the Supreme Court, Harold Evans, tanks
+
+Ant’s jumbo IPO: Queen of the colony
+
+War over Taiwan: Strait shooting
+
+Kyrgyzstan: Take three
+
+Elections in Tajikistan: Ballot-ticking exercise
+
+Polio in Pakistan and Afghanistan: Deliverance delayed
+
+A big K-pop IPO: Woke blokes
+
+Banyan: Modi the multi-tasker
+
+Law in Hong Kong: Slow strangulation
+
+The Dongba script: Rune revival
+
+Covid-19 in the White House: A sick body politic
+
+The vice-presidential debate: Rumble of the understudies
+
+Voter suppression: A battleground in Texas
+
+Neck-and-neck in Ohio: Swinging again
+
+Jobs (i): Entrepreneurship: Startup nation
+
+Jobs (ii): Lay-offs: A second wave
+
+Lexington: The battle in miniature
+
+Cuba: Welcome to Queueba
+
+Argentina: Alberto of the Antarctic
+
+Bello: Sliding down the pandemic snake
+
+Iran and China: Friends without benefits
+
+Israel: Sickly leadership
+
+Egypt: A rage for roads
+
+Ivory Coast’s election: Old men spell danger
+
+Nigeria’s economy: Fuel me once
+
+Money talk: Where calling is a calling
+
+War in the Caucasus: Heavy metal
+
+Greece: Selling Salamis
+
+France’s Greens: The cancelled Christmas tree
+
+The media in Poland: The Hungarian model
+
+Coronavirus in Sweden: The odd one out
+
+Charlemagne: The princess, the pea and foreign policy
+
+Rishi Sunak: Easy riser
+
+Dirty money: Please explain
+
+Vaccine programme: Ready, steady, jab
+
+Brexit talks: Deadline diplomacy
+
+Mortgage market: Fixing it
+
+Green energy: Straws in the wind
+
+Funeral culture: Deathly silence
+
+The world economy: The peril and the promise
+
+International trade: Changing places
+
+Labour markets: Zoom and gloom
+
+Competition: Survival of the fittest
+
+Interest rates: The eternal zero
+
+Emerging markets: Prognosis uncertain
+
+The role of government: The right kind of recovery
+
+The global shipping industry: It’s an ill wind that blows no one any good
+
+Canada’s oil industry: Crude crutch
+
+Cinemas: Curtains
+
+Regulating big tech: Ex-antics
+
+Bartleby: Free the workers
+
+Japanese telecoms: Dialling down
+
+Schumpeter: Battle for the iron throne
+
+The future of finance: The digital surge
+
+Labour markets in Europe: Pain relief
+
+America’s presidential election: Braced for impact
+
+International trade: Working to rule
+
+Buttonwood: Feel the burn
+
+Free exchange: Beggars banquet
+
+The 2020 Nobel science prizes: They walked in looking like dynamite
+
+Living with El Niño: One man’s bane is another’s bounty
+
+New materials: Joint approach
+
+Conservation: How to prepare poached eggs
+
+Money and morals: The way of the world
+
+The history of science: Sleeping giants
+
+Classical music: Phoning it in
+
+Pets and poetry: Dead cat bounce
+
+Theaster Gates: Feats of clay
+
+Economic data, commodities and markets
+
+Politics and the internet: Web of distrust
+
+Swami Agnivesh: Of human bondage
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-09T01:04:42.106931+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
