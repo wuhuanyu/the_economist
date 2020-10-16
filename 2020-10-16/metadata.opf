@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">608</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">550ba59f-29a3-4cb0-83af-ee990afc8499</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-16T01:07:56.868063+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Human rights: Torment of the Uyghurs
+
+The American election: Grading Trumponomics
+
+Covid-19: Going full circuit
+
+Transgender rights: A question of sport
+
+Tech investing and the Vision Fund: A vision in hindsight
+
+Letters to the editor: On the debates, Germany, energy, Colombia, trade, Dominic Cummings
+
+Ruling Thailand: Battle royal
+
+Trumponomics: Watered with liberal tears
+
+Amy Coney Barrett: Hearing test
+
+New York and covid-19: Pikuach nefesh
+
+Elections in Maine: Shaken Collins
+
+Far-right extremism: Making the world glow
+
+Lexington: The audacity of Jaime Harrison
+
+Bolivia: A consequential contest
+
+Colombia: VAT half-empty
+
+Bello: The girl who hated soup
+
+Sexual politics in South Korea: Cradle to desk
+
+The Aboriginal flag: Take down or cough up
+
+Politics in Kyrgyzstan: From prison to power in a week
+
+Corruption in Bangladesh: Land of land-grabs
+
+Banyan: Suharto with a saw
+
+Xinjiang: Orphaned by the state
+
+Chaguan: Claiming covid as a win
+
+Mali after the coup: We were soldiers once
+
+Congo’s cobalt: The ugly rush
+
+Iran’s armed forces: After the embargo
+
+Dubai: Old is gold
+
+Ethiopian Jews: From Gondar to Jerusalem
+
+An interview with Russia’s opposition leader: The man who lived
+
+Turkey: Wear a different chain
+
+Berlin’s new airport: It’s built, but will they fly?
+
+Feminism in France: Like a fish needs a bicyclette
+
+Charlemagne: Learning to love the c-word
+
+The second wave: Back into the storm
+
+The business of biography: Aide memoir
+
+Defence policy: Global swarming
+
+Trade policy: Getting hormonal
+
+Mixed martial arts: Class conflict
+
+Babies and covid-19: Hard labour
+
+Pearson: Marks for effort
+
+Bagehot: Mad, bad and dangerous
+
+Covid-19 and liberty: No vaccine for cruelty
+
+SoftBank: What Masa does next
+
+Aerospace: Not boxing clever
+
+Bartleby: Stop all the clocks
+
+Chinese IPOs in America: Red capitalism
+
+Farm equipment: Fertile ground
+
+5G handsets: The iPhone gets up to snuff
+
+Retail: Turning a corner
+
+Schumpeter: Bad news
+
+China’s economy: The real deal
+
+Wall Street: The calm after the storm
+
+Government debt: Relief efforts
+
+Personal finance: The saver’s dilemma
+
+From acute to chronic: The IMF’s new forecasts
+
+Buttonwood: Persian version
+
+Free exchange: Winning bids
+
+Transgender athletes: Scrum down
+
+Submarine communications: Good vibrations
+
+Gut microbes: Germ lines
+
+Ecology: Not so deserted
+
+Physics: Max machs
+
+Award: British Science Journalist of the Year
+
+American history: The road to Camelot
+
+Egyptology: Pyramid schemes
+
+Johnson: Wine and bottles
+
+British fiction: Secrets and lies
+
+Art and punishment: Body and soul
+
+Economic data, commodities and markets
+
+Formula 1: Man v machine
+
+Mohammad Reza Shajarian: The bird of freedom
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-16T01:08:05.622249+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
