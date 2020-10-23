@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">612</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e7fa54e-0e11-49d0-879d-741c64b9ee64</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-23T00:58:02.150461+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Free speech: Who controls the conversation?
+
+Brexit: Seal the deal
+
+Some lessons from Microsoft: Blue-sky thinking
+
+Financial markets: Young, but not dumb
+
+Illegal fishing: Monsters of the deep
+
+On the Uyghurs, Venus, Catholic voters, Zoom meetings: Letters to the editor
+
+Social media and free speech: The great clean-up
+
+Microsoft: After the reboot
+
+Election uncertainties: The known unknowns
+
+Donald Trump’s record: Pumped up
+
+Trade: Tariff man
+
+Mining for votes in Montana: Gold in them hills
+
+Museum funding: Going, going, gone
+
+The Equality Act: Liberalism and its contradictions
+
+Lexington: The blue wave
+
+Chile: In need of a new edifice
+
+Bello: Don’t mess up the miracle
+
+Disinformation in Myanmar: Anti-social network
+
+North Korea and the world: Not-so-splendid isolation
+
+New Zealand’s election: Labour day
+
+Drugs in India: Weed killers
+
+Banyan: A feverish mood
+
+Opinion polls: The 1.4bn-people question
+
+Economic rebound: A big splash
+
+Chaguan: Be China’s friend, or else
+
+Egypt: No contest
+
+America and the Middle East: Waiting game
+
+Tanzania’s elections: The bulldozer rumbles on
+
+Conservation in Africa: Elephants’ graveyard no more
+
+Police violence in Nigeria: The young have had enough
+
+Covid-19 in Europe: A patchwork of red, yellow and green
+
+Swedish defence: Less neutral, more beefy
+
+Georgia: Misha’s return?
+
+France: The sacred right to offend
+
+Charlemagne: A powerful yet puny parliament
+
+London as a financial centre: Brex and the City
+
+Elected mayors: Our friends in the north
+
+Social care: Big old problem
+
+Brexit and data firms: Inadequate
+
+Bagehot: What Biden would mean for Boris
+
+Felonious fishing: The outlaw sea
+
+Italian business: How the leopard lost its spots
+
+Technology and competition: Search query
+
+Utilities: What next
+
+Bartleby: Fighting spirit
+
+Schumpeter: Free the data serfs!
+
+Millennials and finance: The generation game
+
+The World Trade Organisation: The home straight
+
+Lael Brainard: Top contender
+
+Emerging markets: The rule-makers
+
+Price gouging: Disaster profiteering
+
+Buttonwood: A new career in a new town
+
+Free exchange: Graduates of the world, unite!
+
+We’re hiring: Wanted: a new writer to cover finance
+
+Controlling the pandemic: When doctors disagree
+
+Autonomous vehicles: Look, no hands!
+
+Space exploration: Close encounters of the sampling kind
+
+Ecology: Time to unwire
+
+Internal exile: Worlds of their own
+
+American fiction: Made for you and me
+
+The Spanish civil war: ¡No pasarán!
+
+North Korean architecture: Despot decor
+
+Economic data, commodities and markets
+
+Voting in America: Mailing it in
+
+Samuel Paty: Liberty’s foot-soldier
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-23T00:58:09.989993+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
