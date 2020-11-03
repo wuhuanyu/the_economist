@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea7ae978-5ea2-495c-86ab-ea786f24d0a1</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-03T06:06:17.921154+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL's cartoon
+
+America's election: Why it has to be Biden
+
+Green innovation: Breaking through
+
+Furlough schemes: The zombification of Britain
+
+Germany’s Christian Democrats: The long farewell
+
+Letters to the editor: On Indonesia, Colombia, human rights, Nagorno-Karabakh, CEOs, the Arctic, beer
+
+The Trump audit: Four years on
+
+The international stage: Realism and the wrecking ball
+
+Amy Coney Barrett: Against the flow
+
+State legislatures: Flipping houses
+
+Direct democracy: Gentle propositions
+
+Information and elections: Big little lies
+
+Donald Trump and the Latino vote: Better hombres
+
+Corruption and conflicts of interest: The art of the self-deal
+
+Lexington: Battle-hymn of the Never Trumpers
+
+Award: National Press Foundation
+
+Argentina: A harvest of grievance
+
+Brazil: Each race, a new race
+
+Bello: MexiCoke
+
+Indian politics: Central bark
+
+Street food in Singapore: Out with the new
+
+Climate policy in Japan: Not a carbon copy
+
+Press freedom in Pakistan: News whose printing causes fits
+
+Banyan: Gotabaya, caudillo
+
+Leadership succession: Xi’s not going
+
+Demography: Go figure
+
+Chaguan: Chicken and egg
+
+Malaria and covid-19: Masked up, ready to battle bugs
+
+Guinea: Ballots and bloodshed
+
+Sudan: General agreement
+
+Israel’s new airport: Not in my wetland
+
+Culture: Busking for bail-outs
+
+Italy: Rich pickings
+
+Abortion in Poland: Who is the strictest of them all?
+
+Albania’s royal family: The birth of Baby Zog
+
+Nagorno-Karabakh: The wheel turns, this time
+
+Charlemagne: Macron’s mission
+
+Data and governance: How the government lost its nerds
+
+Brutalism and beauty: Demolition Derby
+
+Grand houses: Brideshead rebooted
+
+The Tories and race: Black and blue
+
+Prisons: Locked up, locked down
+
+Birth rates: Baby bust, baby boom
+
+Climate change and innovation: Greenbacks for greenery
+
+Samsung: The Lee way
+
+Gig companies: Catch 22
+
+Opioids and business: Painkiller wars
+
+Bartleby: Luxury with your laptop
+
+Schumpeter: Jeff Bezos’s final frontier
+
+Aditya Puri: The world’s best banker?
+
+Cross-border lending: Making inroads
+
+Emerging marketmakers of last resort: Quite encouraging
+
+Europe’s public finances: The fiscal question
+
+The yuan: Caveat victor
+
+Buttonwood: Blitz-coin
+
+Free exchange: The notorious GDP
+
+Lunar exploration: Watermarked
+
+Fishing: Have your hake and eat it
+
+Ecology: Rats, palms and Palmyra Island
+
+Political philosophy: Sylvanian fantasies
+
+Matisse in lockdown: Windows of opportunity
+
+Bumps in the night: Uninvited guests
+
+Kenyan fiction: Magic mountain
+
+Johnson: The riddle of the cucumbers
+
+Economic data, commodities and markets
+
+Immunity to covid-19: The valleys of the shadow of death
+
+Hawa Abdi: It takes a village
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-03T06:06:28.242735+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
