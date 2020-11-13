@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">618</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e1eec5e-c0b8-44b4-be12-a5f1147b94f4</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.4.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-06T12:15:03+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+America’s election: When every vote counts
+
+War in the Horn: Ethiopia is poised to unravel
+
+Financial markets: Fixing the plumbing
+
+Secularism and Islam: Voltaire’s heirs
+
+Alternative 5G technology: Open sesame
+
+Letters to the editor: On nature, the Arctic, John Kennedy, Covid-19, Taiwan, culture, capitalists, Berlin, Albanians
+
+Covid-19 in Europe: The relapse
+
+The presidential race: Hello, 46
+
+Congress: Spell unbroken
+
+Polling error redux: Whiffing twice
+
+Election lawsuits: Courting the presidency
+
+Governorships and ballot initiatives: The covid races
+
+Lexington: Trump and Trumpism
+
+Canada: Northern light
+
+Brazil: Bundles in the jungle
+
+Bello: It’s hard to do good
+
+Elections in Myanmar: False start
+
+Music in South Korea: Hot for trot
+
+Banyan: Islands of liberality
+
+Economic policy: Circling back
+
+Chaguan: How China sees America
+
+Conflict in Ethiopia: Abiy’s call to arms
+
+Bobi Wine: Sing it loud
+
+Tanzania and Ivory Coast: Setting a bad example
+
+Debt in the Middle East: Not flattening the curve
+
+Robert Fisk: Rage on the page
+
+Russia: Putin’s new model army
+
+Terrorism in Europe: Oh Vienna
+
+Belarus: Staying put
+
+Spain: Us Gallegos
+
+Alcohol in Sweden: The state’s grip on grape and grain
+
+Charlemagne: Baldrick’s Europe
+
+Populism: Look who’s back
+
+Remembrance Day: Over the top
+
+Scotland and defence: Should auld acquaintance be forgot
+
+The economy: The fright before Christmas
+
+Education: New tricks
+
+Bagehot: Captain Foresight
+
+Global hipsters: Flat-white world
+
+The outlook for corporate America: Still ailing
+
+Xiaomi: Mi time
+
+The turkey glut: Gobble, gobble?
+
+Video games: The games are only just beginning
+
+Bartleby: Questionable behaviour
+
+Schumpeter: Mickey v Masa
+
+Treasuries: The bonds that bind
+
+Buttonwood: Our currency, your problem
+
+Regulators v Ant Group: Ant agonises
+
+The world economy: Winter is here
+
+Lebanon’s financial mess: The final unravelling
+
+Free exchange: Turning inward
+
+Superbatteries: What do you get when you cross a hare with a tortoise?
+
+Covid-19: Teed up
+
+Manipulating magnetism: Out of left field
+
+Think again: Female stone-age hunters
+
+Colour in art: Paint it black
+
+Renaissance art: Take me to church
+
+China and the second world war: Lest they forget
+
+The Western mind: Value judgments
+
+Martin Amis’s new book: In my life
+
+Economic data, commodities and markets
+
+Covid-19 super-spreading: Power of inequality
+
+Sean Connery: Screen Scot
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-06T12:15:10+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
