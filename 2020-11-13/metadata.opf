@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">622</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4d81a6c-267d-47eb-bf68-3e9305591404</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.4.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-13T00:38:04.780898+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL's cartoon
+
+Vaccines: Suddenly, hope
+
+The world and Joe Biden: Great expectations
+
+America’s new president: The economy Biden inherits
+
+Asset management: Beyond Buffett
+
+Democracy in Africa: Zambia’s descent
+
+Letters to the editor: On transgender sports, diplomacy, Facebook, management, Armenia, avatars, Brazil
+
+Covid-19 vaccines: Bullseye
+
+Investment strategies: Diminished value
+
+Covid-19 and the next president: Transmission and the transition
+
+Digesting the election: Nothing to see here
+
+Firings and hirings: Going, going, Pentagone
+
+Fox News and Donald Trump: Season two is cancelled
+
+Rewilding the prairie: Where the wild things are
+
+The urban-rural divide: City v hills
+
+Lexington: A Democratic defeat in victory
+
+Peru: Early retirement
+
+Central America: Greek tragedy
+
+Bello: The problem of proxy presidents
+
+Politics in Kyrgyzstan: A crowd-sourced commander-in-chief
+
+Australia’s trade with China: Down under and out
+
+State elections in India: Against daunting odds
+
+Myanmar’s election: Mother knows best
+
+Banyan: Money but not a class
+
+Politics in Hong Kong: Leaving in despair
+
+Self-help books: Highly effective people’s republic
+
+Chaguan: Tea before dawn
+
+South Africa: Ace in the hole?
+
+Zambia: Slouching towards Zimbabwe
+
+Feminism in Egypt: Speaking up about sex crimes
+
+Saeb Erekat: A negotiator in winter
+
+Nagorno-Karabakh: Peace, for now
+
+Ukraine: Judge not, that ye be not judged
+
+Europe’s recovery fund: Turn on the spigot
+
+France in the Sahel: Mission impossible but necessary
+
+Protest: Small-town revolution
+
+Foreign-investment rules: For your protection
+
+Brexit negotiations: Joe calling
+
+Public spending: Chumocracy
+
+Phone-hacking: Hanging on the telephone
+
+Energy: Chain reaction
+
+Financial services: London calling, at last
+
+Bagehot: A populist in the palace
+
+American foreign policy: What does the world want from Joe Biden?
+
+Asset management: The money doctors
+
+Index funds: Passive attack
+
+Agency problems: Double trouble
+
+Capital allocation: Stewards’ inquiry
+
+Private markets: Taking back control
+
+Venture capital: Frogs and princes
+
+China: The Shanghai Open
+
+The end-game: Doctor’s prescriptions
+
+Chinese private enterprise: The intimidation game
+
+Disney: The streaming kingdom
+
+Pasta: On board the spaghetti express
+
+Royal Enfield: Kickstart
+
+Schumpeter: The big McComeback
+
+America’s economy: Giant jab
+
+Booster shot: News of an effective vaccine injects optimism into markets
+
+Buttonwood: Coming out of the ultracold
+
+Turkey: Comings and goings
+
+Commodities: Amber wave
+
+Klarna: Smooth shopping
+
+Free exchange: Field excursion
+
+Fast diagnosis for covid-19: Test match
+
+Planetary science: Questions of life
+
+Materials science: Would you like sugar cane in that?
+
+Home truths: The human stain
+
+Street style: Fashion statements
+
+American society: All for one
+
+Hollywood fiction: Ready for his close-up
+
+Johnson: On natural declension
+
+Economic data, markets and commodities
+
+Polling in America: Déjà vu all over again
+
+James Randi: The woo-woo catcher
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-13T00:38:12.702970+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
