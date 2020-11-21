@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">623</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a764802-c070-403f-a92b-a8da51297a22</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-20T01:04:23.153015+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Underground Movement Trying to Topple the North Korean Regime
+
+Will Trump Burn the Evidence?
+
+How to Stop a Power Grab
+
+A Missing Jacob Lawrence Painting Reappears After Decades
+
+Wikipedia, “Jeopardy!,” and the Fate of the Fact
+
+How Paul Celan Reconceived Language for a Post-Holocaust World
+
+Briefly Noted Book Reviews
+
+What Does Trump Get Out of Contesting Biden’s Win?
+
+“The Old Man in the Piazza”
+
+How a Deadly Police Force Ruled a City
+
+A Three-LP Set of Sonny Rollins, Liberated from the Studio
+
+Royal Competition in “The Crown”
+
+A Philadelphia Local Is Unamused by the Fuss
+
+“We Feel Now a Largeness Coming On”
+
+“Back from the Cannery”
+
+First Lines of Rejected “Modern Love” Essays
+
+Eleven Madison Park’s Foie-Gras-Stuffed Chicken To Go
+
+“Mank” and the Making of “Citizen Kane”
+
+Cazzie David’s Existential Dread
+
+The Mystery of the 7 Train’s Broken Windows
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-20T01:04:32.244344+00:00"/>
+        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
