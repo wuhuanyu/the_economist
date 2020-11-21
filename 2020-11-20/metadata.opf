@@ -1,62 +1,174 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">623</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">2a764802-c070-403f-a92b-a8da51297a22</dc:identifier>
-        <dc:title>New Yorker Magazine</dc:title>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">624</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f422759-7a94-4d31-a55a-57c4a5ac056a</dc:identifier>
+        <dc:title>The Economist</dc:title>
         <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.5.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2020-11-20T01:04:23.153015+00:00</dc:date>
+        <dc:date>2020-11-20T01:09:18+00:00</dc:date>
         <dc:description>本期文章:
 
-The Underground Movement Trying to Topple the North Korean Regime
+Politics this week
 
-Will Trump Burn the Evidence?
+Business this week
 
-How to Stop a Power Grab
+KAL’s cartoon
 
-A Missing Jacob Lawrence Painting Reappears After Decades
+Political reform in Britain: Remaking the state
 
-Wikipedia, “Jeopardy!,” and the Fate of the Fact
+American politics: The art of losing
 
-How Paul Celan Reconceived Language for a Post-Holocaust World
+Afghanistan: Leaving too soon
 
-Briefly Noted Book Reviews
+Sovereign debt: A better way not to pay
 
-What Does Trump Get Out of Contesting Biden’s Win?
+Race and health: Wanted: more data
 
-“The Old Man in the Piazza”
+The second cold war: The China strategy America needs
 
-How a Deadly Police Force Ruled a City
+Letters to the editor: On the American election, Turkey, Thailand, a proverb, “Hamilton”
 
-A Three-LP Set of Sonny Rollins, Liberated from the Studio
+Global technopolitics: The new grand bargain
 
-Royal Competition in “The Crown”
+The White House: To the bitter end
 
-A Philadelphia Local Is Unamused by the Fuss
+Missile defence: De profundis ad astra
 
-“We Feel Now a Largeness Coming On”
+Political donors: My Kochtopus teacher
 
-“Back from the Cannery”
+The future of diplomacy: Altered State
 
-First Lines of Rejected “Modern Love” Essays
+Corruption in the Midwest: All about power
 
-Eleven Madison Park’s Foie-Gras-Stuffed Chicken To Go
+Cemeteries: Black tombs scatter
 
-“Mank” and the Making of “Citizen Kane”
+Charters and covid-19: Crash courses
 
-Cazzie David’s Existential Dread
+Lexington: Audacious and obstructed
 
-The Mystery of the 7 Train’s Broken Windows
+Mexico: Smoke and legislators
 
-Content from the New Yorker website</dc:description>
+Ecuador: Piscine plunder
+
+Bello: The politics of destruction
+
+Afghanistan: Guns and poses
+
+Health care in Japan: Technological stunting
+
+Politics in Pakistan: A mountain to climb
+
+Islamophobia in India: Can you foil the love tonight?
+
+Abortion in South Korea: Pleasing no one
+
+Banyan: Quad stretches
+
+Joe Biden’s China policy: To a different tune
+
+The next China team: Second-chance saloon
+
+Chaguan: No more love letters
+
+Ethiopia’s civil war: The march to Mekelle
+
+Cattle rustling in South Africa: Where’s the beef?
+
+Mental health in Kenya: Shackling body and mind
+
+Iran in Africa: Looking for the next target
+
+Doctors in the Middle East: Out of practice
+
+Turkey’s economy: On the edge
+
+Bosnia-Herzegovina: Dayton at 25
+
+Climate politics in Germany: Green on green
+
+Moldova’s election: The Sandu surprise
+
+Charlemagne: The rainbow curtain
+
+Constitutional reform: The executive unchained
+
+Environmentalism: The selfish green
+
+Foreign aid v diplomacy: Shotgun wedding
+
+Mass testing: Scouse lessons
+
+Bagehot: A modern Machiavelli
+
+Race and health: Far from equal
+
+Taiwan Inc in China: Scaling back
+
+German business: Pride and prejudice
+
+Walmart: Beastly earnings
+
+Initial pandemic offerings (2): Mouth-watering
+
+Initial pandemic offerings (1): Public holidays
+
+Bartleby: How to play the board game
+
+Schumpeter: Wring out those Bells
+
+Sovereign debt: Roll up, roll up and write down
+
+RCEP: Big deal
+
+Tax evasion: Court controversy
+
+Retail banks: Bye bye America
+
+Buttonwood: Sand in the gears
+
+China’s bond market: No guarantees
+
+The velocity of money: Changing down
+
+Shareholder litigation: Setting precedents
+
+Free exchange: Tragic rerun
+
+Aerial combat: Virtual mavericks
+
+Space exploration: Mandate of heaven
+
+Astronomy: Colliding stars
+
+Covid-19 vaccines: And then there were two
+
+Evolution: Cutting out the middle man
+
+Beethoven at 250: Ninth lives
+
+Anthropomorphic fiction: Four legs good
+
+Derring-do: Clouds of glory
+
+Globalisation: Ports in a storm
+
+Evil incarnate: Sexy beast
+
+Economic data, markets and commodities
+
+Technique in golf: Consultants of swing
+
+Jonathan Sacks: Words against noise
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
         <dc:publisher>calibre</dc:publisher>
         <dc:language>eng</dc:language>
         <dc:subject>新闻</dc:subject>
-        <dc:subject>New Yorker Magazine</dc:subject>
+        <dc:subject>The Economist</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-11-20T01:04:32.244344+00:00"/>
-        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+        <meta name="calibre:timestamp" content="2020-11-20T01:09:28+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>
