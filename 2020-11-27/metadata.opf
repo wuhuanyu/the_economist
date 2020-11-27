@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">632</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d449464-5a21-4187-a90e-e1e86ea6c80f</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-27T01:20:01.415779+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Democracy contains the seeds of its own recovery: The resilience of democracy
+
+Covid-19’s corporate winners and losers: What doesn’t kill you
+
+Ethiopia: Preventing war crimes
+
+Fiscal stimulus: The right kind of discipline
+
+Covid-19 and school exams: Papers, please
+
+Agriculture in Britain: Ploughing its own furrow
+
+Letters to the editor: On covid testing, Germany, women's suffrage, free speech, rock stars, Singapore, trains, bitcoin
+
+Democracy in India: Subcontinental drift
+
+The covid-19 vaccines: Grabbing a cold one
+
+The virus and the heartland: View from the ICU
+
+Team Biden: In transit
+
+The other transition: Miss gender
+
+Obscure laws: Panic attacks
+
+Lexington: The end of the embarrassment
+
+Venezuela: They’re going to win, by a lot
+
+Diego Maradona: Divine and damned
+
+Bello: The future of bolsonarismo
+
+Rule of law in South Korea: Prosecution complex
+
+Sri Lanka’s Tamils: The war within
+
+Crime in Singapore: A city reels
+
+India and Pakistan: Shell game
+
+Banyan: Hurly-barley
+
+China studies: Barriers to Sinology
+
+Television entertainment: Loaded questions
+
+Chaguan: Patriotism before profit
+
+American policy in the Middle East: You’re sanctioned!
+
+Israel and Saudi Arabia: The not-so-secret alliance
+
+Uganda’s election: Bullets before the ballot
+
+Nigeria: It’s all in the script
+
+Migration from west Africa: Africa’s do-or-die boat people
+
+The Sweden Democrats: On their way in
+
+Swedish gang violence: Segregated cities
+
+Sicily and EU cash: No cosying up to Cosa Nostra
+
+France and Germany: War of words
+
+Poland: Disco populism
+
+Charlemagne: Newtonian Europe
+
+Public spending: A combustible mix
+
+Potholes: Revolutionary roads
+
+Covid-19 vaccines: Emergency exit
+
+Farming after Brexit: Fresh fields and pastures new
+
+Bagehot: Sunak’s secret self
+
+Exams and covid-19: Testing, testing
+
+Live events: The roar of the crowd
+
+Publishing: Book-binding
+
+Shopping frenzies: Fade from black
+
+The attention economy: You’ve been botted
+
+Diversity consulting: All inclusive
+
+Bartleby: Winter is coming
+
+Schumpeter: The climate centurion
+
+Christine Lagarde: Culture shock
+
+Janet Yellen: Something for everyone
+
+Buttonwood: Home-schooled
+
+Stimulus in America: A clash over cash
+
+Personal debt in China: Overdue action
+
+Money transfers: Intrepid banking
+
+Free exchange: An unbalanced debate
+
+The coronavirus pandemic: Another covid-19 vaccine joins the party
+
+Sterilising medical instruments: Sunlight is the best disinfectant
+
+Palaeontology: Nursery days
+
+Children’s car seats: Berth control
+
+The death of Arecibo: Si monumentum requiris respicite
+
+The underworld of empire: Brothers in arms
+
+Historical fiction: Cops and plotters
+
+Creatures of the deep: Thar she blew
+
+Lives of the composers: Too beautiful
+
+Johnson: Average Joe
+
+Economic data, markets and commodities
+
+Covid-19 and lockdowns: Second act
+
+Jan Morris: Unaltered states
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-27T01:20:08.993310+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
