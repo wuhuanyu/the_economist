@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">635</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74066f02-1260-4799-835d-f42793314ac3</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-04T01:33:09+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Energy: Make coal history
+
+Belarus: The colours of terror
+
+Health care: Alive and kicking
+
+America and Iran: Towards a better nuclear deal
+
+“The Crown”: Uneasy lies the head of production
+
+On Afghanistan, diplomats, Hong Kong, the Democrats, the colour black, hipsters: Letters to the editor
+
+Coal’s endgame: Crushing it
+
+The Taiwanese economy: Tiger balm
+
+Inequality in India: Compounding
+
+Coal and climate in Australia: Losing seam
+
+Indonesian politics: Son set
+
+Ungulates in Japan: Hungry for visitors
+
+Banyan: Death of a novelist
+
+The coastguard: Great white hulls
+
+Where the party wants him: Jailings in Hong Kong
+
+Housing in Hong Kong: Phew, no democrats
+
+Chaguan: The downside of bullying
+
+The economy: You must believe in spring
+
+Campaign financing: Not for sale
+
+Corporate transparency: Shell collecting
+
+Water: With the lead piping
+
+America’s spies: Shadow business
+
+Lexington: Jake Sullivan to the rescue
+
+America and Iran: Back to the future
+
+Burundi and Tanzania: No haven
+
+Ethiopia’s civil war: Victory, defeat and confusion
+
+Nigeria: Death in a rice field
+
+Cuba: The art of dissent
+
+Canada: Alberta goes green
+
+Bello: The man without a plan
+
+Belarus: A new country struggles to be born
+
+Turkey: Picking up the pieces
+
+France: A screeching U-turn
+
+Dutch populism: On the Chopin block
+
+Charlemagne: To ski or not to ski?
+
+The National Health Service: Unleashed
+
+Trans rights: Bellwether?
+
+The Brexit endgame: How late it was, how late
+
+Eastern European migration: Farewell to all that
+
+Cyber defence: Use the force
+
+Retailing: Shopocalypse
+
+Bagehot: Tidying Boris up
+
+The modern household: Nuclear retreat
+
+Health care and technology: The dawn of digital medicine
+
+Pandemic gastronomy: Malls’ last stand
+
+Carmaking: In the hot seat
+
+Exchange-traded fiends: Boiling point
+
+Business software: Get me some Slack
+
+Chinese hoteliers: Hospitable climate
+
+Stakeholderism: Swiss miss
+
+Bartleby: Managing by Zooming around
+
+Schumpeter: Feathering its own Nestlé
+
+Ping An: Metamorphosis
+
+Financial-market data: Go figure
+
+Joe Biden’s advisers: Top picks
+
+Buttonwood: The ABC of the euro zone
+
+Music rights: Tuning in
+
+India’s market rally: Dramatic disconnect
+
+Free exchange: The disintermediation dilemma
+
+Computational biology: The shapes of things to come
+
+Space flight: Tally ho!
+
+Sustainable fishing: The ones that got away
+
+Vaccine safety: An injection of urgency
+
+Books of the year: Cold comforts
+
+Books by Economist writers: Private passions
+
+Economic data, commodities and markets
+
+Vaccines and stockmarkets: What goes up
+
+Diego Maradona: A boy and a ball
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-04T01:33:17+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
