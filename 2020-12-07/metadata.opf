@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">640</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e369a48c-af17-4af1-9003-0ef33ed03fc3</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-11T01:32:03.418087+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The world economy: Will inflation return?
+
+Brexit trade negotiations: Last tango in Brussels
+
+The IPO boom: Capital idea
+
+Transgender medicine: First, do no harm
+
+The music industry: Knock-knock-knockin’ on Jody’s door
+
+On race data, Galicia, epidemiology, Bosnia, companies, Jonathan Sacks, China: Letters to the editor
+
+Inflation: Prognostication and prophecy
+
+Covid-19 in Japan: 3C epiphany
+
+Suicide in South Korea: Deepening despair
+
+Nature conservation in Thailand: Unshellfish love
+
+Policing in the Philippines: Beatings v shootings
+
+Banyan: Cosplaying nice
+
+Rohingya refugees in Bangladesh: Club Mud
+
+Exporting Xi Jinping thought: How the party trains foreign politicians
+
+Club culture: A different beat
+
+Chaguan: China doubles down in Xinjiang
+
+Black Lives Matter: The George Floyd effect
+
+African-American businesses: Capital punishment
+
+The never-ending election: Final countdown
+
+The urinal is political: Where have all the toilets gone?
+
+Anti-Semitism accusations: Here today, zone tomorrow
+
+The Fort Hood report: A look under the Hood
+
+Economic policy: Picking a package
+
+Lexington: When America and China went to war
+
+Nicaragua: Seeing off a strongman
+
+Cuba: Udder delight
+
+Bello: Natural and political disasters
+
+Mining’s toxic legacy: Lead astray
+
+Ghana’s election: Skirt and blouse
+
+The boycott of Qatar: Bridging the Gulf
+
+The Yazidis: Divided, oppressed and abandoned
+
+Football: The most racist club in Israel...
+
+Covid vaccines: Coming soon
+
+Germany and covid-19: In vino, virus
+
+France and Islamism: The republic strikes back
+
+Italy: Unchained Meloni
+
+Romania’s election: Diluting the cleanser
+
+Charlemagne: Republic of cranks
+
+Brexit: Fade to grey
+
+Regulating technology: Injection of confidence
+
+Culture wars (1): Roads must fall
+
+Culture wars (2): New school rules
+
+Covid-19: Out of sight
+
+The environment: Chasing rainbows?
+
+The Shetland Islands: Carrion call
+
+Trans rights: Boys and girls
+
+Corporate balance-sheets: A year of raising furiously
+
+Big tech and antitrust: Battle commences
+
+Bartleby: Fair play
+
+Information technology: Hitting the reset button
+
+Commercial arbitration: The case of the disappearing cases
+
+Self-driving cars: Spinning off
+
+Schumpeter: Dirigiste? Moi?
+
+Productivity trends: Reasons to be cheerful
+
+Buttonwood: C’mon feel the noise
+
+Oil production: Opening the taps
+
+Mexico’s unbanked: Bringing Mexicans to account
+
+Climate finance: Counting the carbs
+
+Free exchange: A question of illumination
+
+Hydrogen-powered flight: If at first you don’t succeed...
+
+Sonic warfare: A megamegaphone
+
+The fiery end of SN8: SpaceX's latest launch
+
+Gene therapy: Eyeball to eyeball
+
+Bees versus hornets: The uses of dung
+
+American extremism: Fear and loathing
+
+Intellectual history: Pleasure principles
+
+Johnson: Eiffel power
+
+Contemporary art: The room where it happens
+
+Economic data, markets and commodities
+
+Economic research: Starving for knowledge
+
+Chuck Yeager: Mechanic to hero
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-11T01:32:11.714383+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
