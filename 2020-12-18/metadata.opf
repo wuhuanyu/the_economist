@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">643</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">936abbe7-5bac-44aa-86e4-40fbea68752b</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.7.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-18T01:27:57.045306+00:00</dc:date>
+        <dc:description>本期文章:
+
+The world this year
+
+KAL’s cartoon
+
+Covid-19 in 2020: The plague year
+
+Targeting big tech: Credibility gap
+
+Children: Getting girlhood right
+
+The Arab world: Ten years after the spring
+
+Country of the year: Admiration nation
+
+Letters to the editor: On farming, books, aerial combat, Latin, Machiavelli, diversity, Ireland, the turkey
+
+The final Senate races: The decider
+
+Covid-19 in New York: The Holly and the UV
+
+Cyber-security: Bear hunt
+
+Schools and covid-19: Lesson learned
+
+Lexington: Good neighbours
+
+Brazil: Awaiting their fate
+
+Cuba: From distortion to disruption
+
+Expatriates in Asia: Shipping out
+
+Preserving Yangon: In with the old
+
+Banyan: A lonely furrow
+
+Sexual harassment: Refusing to be silent
+
+Human rights: Proxy war
+
+The Arab spring at ten: No cause for celebration
+
+Iran: Go hang
+
+Western Sahara: Heat in the desert
+
+Kidnapping in Nigeria: The lost boys of Kankara
+
+Congo’s gold rush: Beer, brothels and broken dreams
+
+The Vatican’s finances: Falling on hard times
+
+The European Union budget: Locked and loaded
+
+Health care: Flight of the white coats
+
+Azerbaijan’s ghost towns: Bitterness prevails
+
+Charlemagne: Sprechen Sie Tory?
+
+Negotiations with the EU: An extra mile, a narrow path
+
+Brexit-related disruption: Lorrypolitik
+
+Heathrow expansion: Cleared for take-off
+
+Animal welfare: The pet offensive
+
+Bagehot: The wisdom of Scrooge
+
+Waste-pickers: Down in the dumps
+
+Newsletters: Season’s greetings!
+
+Rural France: Fragments from a forgotten valley
+
+Bloodsuckers: History, written by the vectors
+
+Sidney Street: The one that got away
+
+Digital humanities: The book of numbers
+
+Sadie Tanner Mossell Alexander: The Alexander technique
+
+Shingle art: A universe of stones
+
+Essay: Awesome, weird and everything else
+
+Erasmus: Citizen of the world
+
+South Korean mountains: Race to the top
+
+Crossword, etc: Cryptic and coniferous
+
+Quiz: Try our Christmas quiz
+
+Gay rights: A queer old tale
+
+Travels in Zululand: Trust deficit
+
+Extraterrestrial hiking: A short walk in Gale crater
+
+Economies past: Factories and families
+
+Shaolin monastery: The profession of renunciation
+
+Reconstruction: Revolutionary embers
+
+Military deception: Bodyguard of lies
+
+Pleistocene Park: The prophet of permafrost
+
+Big oil: Brown v broad
+
+Cinema and streaming: Big bets on the small screen
+
+Bartleby: Straight talking
+
+Schumpeter: The parable of Ryanair
+
+High-tech finance: Quantum for quants
+
+Market mania: Froth or fundamentals?
+
+Counterfactual economics: Panned
+
+Free exchange: Location, location, location
+
+The highest fidelity: An auricular spectacular
+
+Evolution and agriculture: Good catch
+
+Data storage: Re-record, not fade away
+
+Poetry on the Tube: Tunnels of love
+
+Winter weather: The white stuff
+
+Economic data, commodities and markets
+
+The media and covid-19: The biggest story ever?
+
+We’re hiring full-time and trainee data journalists
+
+John le Carré: The watchful scribbler
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-18T01:28:06.674017+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
