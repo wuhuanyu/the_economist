@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">659</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65aa729e-6be8-47d9-ab04-f076038dfe61</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-03T02:38:09.482521+00:00</dc:date>
+        <dc:description>本期文章:
+
+The world this week
+
+KAL’s cartoon
+
+Letters to the editor: On Eastern Airlines, families, coal, potholes, Bob Dylan
+
+Foreign policy after Brexit: Britain’s place in the world
+
+Investing in infrastructure: Infrastruggles
+
+Covid-19: The tunnel gets darker
+
+Digital government: Online onslaught
+
+The online boom: The future of global e-commerce
+
+Britain and the world: Amazing journey?
+
+Fiscal stimulus: A hairy moment
+
+The opioid epidemic: Looking the other way
+
+Presidential power: All the president’s pardons
+
+The Zoom tax: Start spreading the dues
+
+America’s population: The great slowdown
+
+Lexington: Play it again, Lamar
+
+US-Mexico relations: Insecure
+
+Canadian cuisine: No source for soy
+
+Vaccination in Argentina: Sputnik’s orbit
+
+Chilean wine: Label your libation with loving lustre
+
+Digitising government in Japan: Update required
+
+The Durand Line: A big beautiful wall
+
+The rat trade in South-East Asia: Hamper scamper
+
+Muslims in Sri Lanka: Unwanted, dead or alive
+
+Banyan: Dazed and Confucius
+
+Economic development: The fruits of growth
+
+Jailed for virus vlogging: A witness silenced
+
+Chaguan: Folk dances and labour camps
+
+Conflict in the Horn: The widening war
+
+Saudi Arabia: Wheels of injustice
+
+Repression in Uganda: An undemocratic vote
+
+Israeli politics: Sa’ar wars: a New Hope
+
+Algeria: Home at last
+
+Germany after Merkel: Tough act to follow
+
+The Brexit deal: How was it for EU?
+
+Russia’s secret police: Caught with their pants down
+
+Charlemagne: Canning’s law
+
+The Brexit deal (1): Britain’s Swiss role
+
+The Brexit deal (2): No longer in Rome
+
+The Brexit deal (3): The Irish Sea widens
+
+Covid-19 vaccines: Now for the rocket boosters
+
+How it happened: When the music stopped
+
+Human rights: No time to give up
+
+The future of e-commerce: The great mall of China
+
+Online competition: Mo money, Ma problems
+
+Telecommunications: The $90bn prize fight
+
+Podcasting: Sound investments
+
+Bartleby: Tough breaks
+
+The infrastructure infatuation: In the works
+
+America’s jobs market: Speed limits
+
+Free exchange: A bug problem
+
+Covid-19: Variations on a theme
+
+Toxicology: Double indemnity
+
+Recycling: From Clochemerle to a compost heap
+
+After the pandemic: The big picture
+
+Ethiopian music: The beat goes on
+
+Johnson: Nice weather we’re having
+
+Economic data, markets and commodities
+
+Forecasting 2021: Stars in their eyes
+
+Barry Lopez: Man and mystery
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-03T02:38:16.823049+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
