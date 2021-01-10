@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">663</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d10cd02-8a3e-47af-82a5-1f044f45d4cb</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-08T04:21:31.400368+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+American politics: Trump’s legacy
+
+The pandemic: Who gets the jab?
+
+Cryptocurrencies: If you can’t beat them
+
+Encyclopedias: Diderot’s dream
+
+Dealing with China: Advantage, Beijing
+
+Democracy in Africa: Time out
+
+Letters to the editor: On military deception, Singapore, Christian Democrats, big tech, Cuba, accents, banking
+
+Vaccinating the world: The great task
+
+The Republican Party: After the insurrection
+
+Georgia’s run-off elections: So sweet and clear
+
+American policy and the Uyghurs: Working on the chain gang
+
+Abortion in Latin America: Green wave, blue breakwater
+
+Bother in Barbados: Rum punch and the pandemic
+
+Private schools in India: Permanently excluded
+
+Parliamentary elections in Kazakhstan: Five different ways to applaud
+
+Banyan: Cosmic wobbles
+
+Islam in Japan: Hiji hajis
+
+Hong Kong: Cut down in the primary
+
+Female comedians: A woman walks into a bar
+
+Chaguan: Winners and losers
+
+South Africa: Bourgeois blues
+
+Egypt’s trade with Africa: Monkey business
+
+War and sport: A shot at peace
+
+The Gulf: The Arabs get back in line
+
+Syrian refugees: Here to stay, however miserable
+
+Transatlantic relations: Putting it back together again
+
+Spain’s government: Frenemies on the left
+
+Gibraltar: Between a rock and a softer place
+
+Greece: Laptops at the ready
+
+The Dutch monarchy: Bruised Oranges
+
+Charlemagne: The clown ceiling
+
+Covid-19: Racing the virus
+
+Losing digital privacy rights: Chlorinated Facebook
+
+EU citizens: Remainers
+
+Political attitudes: That sinking feeling
+
+Refugees: Locked out
+
+Fishing rights: Coming up empty
+
+Bagehot: Patience wins
+
+Wikipedia at 20: The other tech giant
+
+A hundred years of bright ideas: The liberation of light
+
+Solar power: Gradually, then all at once...
+
+Information technology: Cosmos, meet commerce
+
+Lasers: Outshining the sun
+
+Advancing science: New enlightenments
+
+Deutschland AG in China: Riding high
+
+America v China Inc: NYSE knowing you
+
+Carmaking: A Stellantis is born
+
+Rekindling corporate nuptials: An M&amp;A revival
+
+Oil exploration: Thanks, but no thanks
+
+Corporate charity: Giving and taking
+
+Bartleby: Network effects
+
+Schumpeter: The game goes on
+
+The markets in 2021: Melting up
+
+Buttonwood: The lion sleeps tonight
+
+Bitcoin zooms: Crypto-conversion
+
+Divining water risk: An expanding pool
+
+China’s stockmarket: Bring out your dead
+
+The world economy: Covid-10trn
+
+Free exchange: Social studies
+
+The future of armed conflict: Warfare’s worldwide web
+
+The origin of dogs: Woof! Woof!
+
+Oceanic cartography: Full fathom five
+
+Traditional medicine: Treating forgotten killers
+
+The Richard Casement internship
+
+Authenticating art: Computer says no
+
+The Cultural Revolution: Changing the guards
+
+Arctic explorers: Northern exposure
+
+The Troubles: Close quarters
+
+British fiction: Memory lane
+
+Economic data, commodities and markets
+
+Wikipedia: A rich-world Wikipeak
+
+Agitu Gudeta: The milk of human kindness
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-08T04:21:39.082841+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
