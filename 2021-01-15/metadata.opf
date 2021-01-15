@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">671</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b28112bb-01df-4a78-bd06-0c99c629bb0b</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-15T01:26:13.399049+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Impeachment: The reckoning
+
+Innovation: The roaring 20s?
+
+Social media and democracy: The sound of silence
+
+Governing India: Reaping what you sow
+
+Decluttering low-Earth orbit: New brooms needed
+
+Letters to the editor: On Brexit, inflation, girls, content analysis, the Dutch royal family, rats, Republicans
+
+The economics of government R&amp;D: Molecules, missions and money
+
+Donald Trump’s presidency: The final chapter
+
+Tech and politics: Said the spider to the fly
+
+Violence in cities: Where bullets fly
+
+Minor-league baseball: Trouble on the farm
+
+Texas politics: Stars and gripes
+
+Lexington: Conscience of some conservatives
+
+Biden and Latin America: A shift of gears
+
+Carmaking in Brazil: Driven away
+
+Royalty in Indonesia: Strutting sultans
+
+Child abuse in the Philippines: Sex with 12-year-olds
+
+Kyrgyzstan’s election: Steppe one
+
+Agriculture in India: Ploughing on
+
+Afghanistan’s bored young: A war over Battlegrounds
+
+Banyan: Bonfire of the protocols
+
+Village elections: Why bother counting?
+
+Dissent in Hong Kong: Masked defiance
+
+Chaguan: The stigma of covid-19
+
+Vaccination in the Gulf: Made in China
+
+Saudi Arabia: The Line in the sand
+
+Sticky authoritarianism: The ghetto strikes back
+
+Animating Africa: Move over, Superman
+
+France: Colour vision
+
+Italy: Just what they didn’t need
+
+Germany’s Christian Democrats: Three men in a Rhineland boat
+
+Covid-19 and repression in Turkey: One man’s terrorist
+
+Greenland: Cloud mining
+
+Charlemagne: Cyberpunked
+
+The economy after Brexit: Not with a bang but a whimper
+
+Rolling out the vaccine: Quick jabs
+
+Hospitals: Long covid
+
+Covid-19 genomics: An unusual sequence of events
+
+The Labour Party: Learning from Joe
+
+The civil service: The blob won
+
+Contemporary art: Wall power
+
+Bagehot: Trump? Don’t think I know him
+
+Democracy: Madison’s nightmare
+
+Business and technology: Bearing fruit
+
+Corporate China: A chill descends
+
+Antitrust in America: Visa-free travel
+
+Carmakers and big tech: Steel and silicon
+
+Bartleby: Creatures of habit
+
+Social media in America...: Capitol gains
+
+…and in China: Feuding film stars
+
+Brands: Rolling in it
+
+Schumpeter: Refashion model
+
+The global economy: Relapse and recovery
+
+Surging commodities: The mountaineers
+
+Buttonwood: Bucket list
+
+Emerging markets (1): A peak conquered
+
+Emerging markets (2): Joining the fray
+
+The Big Mac index: Out of joint
+
+Free exchange: It’s a bot time
+
+Jobs at The Economist: We’re hiring
+
+Space flight: The dustman cometh
+
+Space-age materials: Hardy, non-perennial
+
+Bacteriophages: A hitchhiker’s guide to the microverse
+
+Thieving monkeys: Name your price
+
+Repurposing drugs: A pair of aces
+
+The aftermath of power: Conversations with a weirdo
+
+Innovation and the state: Fly me to the Moon
+
+A novel of the “dirty war”: Unquiet ghosts
+
+Johnson: Fight like hell
+
+Economic data, markets and commodities
+
+Nutrition and health: The meat spot
+
+Brian Urquart: The thin blue line
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-15T01:26:31.669086+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
