@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">675</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b292273-bc0a-49d9-a457-893e99ec3812</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-22T01:22:54.313410+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The Biden presidency: Morning after in America
+
+Technology and geopolitics: Betting all the chips
+
+Vaccination: A marathon ahead
+
+Russia: The return
+
+Ethiopia’s civil war: Wielding hunger as a weapon
+
+Letters to the editor: On vaccination, primaries, bannock, malaria, Malawi, conversation, potatoes
+
+The 46th presidency: Good luck, Joe
+
+Schools and covid-19: Slight return
+
+Educating minority students: Obstacle coursework
+
+Vaccinating America: Here’s how
+
+Pennsylvania politics: The four-point touchdown
+
+The gun lobby: In the line of fire
+
+The death penalty: Final throes
+
+Lexington: Back to the future
+
+Canada: Careless behaviour
+
+Brazil: A second wave of misery in Manaus
+
+Inoculating Asians against covid-19: A call for arms
+
+Assassinations in Afghanistan: Negotiating with terrorists
+
+Politics in Vietnam: Hammered and sickled
+
+Anime films in Japan: Record slayer
+
+Banyan: Pastoral care
+
+Relations with America: Xinjiang’s shadow
+
+Social media: Wolf taming
+
+Chaguan: Seizing the moment, cautiously
+
+Ethiopia: War and hunger
+
+Congo’s coltan smugglers: Dodging the “Obama law”
+
+Equatorial Guinea and the IMF: Who will blink first?
+
+Qatar and Turkey: The special relationship
+
+Iran: The not-so-Shia state
+
+Tunisia: Free but fed up
+
+Egypt: Hot cakes
+
+Russia: Into the lion’s den
+
+Germany’s Christian Democrats: Steady, as she goes
+
+Arms control: Grounded
+
+The Dutch welfare state: The fraud that wasn’t
+
+Poland: How clams fight pollution
+
+Charlemagne: Lessons from the vaccine race
+
+Vaccination politics: Restoring the faith
+
+Working from home: Spread of the shed
+
+Covid-19: Papers, please
+
+Schools and lockdown: Steep learning curve
+
+Brexit and telecoms: The right to roam
+
+Brexit: Going off
+
+Retail: The wrong kind of sales
+
+Bagehot: Think small
+
+Messaging services: Global grapevines
+
+Chinese youth: Generation Xi
+
+The rural-urban divide: Homecoming
+
+Patriotism and the party: Partygoers
+
+Subcultures: How to rebel in China
+
+Views of the world: A bale of sea turtles
+
+Values, identity and activism: The lives of others
+
+Children of the revolution: Circling the square
+
+Semiconductors: A new architecture
+
+Bartleby: Hear, hear
+
+Carmaking: Electric shock and awe
+
+Business schools: The class of covid-19
+
+Schumpeter: Sberbank’s second pirouette
+
+America’s recovery: Fire without fury
+
+Inflation: Bottlenecks
+
+Wall Street’s banks: Topsy turvy
+
+China’s economy: Southern tiger
+
+Cross-border crime: Tilting the scales
+
+Buttonwood: University challenge
+
+Free exchange: Hard lessons
+
+Covid-19 vaccines: The time has come
+
+Chinese covid vaccines: Shots in the dark
+
+Aquaculture: Godzilla the rotifer
+
+Making oxygen: Magnetic moment
+
+Mice: Country bumpkins and city slickers
+
+Human capital: Trouble in the country
+
+American foreign policy: Satan’s slips
+
+Protest art: Walls have eyes
+
+Twisted genius: The lives of others
+
+Economic data, commodities and markets
+
+Vaccination: Gift of the jab
+
+Two voices of sanity: Counsels of imperfection
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-22T01:23:13.901079+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
