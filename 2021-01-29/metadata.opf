@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f09ebd72-8ac0-4020-a33d-721db6cdc5e2</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-30T14:24:17.854505+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Arms control: Who will go nuclear next?
+
+Europe’s lockdown: Shot in the foot
+
+World trade: The folly of Buy American
+
+The Palestinians: Time for Abbas to go
+
+America in Asia: Free not to choose
+
+Letters to the editor: On Donald Trump, Lincolnshire, Switzerland, Erasmus
+
+Nuclear proliferation: Who’s next?
+
+The Biden administration: Ctrl+Z
+
+Vaccinations: Access denied
+
+Pickleball: The new, old thing
+
+Impeachment 2.0: Getting away with it
+
+Trans women in prisons: Prisoners’ dilemma
+
+Off-piste skiing: Lifts-off
+
+Lexington: QAnon and other delusions
+
+Ecuador: A worrying windfall
+
+Colombia: Bootleg bonanza
+
+Asia and America: Relief tinged with scepticism
+
+Mongolia: Snowflake surrender
+
+Japanese politics: Suga slumps
+
+Organised crime: Ice lord
+
+Banyan: Hard to account for
+
+Trade-union reform: Precariat unite!
+
+African students: School’s out
+
+Chaguan: Becoming more Chinese
+
+The Palestinians: To the polls
+
+Morocco: Sex, lies and videotape
+
+African diets: Feast and famine
+
+Mining in Africa: A tale of two billionaires
+
+Europe’s vaccine rows: Shots fired
+
+Vaccinations in France: Pasteur’s lament
+
+Italy: Going, going…
+
+Germany: Wheezing
+
+Turkey: A cult leader gets 1,000 years in jail
+
+Charlemagne: Eastern Europe’s brain gain
+
+Scotland: Searching for the exit
+
+Language: Learning the drill
+
+Trade deals: Nice work
+
+Great Britain and Northern Ireland: Madness at the border
+
+Hong Kong: Give me your wealthy
+
+Halting infections: Dirty stop outs
+
+Space plans: Unst, we have a problem
+
+Bagehot: Party of colour
+
+Risk-taking: Last of the daredevils
+
+Family firms: Mittelstand-off
+
+Sverige AB and China: Stockholm syndrome
+
+Big tech’s banner year: Apple’s quarterly sales exceed $100bn for the first time
+
+Online media: Big tech down under
+
+Middle Eastern commerce: Abrahamic profits
+
+Starbucks: Espresso lane
+
+Oil-services firms: Will baby drill?
+
+Job titles: Hail to the “chiefs”
+
+Bartleby: You’ll often walk alone
+
+Schumpeter: The state bird of Washington, DC
+
+China’s property market: The great escape
+
+Belt-tightening: Acting less big
+
+Buy American: Building block
+
+Market mania: Will the GameStop?
+
+Buttonwood: Time warp
+
+Indian banking: Can cannot be kicked further
+
+Free exchange: The fight over fifteen
+
+Competition and innovation: TV’s tech wars
+
+Television audio: In your face
+
+Cell cultures as pet food: Try it on the dog
+
+Immigration: The best of both worlds
+
+Johnson: Stress tests
+
+Geography and history: Heave-ho
+
+Music in space: We are the world
+
+Economic data, commodities and markets
+
+Air pollution: Midnight sky
+
+Hank Aaron: Hammering through
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-30T14:24:25.079927+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
