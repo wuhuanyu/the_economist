@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">683</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b45877a1-d554-475b-85cf-e51199b5acab</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-04T22:05:51.160504+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Global finance: The real revolution on Wall Street
+
+Fiscal stimulus in America: How much is too much?
+
+Despots v democrats: The meaning of Myanmar’s coup
+
+Brexit and the City: The price is wrong
+
+Disease and development: Africa’s long covid
+
+Letters to the editor: On Ethiopia, vaccine passports, space debris, Wikipedia
+
+Myanmar’s coup: Reversion to type
+
+California v Texas v covid-19: Life, liberty
+
+School enrolment: Vanishing act
+
+Unions and schools: Class warfare
+
+Covid-19 relief, episode 6: Stimulating talks
+
+Abortion arguments: Roe-ing back
+
+Lexington: The courage of Adam Kinzinger
+
+Colombia: The terrible truth
+
+Elections in Latin America: More mice than Mussolinis
+
+Bello: A grand bargain
+
+Defending South Korea: Strengthening the shrimp
+
+Insularity in Japan: Home, sweet home
+
+Asian corporate culture: Here’s my QR code
+
+Free speech in India: Prevention is better than cure
+
+Banyan: The shock of the old
+
+Ideological battles: Red Guards, redux
+
+Syllabus reform: Young at art
+
+Chaguan: Of sickness and homesickness
+
+Africa and covid-19: At the end of the line
+
+Israeli politics: A sea of trouble
+
+Algeria’s car shortage: Broken-down country
+
+Honour killings: Murder, plain and simple
+
+Italy: Send in the technocrats, again
+
+Russia: A mockery of justice
+
+Nord Stream 2: Running out of gas?
+
+Sweden: Solitary cinema
+
+Charlemagne: Looking for someone to blame
+
+Brexit: The view from the City
+
+Spirit of the age: Captain Sir Tom Moore
+
+Northern Ireland: Two dangerous borders
+
+Covid-19: Hancock’s hour
+
+Country life: Killing fields
+
+R&amp;D: Blue skies ahead
+
+The national mood: Why the long face?
+
+Bagehot: Riding high
+
+The future of nightclubs: Don’t stand so close to me
+
+The future of Amazon: Life after Jeff
+
+Carmaking: Driving apart
+
+Chinese firms abroad: Too close to the sun
+
+Feuding tech giants: Cook v Zuck
+
+Football TV rights: Goalless defeat
+
+Bartleby: Talent management
+
+Schumpeter: The long squeeze
+
+Retail investing: Transfer of power
+
+The new intermediaries: Pay-per trade
+
+WallStreetBets: Meme team
+
+China’s capital outflows: Border crossings
+
+Wirecard: After months of dithering...
+
+Buttonwood: Shark attack
+
+Free exchange: The natural question
+
+Making vaccines: Doing the do
+
+Viral variants and vaccination: Enigma variations
+
+Daughters and divorce: Teenage rampage
+
+Marine ecology: Plastic oases
+
+The origin of land animals: Getting a leg up
+
+France’s shame: Open secrets
+
+Urban turmoil: Tales of the city
+
+Eco-fiction: Sea change
+
+The death of age: Who wants to live for ever?
+
+Proust and the people: The time of their lives
+
+Economic data, commodities and markets
+
+Stockmarkets: Sweet memes are made of this
+
+Nikolai Antoshkin: At war with the invisible
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-02-04T22:06:22.304622+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
