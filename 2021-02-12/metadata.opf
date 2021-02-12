@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">687</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebcde307-f63d-4b95-ae75-b6e97be7c2e9</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-12T01:08:56.325478+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+The pandemic: How well will vaccines work?
+
+The world economy: Inflategate
+
+Human rights: How to talk about Xinjiang
+
+Reducing child poverty: An end to exceptionalism
+
+Life, the universe and everything: Alien dreams
+
+On Scotland, GameStop, markets, innovation, primaries, baseball, Rizlas: Letters to the editor
+
+Vaccine efficacy: Obstacle course
+
+Vaccine hesitancy: Broken arrow
+
+Astrobiology: Come out, come out, wherever you are!
+
+Congress: Swing voters
+
+Social media and anti-vaxxers: Likes and protein spikes
+
+Election administration: Count-22
+
+Presidential libraries: The shrining
+
+Oregon’s drugs policy: Trail blazers
+
+America and China: Genocide aside
+
+Lexington: Speak easy
+
+Cuba and Venezuela: Practically perfect
+
+Colombia: Activists amid anarchy
+
+Bello: Ecuador’s politics of the negative
+
+The Tokyo Olympics: Olympic gory
+
+Protests in Myanmar: Don’t putsch me
+
+Banyan: Cool it or blow?
+
+Bangladesh’s army: Wallets at the ready
+
+Noise complaints in South Korea: Hell is other people
+
+Geopolitics in the Pacific: Palm-fringed fury
+
+Repression in Tibet: Accept these gifts, or else
+
+Online debate: Suddenly, space for free-thinkers
+
+Chaguan: Working together, but in parallel
+
+America and the Middle East: New sheriff in town
+
+Libya: Fourth time lucky
+
+The Horn of Africa: Adding to the chaos
+
+Congolese politics: The president pounces
+
+Kenya’s rose-tinted spectacle: Flower power
+
+Education and covid-19: A tale of two colleges
+
+France: The president’s dilemma
+
+Turkey: Lesbian, gay, bi and terrorist?
+
+Pets and covid-19: Canine crushes
+
+Italian politics: No time for foot-Draghing
+
+Charlemagne: They told you so
+
+National Health Service: Hands on
+
+Rule-breaking: Going underground
+
+Sino-British relations: No longer glistening
+
+Exporting vaccine: Good global citizens
+
+Business and the economy: A firm footing
+
+Travel restrictions: Grounded
+
+Internal borders: No place like home
+
+Bagehot: The price of acceptance
+
+Freedom of speech: Inconvenient truths
+
+The future of travel: The age of the wheelie-bag
+
+The airline industry: No heads in the clouds
+
+The environmental damage: Emission days
+
+Business travel: Video-conferencing rules
+
+Corporate jets: High flyers
+
+Testing and vaccines: Well travelled
+
+Tourism: The holiday only just began
+
+The future: Faster, higher, longer
+
+Sources and acknowledgments
+
+Corporate earnings: Harbingers of boom
+
+Unions v big tech: Labour coders
+
+Privatisations in India: Flogging the family lead
+
+Anglo-German business ties: From bad to wurst
+
+Bartleby: Diary of a plague year
+
+Schumpeter: Alpha pipers
+
+Emerging economies: Some pleasant fiscal arithmetic
+
+Commodities: Twin peaks
+
+Picking up pace: Inflation will rise in the coming months
+
+Bank bosses: Fresh blood
+
+Buttonwood: Crossbar challenge
+
+Trade policy in America: Rinse and repeat
+
+Free exchange: Targeting practice
+
+The American Association for the Advancement of Science: Both ends against the middle
+
+Oncology: Precisely!
+
+Sustainable construction: Urban growth
+
+Silicon chats: Conversational computers have come a long way
+
+Scientists and aliens: Black-sky thinking
+
+Robert Maxwell: A made-up life
+
+Caste and gender in India: Death traps
+
+Johnson: At a loss for words
+
+Covid-19 vaccines: Jabs and jab-nots
+
+Paul Crutzen: Seer of the Anthropocene
+
+Economic data, commodities and markets
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-02-12T01:09:05.858065+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
