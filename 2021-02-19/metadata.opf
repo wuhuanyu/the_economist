@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62fb0084-0bae-4f85-8d17-9af002b4a4ac</dc:identifier>
+        <dc:title>The Economist</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-19T00:57:08.402108+00:00</dc:date>
+        <dc:description>本期文章:
+
+Politics this week
+
+Business this week
+
+KAL’s cartoon
+
+Decarbonising America: America’s better future
+
+Italy: Another chance
+
+Capital-raising on Wall Street: Spactacular
+
+India’s jobs market: Many hands, light work
+
+Fighting jihadists: Macron’s African mission
+
+On nuclear weapons, J.B. Priestley, China, covid-19, protests, Moore’s law, sheds: Letters to the editor
+
+Decarbonising America: The switch
+
+A perfect storm: Light a candle for the kids
+
+Impeachment: Marred but at largio
+
+Talk radio: Tower of babble
+
+Andrew Cuomo and the pandemic: Under pressure
+
+Baltimore’s homes: Rescued charm
+
+The ideas of the far right: Deadly inspirations
+
+Lexington: John Kerry, eco-warrior
+
+Mexico’s president: The transformer
+
+Women in Mexico: Tampon tempest
+
+Bello: A case of mistaken identity
+
+India’s labour market: 200m jobs short
+
+New Caledonia: Les Kanaks en marche
+
+Lockdown in the Philippines: Suffer the little children
+
+The coup in Myanmar: General strike
+
+Banyan: The swing to the sultans
+
+The vaccine roll-out: Sinovacillate
+
+Pirated films: Winter is coming
+
+Chaguan: How to kill a democracy
+
+France’s forever war: Which way out?
+
+The International Criminal Court: The case against the prosecutor
+
+Tree trade: Coconut shy
+
+Angola’s economy: Oil, toil and spoils
+
+Iranian politics: The agitator
+
+The United Arab Emirates: Hope and despair
+
+Italy and Europe: Whatever it takes
+
+Catalonia votes: Variations on a nationalist theme
+
+France: Protection plates
+
+Russia’s propaganda war: Sympathy for the devil
+
+Charlemagne: Dirty politics
+
+Cutting carbon: Big on clean energy
+
+Solar power: Here comes the sun
+
+The politics of culture: Bonfire of the insanities
+
+Growing cannabis: Pot luck
+
+Covid-19: Here we go
+
+Financial technology: Silicon wallet
+
+Bagehot: Starmer stuck
+
+Jobs at The Economist: We’re hiring
+
+Touch and covid-19: You’ve lost that lovin’ feeling
+
+Mobility in China: Trafficking dreams
+
+Intel: Hard reboot
+
+The record industry: Musical shares
+
+Carmaking: ICEy conditions ahead
+
+Glencore: Pit stop
+
+Danone: Culture wars
+
+Online shopping: South Korea’s baby Amazon
+
+Bartleby: Back for good, or bad
+
+Schumpeter: Red in tooth and clawback
+
+Capital markets: SPAC invasion
+
+SPACs in Silicon Valley: Rain for the rainmakers
+
+Great expectations: Economic forecasters are pencilling in heady growth rates
+
+Stock exchanges: Advantage Amsterdam
+
+Digital currencies: Token gestures
+
+Trade: In search of a cure
+
+Buttonwood: Jumping ship
+
+Free exchange: Radiant energy
+
+Gender medicine: Arrested development
+
+Palaeontology: Very, very long in the tooth
+
+Electric sailing: Of batteries and boats
+
+Sleep research: The interpretation of dreams
+
+Tackling climate change: The race to zero
+
+Britain’s past and present: The sun never sets
+
+Foreigners in Berlin: Unreal city
+
+British fiction: Still lives
+
+Korean listening habits: Exit music
+
+Economic data, commodities and markets
+
+Monarchy and genetics: The reign in Spain
+
+Chick Corea: Music without limits
+
+Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-02-19T00:57:27.151042+00:00"/>
+        <meta name="calibre:title_sort" content="Economist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
